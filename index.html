@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TCS Ad Creation Pipeline</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="titleblock">
+    <h1>TCS Ad Creation Pipeline</h1>
+    <div class="sub">Video-ad production timeline &middot; synced from Notion</div>
+  </div>
+  <div class="synced" id="synced-stamp">Last synced &hellip;</div>
+</header>
+
+<nav class="tabs" role="tablist">
+  <button class="tab-btn" data-tab="timeline" role="tab" aria-selected="true">Timeline</button>
+  <button class="tab-btn" data-tab="board" role="tab" aria-selected="false">Stage Board</button>
+</nav>
+
+<div class="filterbar" id="filterbar">
+  <div class="filter-group" id="filter-group"></div>
+  <div class="toggle-group" id="toggle-group"></div>
+  <input type="search" id="search-box" class="search-box" placeholder="Search video name&hellip;">
+  <button class="clear-btn" id="clear-filters" type="button">Clear filters</button>
+</div>
+
+<div class="legend" id="legend">
+  <span><span class="dot" style="background:var(--script)"></span>Script</span>
+  <span><span class="dot" style="background:var(--prod)"></span>Production</span>
+  <span><span class="dot" style="background:var(--review)"></span>Review / QA</span>
+  <span><span class="dot" style="background:var(--bp)"></span>At Broughton</span>
+  <span><span class="dot" style="background:var(--done)"></span>Done</span>
+  <span><span class="dot" style="background:transparent;outline:2px solid var(--overdue)"></span>Overdue</span>
+  <span><span class="dot" style="background:transparent;outline:2px dashed var(--stuck)"></span>Stuck</span>
+</div>
+
+<main id="app-root">
+  <div id="status-line" class="status-line"></div>
+
+  <section id="timeline-view" class="view">
+    <div class="gantt-wrap">
+      <div class="gantt" id="gantt"></div>
+    </div>
+  </section>
+
+  <section id="board-view" class="view" hidden>
+    <div class="board" id="board"></div>
+  </section>
+</main>
+
+<div id="tooltip" class="tooltip" hidden></div>
+
+<footer class="foot">
+  <span id="task-count"></span>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

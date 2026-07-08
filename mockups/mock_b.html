@@ -1,0 +1,65 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+:root{--bg:#f6f8fa;--card:#fff;--line:#d0d7de;--txt:#24292f;--dim:#57606a;
+--script:#8250df;--prod:#0969da;--review:#bf8700;--bp:#1a7f37;--overdue:#cf222e;--stuck:#bc4c00}
+body{font-family:-apple-system,'Segoe UI',sans-serif;background:var(--bg);color:var(--txt);margin:0;padding:20px}
+h1{font-size:18px;margin:0 0 2px}.sub{color:var(--dim);font-size:12px;margin-bottom:14px}
+.filters{display:flex;gap:8px;margin-bottom:16px;flex-wrap:wrap}
+.chip{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:5px 12px;font-size:12px;color:var(--dim)}
+.chip.on{background:#ddf4ff;border-color:#54aeff;color:#0969da}
+.board{display:grid;grid-template-columns:repeat(5,1fr);gap:12px}
+.col{background:var(--card);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.colhd{padding:10px 12px;font-size:12px;font-weight:700;border-bottom:2px solid;display:flex;justify-content:space-between}
+.c1 .colhd{border-color:var(--script);color:var(--script)}
+.c2 .colhd{border-color:var(--prod);color:var(--prod)}
+.c3 .colhd{border-color:var(--review);color:var(--review)}
+.c4 .colhd{border-color:var(--bp);color:var(--bp)}
+.c5 .colhd{border-color:#57606a;color:#57606a}
+.cnt{background:#eef1f4;border-radius:10px;padding:0 8px;font-size:11px;color:var(--dim)}
+.cardi{margin:8px;border:1px solid var(--line);border-radius:8px;padding:8px 10px;font-size:12px;background:#fff}
+.cardi .t{font-weight:600}
+.cardi .m{color:var(--dim);font-size:10.5px;margin-top:2px}
+.age{float:right;font-size:10px;color:var(--dim)}
+.od{border-left:4px solid var(--overdue)}
+.od .age{color:var(--overdue);font-weight:700}
+.stk{background:#fff8f0;border-left:4px solid var(--stuck)}
+.stk .age{color:var(--stuck);font-weight:700}
+.tag{font-size:9px;padding:1px 6px;border-radius:8px;background:#eef1f4;color:#57606a}
+.aging{height:4px;background:#eef1f4;border-radius:2px;margin-top:6px}
+.aging div{height:100%;border-radius:2px}
+</style></head><body>
+<h1>Ad Creation Pipeline — Variant B: Stage Board + Aging</h1>
+<div class="sub">Kanban by pipeline stage · card age bar shows time-in-stage vs. norm · overdue/stuck surfaced to top of each column</div>
+<div class="filters">
+<span class="chip on">Tort: All ▾</span><span class="chip on">Marketer: All ▾</span><span class="chip">Channel ▾</span><span class="chip">Editor ▾</span><span class="chip on">Sort: longest in stage</span>
+</div>
+<div class="board">
+<div class="col c1"><div class="colhd">📝 SCRIPT <span class="cnt">4</span></div>
+<div class="cardi"><span class="age">1d</span><div class="t">CHLOR 21-23 (Cha)</div><div class="m">Charlie · unassigned <span class="tag">CHLOR</span></div><div class="aging"><div style="width:20%;background:var(--script)"></div></div></div>
+<div class="cardi"><span class="age">0d</span><div class="t">YT SIL 15 (Mo)</div><div class="m">Morane · Shahid <span class="tag">SIL</span> <span class="tag">YT</span></div><div class="aging"><div style="width:10%;background:var(--script)"></div></div></div>
+<div class="cardi"><span class="age">2d</span><div class="t">HM 37 POV (Jor)</div><div class="m">Jordan · Zainab <span class="tag">HM</span></div><div class="aging"><div style="width:55%;background:var(--script)"></div></div></div>
+<div class="cardi od"><span class="age">4d ⚠</span><div class="t">RS 3-5 (Cha)</div><div class="m">Charlie · unassigned <span class="tag">RS</span> · due Jul 5</div><div class="aging"><div style="width:100%;background:var(--overdue)"></div></div></div>
+</div>
+<div class="col c2"><div class="colhd">🎬 PRODUCTION <span class="cnt">5</span></div>
+<div class="cardi stk"><span class="age">6d 🟠</span><div class="t">TP 9-11 (Cha)</div><div class="m">Charlie · Aarij <span class="tag">TP</span> · due Jul 3</div><div class="aging"><div style="width:100%;background:var(--stuck)"></div></div></div>
+<div class="cardi od"><span class="age">2d</span><div class="t">CHLOR 18-20 (Cha)</div><div class="m">Charlie · Shahid <span class="tag">CHLOR</span> · due Jul 8</div><div class="aging"><div style="width:50%;background:var(--prod)"></div></div></div>
+<div class="cardi"><span class="age">1d</span><div class="t">ILM 83-87 (Mo)</div><div class="m">Morane · Ahmed <span class="tag">ILM</span></div><div class="aging"><div style="width:30%;background:var(--prod)"></div></div></div>
+<div class="cardi"><span class="age">1d</span><div class="t">DEPO 45 UGC (Jor)</div><div class="m">Jordan · Aljay <span class="tag">DEPO</span></div><div class="aging"><div style="width:30%;background:var(--prod)"></div></div></div>
+<div class="cardi"><span class="age">0d</span><div class="t">HM 38 HIW v3 (Mo)</div><div class="m">Morane · Abu <span class="tag">HM</span></div><div class="aging"><div style="width:10%;background:var(--prod)"></div></div></div>
+</div>
+<div class="col c3"><div class="colhd">🔍 REVIEW / QA <span class="cnt">3</span></div>
+<div class="cardi stk"><span class="age">5d 🟠</span><div class="t">HM 36 Betrayal v2 (Mo)</div><div class="m">Morane · Abu <span class="tag">HM</span> · awaiting QA owner</div><div class="aging"><div style="width:100%;background:var(--stuck)"></div></div></div>
+<div class="cardi"><span class="age">1d</span><div class="t">SMA YT 22 (Mo)</div><div class="m">Morane · Vinay <span class="tag">SMA</span> <span class="tag">YT</span></div><div class="aging"><div style="width:35%;background:var(--review)"></div></div></div>
+<div class="cardi"><span class="age">1d</span><div class="t">PP 12 (Jor)</div><div class="m">Jordan · Tanvir <span class="tag">PP</span></div><div class="aging"><div style="width:35%;background:var(--review)"></div></div></div>
+</div>
+<div class="col c4"><div class="colhd">📤 AT BROUGHTON <span class="cnt">2</span></div>
+<div class="cardi"><span class="age">1d</span><div class="t">CHLOR (1-4) (Mo)</div><div class="m">Morane · submitted Jul 6 <span class="tag">CHLOR</span></div><div class="aging"><div style="width:30%;background:var(--bp)"></div></div></div>
+<div class="cardi stk"><span class="age">7d 🟠</span><div class="t">END 8-9 (Cha)</div><div class="m">Charlie · submitted Jun 30 · no response <span class="tag">END</span></div><div class="aging"><div style="width:100%;background:var(--stuck)"></div></div></div>
+</div>
+<div class="col c5"><div class="colhd">✅ DONE / LIVE <span class="cnt">12 this wk</span></div>
+<div class="cardi"><span class="age">Jul 6</span><div class="t">DEPO 41-44 (Jor)</div><div class="m">approved · uploaded <span class="tag">DEPO</span></div></div>
+<div class="cardi"><span class="age">Jul 5</span><div class="t">ILM 80-82 (Mo)</div><div class="m">approved · scheduled <span class="tag">ILM</span></div></div>
+<div class="cardi"><span class="age">Jul 3</span><div class="t">HM 35 (Cha)</div><div class="m">approved · live <span class="tag">HM</span></div></div>
+</div>
+</div>
+<div style="color:var(--dim);font-size:11px;margin-top:10px">Aging bar fills toward stage SLA (Script 3d · Prod 4d · Review 2d · BP 5d) — full bar = at/over SLA. Click card → Notion.</div>
+</body></html>

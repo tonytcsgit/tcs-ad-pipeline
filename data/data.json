@@ -1,0 +1,2565 @@
+{
+ "synced_at": "2026-07-07T21:07:58.612213Z",
+ "tasks": [
+  {
+   "id": "396f714b-032a-80f1-b232-d0ba34e9455c",
+   "url": "https://app.notion.com/p/HM-15-IT-Cha-396f714b032a80f1b232d0ba34e9455c",
+   "name": "HM 15-IT (Cha)",
+   "marketer": "Charlie",
+   "tags": [
+    "HM"
+   ],
+   "channel": "META",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Start production",
+   "stage": "script",
+   "script_start": "2026-07-07",
+   "prod_started": null,
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": "2026-07-09",
+   "updated_at": "2026-07-07T14:48:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "396f714b-032a-8010-b933-fb1c4dbed591",
+   "url": "https://app.notion.com/p/SIL-YT-18-cha-396f714b032a8010b933fb1c4dbed591",
+   "name": "SIL YT (18) (cha)",
+   "marketer": "Charlie",
+   "tags": [
+    "SIL"
+   ],
+   "channel": "\u25b6\ufe0f YT",
+   "editors": [
+    "Ahmed & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Start production",
+   "stage": "script",
+   "script_start": "2026-07-07",
+   "prod_started": null,
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": "2026-07-08",
+   "updated_at": "2026-07-07T14:08:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "396f714b-032a-801f-bf1e-e00b8e23aa1d",
+   "url": "https://app.notion.com/p/YT-SIL-15-Mo-396f714b032a801fbf1ee00b8e23aa1d",
+   "name": "YT SIL 15 (Mo)",
+   "marketer": "Morane",
+   "tags": [
+    "SIL"
+   ],
+   "channel": "\u25b6\ufe0f YT",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Start production",
+   "stage": "script",
+   "script_start": "2026-07-07",
+   "prod_started": null,
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": "2026-07-07",
+   "updated_at": "2026-07-07T12:31:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "395f714b-032a-8085-b68b-f7b7847f019d",
+   "url": "https://app.notion.com/p/CHLOR-1-4-Mo-395f714b032a8085b68bf7b7847f019d",
+   "name": "CHLOR (1-4) (Mo)",
+   "marketer": "Morane",
+   "tags": [
+    "CHLOR"
+   ],
+   "channel": "META",
+   "editors": [
+    "Iqbal & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Revisions in progress",
+   "stage": "other",
+   "script_start": "2026-07-06",
+   "prod_started": null,
+   "prod_end": "2026-07-07",
+   "bp_submitted": "2026-07-06",
+   "due_date": "2026-07-02",
+   "updated_at": "2026-07-07T15:39:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "395f714b-032a-8048-b88a-d165cb194ff6",
+   "url": "https://app.notion.com/p/CHLOR-21-23-Cha-395f714b032a8048b88ad165cb194ff6",
+   "name": "CHLOR 21-23 (Cha)",
+   "marketer": "Charlie",
+   "tags": [
+    "CHLOR"
+   ],
+   "channel": "META",
+   "editors": [],
+   "priority": null,
+   "buyer": [
+    "BP"
+   ],
+   "status": "Script in progress",
+   "stage": "script",
+   "script_start": "2026-07-06",
+   "prod_started": null,
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": null,
+   "updated_at": "2026-07-06T15:23:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "395f714b-032a-803b-b4d8-c7fd317fb2e3",
+   "url": "https://app.notion.com/p/CHLOR-18-20-Cha-395f714b032a803bb4d8c7fd317fb2e3",
+   "name": "CHLOR 18-20 (Cha)",
+   "marketer": "Charlie",
+   "tags": [
+    "CHLOR"
+   ],
+   "channel": "META",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "Medium",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Working on it",
+   "stage": "production",
+   "script_start": "2026-07-06",
+   "prod_started": "2026-07-06",
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": "2026-07-08",
+   "updated_at": "2026-07-06T16:37:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "395f714b-032a-80fb-94cc-eb363f7be39a",
+   "url": "https://app.notion.com/p/ILM-83-87-Mo-395f714b032a80fb94cceb363f7be39a",
+   "name": "ILM 83-87 (Mo)",
+   "marketer": "Morane",
+   "tags": [
+    "ILM"
+   ],
+   "channel": "META",
+   "editors": [
+    "Ahmed & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Working on it",
+   "stage": "production",
+   "script_start": "2026-07-06",
+   "prod_started": "2026-07-07",
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": "2026-07-07",
+   "updated_at": "2026-07-07T13:21:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "395f714b-032a-8128-8399-fa09b4d9e7d1",
+   "url": "https://app.notion.com/p/CHLOR-12-14-Jor-395f714b032a81288399fa09b4d9e7d1",
+   "name": "CHLOR 12-14 (Jor)",
+   "marketer": "Jordan",
+   "tags": [
+    "CHLOR"
+   ],
+   "channel": "META",
+   "editors": [
+    "Jordan & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Working on it",
+   "stage": "production",
+   "script_start": null,
+   "prod_started": "2026-07-06",
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": "2026-07-08",
+   "updated_at": "2026-07-06T13:01:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "395f714b-032a-81b9-b76f-dc2c5f6ecb86",
+   "url": "https://app.notion.com/p/CHLOR-15-17-Jor-395f714b032a81b9b76fdc2c5f6ecb86",
+   "name": "CHLOR 15-17 (Jor)",
+   "marketer": "Jordan",
+   "tags": [
+    "CHLOR"
+   ],
+   "channel": "META",
+   "editors": [
+    "Jordan & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Working on it",
+   "stage": "production",
+   "script_start": null,
+   "prod_started": "2026-07-07",
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": "2026-07-08",
+   "updated_at": "2026-07-06T23:11:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "395f714b-032a-80ae-a46e-ef04f02e5c3e",
+   "url": "https://app.notion.com/p/HM-3-5-395f714b032a80aea46eef04f02e5c3e",
+   "name": "HM 3-5",
+   "marketer": "Morane",
+   "tags": [
+    "HM"
+   ],
+   "channel": null,
+   "editors": [],
+   "priority": "High",
+   "buyer": [],
+   "status": "Upload in progress",
+   "stage": "done",
+   "script_start": "2026-07-06",
+   "prod_started": null,
+   "prod_end": "2026-07-06",
+   "bp_submitted": null,
+   "due_date": "2026-07-06",
+   "updated_at": "2026-07-06T16:28:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "395f714b-032a-8077-b44d-dede0aa76c99",
+   "url": "https://app.notion.com/p/RCL-9-10-Jor-Stinar-395f714b032a8077b44ddede0aa76c99",
+   "name": "RCL 9-10 (Jor) - Stinar",
+   "marketer": "Jordan",
+   "tags": [
+    "RCL"
+   ],
+   "channel": "META",
+   "editors": [
+    "Ahmed & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Stinar Lannen"
+   ],
+   "status": "Revisions in progress",
+   "stage": "other",
+   "script_start": null,
+   "prod_started": "2026-06-26",
+   "prod_end": "2026-07-06",
+   "bp_submitted": null,
+   "due_date": "2026-07-08",
+   "updated_at": "2026-07-06T05:32:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "395f714b-032a-8050-a91c-decd8fa56ef9",
+   "url": "https://app.notion.com/p/RCL-11-12-Jor-Stinar-395f714b032a8050a91cdecd8fa56ef9",
+   "name": "RCL 11-12 (Jor) - Stinar",
+   "marketer": "Jordan",
+   "tags": [
+    "RCL"
+   ],
+   "channel": "META",
+   "editors": [
+    "Ahmed & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Stinar Lannen"
+   ],
+   "status": "Revisions in progress",
+   "stage": "other",
+   "script_start": null,
+   "prod_started": "2026-06-26",
+   "prod_end": "2026-07-06",
+   "bp_submitted": null,
+   "due_date": "2026-07-08",
+   "updated_at": "2026-07-07T04:56:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "395f714b-032a-80d5-a145-c6c0349359fb",
+   "url": "https://app.notion.com/p/RDC-6-8-Jor-Stinar-395f714b032a80d5a145c6c0349359fb",
+   "name": "RDC 6-8 (Jor) - Stinar",
+   "marketer": "Jordan",
+   "tags": [
+    "RDC"
+   ],
+   "channel": "META",
+   "editors": [
+    "Aarij & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Stinar Lannen"
+   ],
+   "status": "Video done / To be reviewed",
+   "stage": "review",
+   "script_start": "2026-06-29",
+   "prod_started": "2026-06-29",
+   "prod_end": "2026-07-07",
+   "bp_submitted": null,
+   "due_date": "2026-07-08",
+   "updated_at": "2026-07-07T07:29:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "395f714b-032a-806e-90e4-ed6665701d1a",
+   "url": "https://app.notion.com/p/RBS-1-3-Jor-Stinar-395f714b032a806e90e4ed6665701d1a",
+   "name": "RBS 1-3 (Jor) - Stinar",
+   "marketer": "Jordan",
+   "tags": [
+    "RBS"
+   ],
+   "channel": "META",
+   "editors": [
+    "Jordan & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Stinar Lannen"
+   ],
+   "status": "Revisions in progress",
+   "stage": "other",
+   "script_start": null,
+   "prod_started": "2026-06-25",
+   "prod_end": "2026-07-06",
+   "bp_submitted": null,
+   "due_date": "2026-07-08",
+   "updated_at": "2026-07-06T05:32:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "394f714b-032a-80f2-bf69-df640dbd30b6",
+   "url": "https://app.notion.com/p/CAW-39-42-Cha-Stinar-394f714b032a80f2bf69df640dbd30b6",
+   "name": "CAW 39-42 (Cha) - Stinar",
+   "marketer": "Charlie",
+   "tags": [
+    "CAW"
+   ],
+   "channel": "META",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Stinar Lannen"
+   ],
+   "status": "Working on it",
+   "stage": "production",
+   "script_start": "2026-07-05",
+   "prod_started": "2026-07-06",
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": "2026-07-06",
+   "updated_at": "2026-07-06T16:37:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "392f714b-032a-80af-8711-e4814094efed",
+   "url": "https://app.notion.com/p/RCL-6-8-Cha-Stinar-392f714b032a80af8711e4814094efed",
+   "name": "RCL 6-8 (Cha) - Stinar",
+   "marketer": "Charlie",
+   "tags": [
+    "RCL"
+   ],
+   "channel": "META",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Stinar Lannen"
+   ],
+   "status": "In review by Stinar",
+   "stage": "other",
+   "script_start": "2026-06-25",
+   "prod_started": "2026-06-26",
+   "prod_end": "2026-07-06",
+   "bp_submitted": null,
+   "due_date": "2026-07-03",
+   "updated_at": "2026-07-06T23:17:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "392f714b-032a-80c2-8a99-ebefdfda41c6",
+   "url": "https://app.notion.com/p/RBS-4-6-Cha-Stinar-392f714b032a80c28a99ebefdfda41c6",
+   "name": "RBS 4-6 (Cha) - Stinar",
+   "marketer": "Charlie",
+   "tags": [
+    "RBS"
+   ],
+   "channel": "META",
+   "editors": [
+    "Charlie Editors"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Stinar Lannen"
+   ],
+   "status": "Working on it",
+   "stage": "production",
+   "script_start": "2026-06-25",
+   "prod_started": "2026-07-07",
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": "2026-06-27",
+   "updated_at": "2026-07-07T09:58:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "392f714b-032a-8025-be0b-d8e27822f004",
+   "url": "https://app.notion.com/p/RDC-9-11-Cha-Stinar-392f714b032a8025be0bd8e27822f004",
+   "name": "RDC 9-11 (Cha) - Stinar",
+   "marketer": "Charlie",
+   "tags": [
+    "RDC"
+   ],
+   "channel": "META",
+   "editors": [
+    "Ahmed & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Stinar Lannen"
+   ],
+   "status": "Video done / To be reviewed",
+   "stage": "review",
+   "script_start": "2026-06-25",
+   "prod_started": "2026-06-28",
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": "2026-07-03",
+   "updated_at": "2026-07-07T14:20:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "392f714b-032a-8014-a9fe-d24598268961",
+   "url": "https://app.notion.com/p/CAW-38-Mo-Stinar-392f714b032a8014a9fed24598268961",
+   "name": "CAW 38 (Mo) - Stinar",
+   "marketer": "Morane",
+   "tags": [
+    "CAW"
+   ],
+   "channel": "META",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Stinar Lannen"
+   ],
+   "status": "Working on it",
+   "stage": "production",
+   "script_start": "2026-07-03",
+   "prod_started": "2026-07-06",
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": "2026-07-04",
+   "updated_at": "2026-07-06T16:37:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "392f714b-032a-80dc-8f26-c0b8a01cf007",
+   "url": "https://app.notion.com/p/CAW-35-37-U-IH-Mo-Stinar-392f714b032a80dc8f26c0b8a01cf007",
+   "name": "CAW 35-37 (U-IH) (Mo) - Stinar",
+   "marketer": "Morane",
+   "tags": [
+    "CAW"
+   ],
+   "channel": "META",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Stinar Lannen"
+   ],
+   "status": "In review by Stinar",
+   "stage": "other",
+   "script_start": "2026-07-03",
+   "prod_started": null,
+   "prod_end": "2026-07-05",
+   "bp_submitted": null,
+   "due_date": "2026-07-04",
+   "updated_at": "2026-07-06T05:24:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "392f714b-032a-8069-ad5a-ec4d3705343e",
+   "url": "https://app.notion.com/p/RCL-1-5-Mo-Stinar-392f714b032a8069ad5aec4d3705343e",
+   "name": "RCL (1-5) (Mo) - Stinar",
+   "marketer": "Morane",
+   "tags": [
+    "RCL"
+   ],
+   "channel": "META",
+   "editors": [
+    "Ahmed & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Stinar Lannen"
+   ],
+   "status": "In review by Stinar",
+   "stage": "other",
+   "script_start": "2026-07-03",
+   "prod_started": null,
+   "prod_end": "2026-07-07",
+   "bp_submitted": null,
+   "due_date": "2026-07-04",
+   "updated_at": "2026-07-06T23:12:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "392f714b-032a-80ab-826d-d2748e3b47c4",
+   "url": "https://app.notion.com/p/RBS-7-11-Mo-Stinar-392f714b032a80ab826dd2748e3b47c4",
+   "name": "RBS (7-11) (Mo) - Stinar",
+   "marketer": "Morane",
+   "tags": [
+    "RBS"
+   ],
+   "channel": "META",
+   "editors": [
+    "Ahmed & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Stinar Lannen"
+   ],
+   "status": "In review by Stinar",
+   "stage": "other",
+   "script_start": "2026-07-03",
+   "prod_started": null,
+   "prod_end": "2026-07-07",
+   "bp_submitted": null,
+   "due_date": "2026-07-04",
+   "updated_at": "2026-07-06T23:12:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "392f714b-032a-800d-ad33-d9592f135721",
+   "url": "https://app.notion.com/p/RDC-1-5-Mo-Stinar-392f714b032a800dad33d9592f135721",
+   "name": "RDC (1-5) (Mo) - Stinar",
+   "marketer": "Morane",
+   "tags": [
+    "RDC"
+   ],
+   "channel": "META",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Stinar Lannen"
+   ],
+   "status": "In review by Stinar",
+   "stage": "other",
+   "script_start": "2026-07-03",
+   "prod_started": null,
+   "prod_end": "2026-07-07",
+   "bp_submitted": null,
+   "due_date": "2026-07-03",
+   "updated_at": "2026-07-06T23:15:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "391f714b-032a-81f7-b523-f901c37ab529",
+   "url": "https://app.notion.com/p/ILM-80-82-Jor-391f714b032a81f7b523f901c37ab529",
+   "name": "ILM 80-82 (Jor)",
+   "marketer": "Jordan",
+   "tags": [
+    "ILM"
+   ],
+   "channel": "META",
+   "editors": [
+    "Jordan & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Revisions in progress",
+   "stage": "other",
+   "script_start": null,
+   "prod_started": "2026-07-03",
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": "2026-07-04",
+   "updated_at": "2026-07-07T05:59:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "390f714b-032a-80d3-9346-cb2d750f0bf4",
+   "url": "https://app.notion.com/p/MVA-6-8-Mo-390f714b032a80d39346cb2d750f0bf4",
+   "name": "MVA 6-8 (Mo)",
+   "marketer": "Morane",
+   "tags": [
+    "MVA"
+   ],
+   "channel": "META",
+   "editors": [
+    "Ahmed & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "The Advocates"
+   ],
+   "status": "Working on it",
+   "stage": "production",
+   "script_start": "2026-07-01",
+   "prod_started": "2026-07-04",
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": "2026-07-03",
+   "updated_at": "2026-07-04T05:45:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "390f714b-032a-807f-9023-c594da81ec46",
+   "url": "https://app.notion.com/p/CHLOR-5-11-Mo-390f714b032a807f9023c594da81ec46",
+   "name": "CHLOR (5-11) (Mo) ",
+   "marketer": "Morane",
+   "tags": [
+    "CHLOR"
+   ],
+   "channel": "META",
+   "editors": [
+    "Abu & team"
+   ],
+   "priority": "Medium",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Working on it",
+   "stage": "production",
+   "script_start": "2026-07-01",
+   "prod_started": "2026-07-06",
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": "2026-07-03",
+   "updated_at": "2026-07-06T20:23:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "390f714b-032a-80ae-baac-f254f3c2e367",
+   "url": "https://app.notion.com/p/SIL-15-17-cha-390f714b032a80aebaacf254f3c2e367",
+   "name": "SIL (15-17) (cha)",
+   "marketer": "Charlie",
+   "tags": [
+    "SIL"
+   ],
+   "channel": "META",
+   "editors": [
+    "Ahmed & Team"
+   ],
+   "priority": "Medium",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Working on it",
+   "stage": "production",
+   "script_start": "2026-07-01",
+   "prod_started": "2026-07-06",
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": "2026-07-03",
+   "updated_at": "2026-07-06T03:43:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "390f714b-032a-8168-b83e-fd415d39385e",
+   "url": "https://app.notion.com/p/SIL-13-14-Jor-390f714b032a8168b83efd415d39385e",
+   "name": "SIL 13-14 (Jor)",
+   "marketer": "Jordan",
+   "tags": [
+    "SIL"
+   ],
+   "channel": "META",
+   "editors": [
+    "Jordan & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Upload in progress",
+   "stage": "done",
+   "script_start": null,
+   "prod_started": "2026-07-02",
+   "prod_end": "2026-07-03",
+   "bp_submitted": "2026-07-06",
+   "due_date": "2026-07-07",
+   "updated_at": "2026-07-07T18:18:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "390f714b-032a-81b7-a105-ccb678427615",
+   "url": "https://app.notion.com/p/SIL-11-12-Jor-390f714b032a81b7a105ccb678427615",
+   "name": "SIL 11-12 (Jor)",
+   "marketer": "Jordan",
+   "tags": [
+    "SIL"
+   ],
+   "channel": "META",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Video done / To be reviewed",
+   "stage": "review",
+   "script_start": null,
+   "prod_started": "2026-07-03",
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": "2026-07-03",
+   "updated_at": "2026-07-07T18:57:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "390f714b-032a-8156-8eae-eb75ee699410",
+   "url": "https://app.notion.com/p/MVA-4-5-Jor-390f714b032a81568eaeeb75ee699410",
+   "name": "MVA 4-5 (Jor)",
+   "marketer": "Jordan",
+   "tags": [
+    "MVA"
+   ],
+   "channel": "META",
+   "editors": [
+    "Jordan & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "The Advocates"
+   ],
+   "status": "Revisions in progress",
+   "stage": "other",
+   "script_start": null,
+   "prod_started": "2026-07-02",
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": "2026-07-06",
+   "updated_at": "2026-07-07T04:55:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "38ff714b-032a-805e-9f25-ef0b05b391ec",
+   "url": "https://app.notion.com/p/END-19-IT1-3-Mo-38ff714b032a805e9f25ef0b05b391ec",
+   "name": "END (19 + IT1-3) (Mo)  ",
+   "marketer": "Morane",
+   "tags": [
+    "END"
+   ],
+   "channel": "META",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Working on it",
+   "stage": "production",
+   "script_start": "2026-06-30",
+   "prod_started": "2026-07-03",
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": "2026-07-03",
+   "updated_at": "2026-07-03T07:43:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "38ff714b-032a-8011-a4dd-f263df4652f9",
+   "url": "https://app.notion.com/p/ILM-20-IT-64-IT-Cha-38ff714b032a8011a4ddf263df4652f9",
+   "name": "ILM (20-IT, 64-IT) (Cha) ",
+   "marketer": "Charlie",
+   "tags": [
+    "ILM"
+   ],
+   "channel": "META",
+   "editors": [
+    "Aarij & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Video done / To be reviewed",
+   "stage": "review",
+   "script_start": "2026-06-30",
+   "prod_started": "2026-07-01",
+   "prod_end": "2026-07-03",
+   "bp_submitted": null,
+   "due_date": "2026-07-03",
+   "updated_at": "2026-07-06T18:34:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "38ff714b-032a-80ab-91e1-eaeee395c69a",
+   "url": "https://app.notion.com/p/MVA-3-Cha-38ff714b032a80ab91e1eaeee395c69a",
+   "name": "MVA 3 (Cha)",
+   "marketer": "Charlie",
+   "tags": [
+    "MVA"
+   ],
+   "channel": "META",
+   "editors": [
+    "Ahmed & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "The Advocates"
+   ],
+   "status": "Uploaded",
+   "stage": "done",
+   "script_start": "2026-06-30",
+   "prod_started": null,
+   "prod_end": "2026-07-05",
+   "bp_submitted": null,
+   "due_date": "2026-07-02",
+   "updated_at": "2026-07-06T06:09:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "38ff714b-032a-8099-b698-eba84c8e5a4b",
+   "url": "https://app.notion.com/p/SIL-7-10-Spa-Mo-38ff714b032a8099b698eba84c8e5a4b",
+   "name": "SIL (7-10) (Spa) (Mo) ",
+   "marketer": "Morane",
+   "tags": [
+    "SIL"
+   ],
+   "channel": "META",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "Medium",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Video done / To be reviewed",
+   "stage": "review",
+   "script_start": "2026-06-30",
+   "prod_started": "2026-07-03",
+   "prod_end": null,
+   "bp_submitted": "2026-07-05",
+   "due_date": "2026-07-02",
+   "updated_at": "2026-07-07T18:57:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "38ff714b-032a-808c-8e40-ebf637eb528e",
+   "url": "https://app.notion.com/p/SIL-7-10-Mo-38ff714b032a808c8e40ebf637eb528e",
+   "name": "SIL (7-10) (Mo)",
+   "marketer": "Morane",
+   "tags": [
+    "SIL"
+   ],
+   "channel": "META",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "Medium",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Video done / To be reviewed",
+   "stage": "review",
+   "script_start": "2026-06-30",
+   "prod_started": "2026-07-02",
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": "2026-07-02",
+   "updated_at": "2026-07-07T18:57:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "38ff714b-032a-8117-abfb-f8d8168ecd84",
+   "url": "https://app.notion.com/p/ILM-77-79-Jor-38ff714b032a8117abfbf8d8168ecd84",
+   "name": "ILM 77-79 (Jor)",
+   "marketer": "Jordan",
+   "tags": [
+    "ILM"
+   ],
+   "channel": "META",
+   "editors": [
+    "Jordan & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Revisions in progress",
+   "stage": "other",
+   "script_start": null,
+   "prod_started": "2026-07-01",
+   "prod_end": "2026-07-07",
+   "bp_submitted": null,
+   "due_date": "2026-07-02",
+   "updated_at": "2026-07-07T05:34:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "38ff714b-032a-803f-8935-e3820c5f6c25",
+   "url": "https://app.notion.com/p/DEPO-IT2-38-Cha-38ff714b032a803f8935e3820c5f6c25",
+   "name": "DEPO (IT2-38) (Cha)",
+   "marketer": "Charlie",
+   "tags": [
+    "DEPO"
+   ],
+   "channel": "META",
+   "editors": [
+    "Aarij & Team"
+   ],
+   "priority": "Medium",
+   "buyer": [
+    "LCA"
+   ],
+   "status": "Video done / To be reviewed",
+   "stage": "review",
+   "script_start": "2026-06-30",
+   "prod_started": "2026-07-01",
+   "prod_end": "2026-07-06",
+   "bp_submitted": null,
+   "due_date": "2026-07-02",
+   "updated_at": "2026-07-06T18:31:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "38ef714b-032a-80c1-8543-d93361c65067",
+   "url": "https://app.notion.com/p/SIL-4-6-Spa-Mo-38ef714b032a80c18543d93361c65067",
+   "name": "SIL (4-6) (Spa) (Mo)",
+   "marketer": "Morane",
+   "tags": [
+    "SIL"
+   ],
+   "channel": "META",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "Medium",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Video done / To be reviewed",
+   "stage": "review",
+   "script_start": "2026-06-29",
+   "prod_started": "2026-07-01",
+   "prod_end": null,
+   "bp_submitted": "2026-07-05",
+   "due_date": "2026-07-01",
+   "updated_at": "2026-07-07T18:57:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "38ef714b-032a-80ba-a074-f45ee64f5fb8",
+   "url": "https://app.notion.com/p/SIL-4-6-Mo-38ef714b032a80baa074f45ee64f5fb8",
+   "name": "SIL (4-6) (Mo)",
+   "marketer": "Morane",
+   "tags": [
+    "SIL"
+   ],
+   "channel": "META",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "Medium",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Upload in progress",
+   "stage": "done",
+   "script_start": "2026-06-29",
+   "prod_started": "2026-07-01",
+   "prod_end": "2026-07-06",
+   "bp_submitted": "2026-07-05",
+   "due_date": "2026-07-01",
+   "updated_at": "2026-07-07T17:30:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "38ef714b-032a-8099-b1cf-e0ee0f8fc6e6",
+   "url": "https://app.notion.com/p/CAW-IT-36-38-Mo-38ef714b032a8099b1cfe0ee0f8fc6e6",
+   "name": "CAW (IT-36-38) (Mo)",
+   "marketer": "Morane",
+   "tags": [
+    "CAW"
+   ],
+   "channel": "META",
+   "editors": [
+    "Ahmed & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Pulaski"
+   ],
+   "status": "Upload in progress",
+   "stage": "done",
+   "script_start": "2026-06-29",
+   "prod_started": "2026-07-01",
+   "prod_end": "2026-07-06",
+   "bp_submitted": null,
+   "due_date": "2026-07-08",
+   "updated_at": "2026-07-06T13:17:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "38ef714b-032a-8091-bee4-c7f46bb8a93b",
+   "url": "https://app.notion.com/p/CAW-IT-4-6-Mo-38ef714b032a8091bee4c7f46bb8a93b",
+   "name": "CAW (IT-4-6) (Mo)",
+   "marketer": "Morane",
+   "tags": [
+    "CAW"
+   ],
+   "channel": "META",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Pulaski"
+   ],
+   "status": "Upload in progress",
+   "stage": "done",
+   "script_start": "2026-06-29",
+   "prod_started": "2026-06-30",
+   "prod_end": "2026-07-01",
+   "bp_submitted": null,
+   "due_date": "2026-07-06",
+   "updated_at": "2026-07-07T05:53:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "38ef714b-032a-8070-8800-d23bb405ccf7",
+   "url": "https://app.notion.com/p/ILM-74-76-Cha-38ef714b032a80708800d23bb405ccf7",
+   "name": "ILM 74-76 (Cha)",
+   "marketer": "Charlie",
+   "tags": [
+    "ILM"
+   ],
+   "channel": "META",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Upload in progress",
+   "stage": "done",
+   "script_start": "2026-06-29",
+   "prod_started": "2026-06-30",
+   "prod_end": "2026-07-02",
+   "bp_submitted": "2026-07-02",
+   "due_date": "2026-07-01",
+   "updated_at": "2026-07-07T16:00:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "38df714b-032a-80d5-9a1b-c9c298d0234a",
+   "url": "https://app.notion.com/p/CAW-79-85-Mo-38df714b032a80d59a1bc9c298d0234a",
+   "name": "CAW (79-85) (Mo)",
+   "marketer": "Morane",
+   "tags": [
+    "CAW"
+   ],
+   "channel": "META",
+   "editors": [
+    "Ahmed & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Pulaski"
+   ],
+   "status": "Upload in progress",
+   "stage": "done",
+   "script_start": "2026-06-28",
+   "prod_started": "2026-07-01",
+   "prod_end": "2026-07-05",
+   "bp_submitted": null,
+   "due_date": "2026-07-08",
+   "updated_at": "2026-07-06T16:14:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "38df714b-032a-8036-8d92-e164aca37dff",
+   "url": "https://app.notion.com/p/RBS-12-15-Mo-38df714b032a80368d92e164aca37dff",
+   "name": "RBS (12-15) (Mo)",
+   "marketer": "Morane",
+   "tags": [
+    "RBS"
+   ],
+   "channel": "META",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Pulaski"
+   ],
+   "status": "Uploaded",
+   "stage": "done",
+   "script_start": "2026-06-28",
+   "prod_started": "2026-06-28",
+   "prod_end": "2026-06-30",
+   "bp_submitted": null,
+   "due_date": "2026-07-03",
+   "updated_at": "2026-07-02T04:01:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "38df714b-032a-808c-940c-f42f03b57499",
+   "url": "https://app.notion.com/p/RBS-7-11-Mo-38df714b032a808c940cf42f03b57499",
+   "name": "RBS (7-11) (Mo) ",
+   "marketer": "Morane",
+   "tags": [
+    "RBS"
+   ],
+   "channel": "META",
+   "editors": [
+    "Ahmed & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Pulaski"
+   ],
+   "status": "Uploaded",
+   "stage": "done",
+   "script_start": "2026-06-28",
+   "prod_started": null,
+   "prod_end": "2026-06-29",
+   "bp_submitted": null,
+   "due_date": "2026-07-02",
+   "updated_at": "2026-07-02T04:01:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "38bf714b-032a-8029-84db-c7a4d68c2292",
+   "url": "https://app.notion.com/p/MVA-1-2-Cha-38bf714b032a802984dbc7a4d68c2292",
+   "name": "MVA 1-2 (Cha)",
+   "marketer": "Charlie",
+   "tags": [
+    "MVA"
+   ],
+   "channel": "META",
+   "editors": [
+    "Charlie Editors"
+   ],
+   "priority": "High",
+   "buyer": [
+    "The Advocates"
+   ],
+   "status": "Upload in progress",
+   "stage": "done",
+   "script_start": "2026-06-26",
+   "prod_started": "2026-06-27",
+   "prod_end": "2026-07-05",
+   "bp_submitted": null,
+   "due_date": "2026-07-08",
+   "updated_at": "2026-07-07T15:22:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "38bf714b-032a-80fa-a588-d793d41f4232",
+   "url": "https://app.notion.com/p/RCL-11-12-Jor-38bf714b032a80faa588d793d41f4232",
+   "name": "RCL 11-12 (Jor)",
+   "marketer": "Jordan",
+   "tags": [
+    "RCL"
+   ],
+   "channel": "META",
+   "editors": [
+    "Ahmed & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Pulaski"
+   ],
+   "status": "To be uploaded",
+   "stage": "done",
+   "script_start": null,
+   "prod_started": "2026-06-26",
+   "prod_end": "2026-06-30",
+   "bp_submitted": null,
+   "due_date": "2026-07-03",
+   "updated_at": "2026-07-07T04:58:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "38af714b-032a-808c-a2a3-f54e92ce3888",
+   "url": "https://app.notion.com/p/HM-43-45-Mo-38af714b032a808ca2a3f54e92ce3888",
+   "name": "HM (43-45) (Mo)",
+   "marketer": "Morane",
+   "tags": [
+    "HM"
+   ],
+   "channel": "META",
+   "editors": [
+    "Aarij & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Upload in progress",
+   "stage": "done",
+   "script_start": "2026-06-29",
+   "prod_started": "2026-06-26",
+   "prod_end": "2026-07-07",
+   "bp_submitted": "2026-06-28",
+   "due_date": "2026-07-06",
+   "updated_at": "2026-07-07T10:41:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "38af714b-032a-8093-b2ae-e4157c938c1a",
+   "url": "https://app.notion.com/p/RCL-6-8-Cha-38af714b032a8093b2aee4157c938c1a",
+   "name": "RCL 6-8 (Cha)",
+   "marketer": "Charlie",
+   "tags": [
+    "RCL"
+   ],
+   "channel": "META",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Pulaski"
+   ],
+   "status": "To be uploaded",
+   "stage": "done",
+   "script_start": "2026-06-25",
+   "prod_started": "2026-06-26",
+   "prod_end": "2026-06-27",
+   "bp_submitted": null,
+   "due_date": "2026-07-03",
+   "updated_at": "2026-07-03T14:44:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "38af714b-032a-8066-a564-f249e2d20be8",
+   "url": "https://app.notion.com/p/RBS-4-6-Cha-38af714b032a8066a564f249e2d20be8",
+   "name": "RBS 4-6 (Cha)",
+   "marketer": "Charlie",
+   "tags": [
+    "RBS"
+   ],
+   "channel": "META",
+   "editors": [
+    "Charlie Editors"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Pulaski"
+   ],
+   "status": "Upload in progress",
+   "stage": "done",
+   "script_start": "2026-06-25",
+   "prod_started": "2026-06-28",
+   "prod_end": "2026-07-07",
+   "bp_submitted": null,
+   "due_date": "2026-06-27",
+   "updated_at": "2026-07-07T15:24:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "38af714b-032a-80ea-8ec9-cb17e4fd875d",
+   "url": "https://app.notion.com/p/HM-IT-9-13-Mo-38af714b032a80ea8ec9cb17e4fd875d",
+   "name": "HM (IT-9-13) (Mo)",
+   "marketer": "Morane",
+   "tags": [
+    "HM"
+   ],
+   "channel": "META",
+   "editors": [
+    "Aarij & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Upload in progress",
+   "stage": "done",
+   "script_start": "2026-07-01",
+   "prod_started": "2026-06-29",
+   "prod_end": "2026-06-30",
+   "bp_submitted": "2026-06-29",
+   "due_date": "2026-07-06",
+   "updated_at": "2026-07-05T08:49:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "38af714b-032a-806a-a912-c34d777ff475",
+   "url": "https://app.notion.com/p/HM-39-14-IT2-Mo-38af714b032a806aa912c34d777ff475",
+   "name": "HM (39 + 14-IT2) (Mo)",
+   "marketer": "Morane",
+   "tags": [
+    "HM"
+   ],
+   "channel": "META",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Upload in progress",
+   "stage": "done",
+   "script_start": "2026-06-25",
+   "prod_started": "2026-06-28",
+   "prod_end": "2026-07-01",
+   "bp_submitted": "2026-07-01",
+   "due_date": "2026-07-06",
+   "updated_at": "2026-07-05T08:49:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "38af714b-032a-81aa-be7a-f15e8c3193a6",
+   "url": "https://app.notion.com/p/RCL-9-10-Jor-38af714b032a81aabe7af15e8c3193a6",
+   "name": "RCL 9-10 (Jor)",
+   "marketer": "Jordan",
+   "tags": [
+    "RCL"
+   ],
+   "channel": "META",
+   "editors": [
+    "Ahmed & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Pulaski"
+   ],
+   "status": "To be uploaded",
+   "stage": "done",
+   "script_start": null,
+   "prod_started": "2026-06-26",
+   "prod_end": "2026-06-29",
+   "bp_submitted": null,
+   "due_date": "2026-06-29",
+   "updated_at": "2026-07-06T06:08:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "38af714b-032a-817e-a94e-f91cacb707a8",
+   "url": "https://app.notion.com/p/RDC-6-8-Jor-38af714b032a817ea94ef91cacb707a8",
+   "name": "RDC 6-8 (Jor)",
+   "marketer": "Jordan",
+   "tags": [
+    "RDC"
+   ],
+   "channel": "META",
+   "editors": [
+    "Aarij & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Pulaski"
+   ],
+   "status": "To be uploaded",
+   "stage": "done",
+   "script_start": "2026-06-29",
+   "prod_started": "2026-06-29",
+   "prod_end": "2026-07-02",
+   "bp_submitted": null,
+   "due_date": "2026-07-01",
+   "updated_at": "2026-07-06T05:00:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "38af714b-032a-80df-9af1-cfbe5bfde48b",
+   "url": "https://app.notion.com/p/RDC-9-11-Cha-38af714b032a80df9af1cfbe5bfde48b",
+   "name": "RDC 9-11 (Cha)",
+   "marketer": "Charlie",
+   "tags": [
+    "RDC"
+   ],
+   "channel": "META",
+   "editors": [
+    "Ahmed & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Pulaski"
+   ],
+   "status": "To be uploaded",
+   "stage": "done",
+   "script_start": "2026-06-25",
+   "prod_started": "2026-06-28",
+   "prod_end": "2026-07-03",
+   "bp_submitted": null,
+   "due_date": "2026-06-27",
+   "updated_at": "2026-07-06T06:19:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "38af714b-032a-81f3-8b5b-d8bc4b663a4e",
+   "url": "https://app.notion.com/p/RBS-1-3-Jor-38af714b032a81f38b5bd8bc4b663a4e",
+   "name": "RBS 1-3 (Jor)",
+   "marketer": "Jordan",
+   "tags": [
+    "RBS"
+   ],
+   "channel": "META",
+   "editors": [
+    "Jordan & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Pulaski"
+   ],
+   "status": "To be uploaded",
+   "stage": "done",
+   "script_start": null,
+   "prod_started": "2026-06-25",
+   "prod_end": "2026-06-30",
+   "bp_submitted": null,
+   "due_date": "2026-07-03",
+   "updated_at": "2026-07-07T15:25:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "389f714b-032a-807d-8c53-d88a3c8c780d",
+   "url": "https://app.notion.com/p/RCL-1-5-Mo-389f714b032a807d8c53d88a3c8c780d",
+   "name": "RCL (1-5) (Mo)",
+   "marketer": "Morane",
+   "tags": [
+    "RCL"
+   ],
+   "channel": "META",
+   "editors": [
+    "Ahmed & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Pulaski"
+   ],
+   "status": "To be uploaded",
+   "stage": "done",
+   "script_start": "2026-06-25",
+   "prod_started": null,
+   "prod_end": "2026-06-26",
+   "bp_submitted": null,
+   "due_date": "2026-07-02",
+   "updated_at": "2026-07-06T03:18:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "389f714b-032a-8047-8af1-ee9e81c26f25",
+   "url": "https://app.notion.com/p/RDC-1-5-Mo-389f714b032a80478af1ee9e81c26f25",
+   "name": "RDC (1-5) (Mo)",
+   "marketer": "Morane",
+   "tags": [
+    "RDC"
+   ],
+   "channel": "META",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Pulaski"
+   ],
+   "status": "Uploaded",
+   "stage": "done",
+   "script_start": "2026-06-24",
+   "prod_started": "2026-06-25",
+   "prod_end": "2026-06-26",
+   "bp_submitted": null,
+   "due_date": "2026-07-02",
+   "updated_at": "2026-07-03T08:10:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "389f714b-032a-8024-8c35-c04b5460614d",
+   "url": "https://app.notion.com/p/SIL-1-3-Spa-cha-389f714b032a80248c35c04b5460614d",
+   "name": "SIL (1-3) (Spa) (cha)",
+   "marketer": "Charlie",
+   "tags": [
+    "SIL"
+   ],
+   "channel": "META",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "Medium",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Video done / To be reviewed",
+   "stage": "review",
+   "script_start": "2026-06-24",
+   "prod_started": "2026-07-02",
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": "2026-07-01",
+   "updated_at": "2026-07-07T18:57:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "389f714b-032a-80a3-8415-d4eb2b7e637e",
+   "url": "https://app.notion.com/p/SIL-1-3-cha-389f714b032a80a38415d4eb2b7e637e",
+   "name": "SIL (1-3) (cha)",
+   "marketer": "Charlie",
+   "tags": [
+    "SIL"
+   ],
+   "channel": "META",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "Medium",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Upload in progress",
+   "stage": "done",
+   "script_start": "2026-06-24",
+   "prod_started": "2026-06-27",
+   "prod_end": "2026-07-06",
+   "bp_submitted": "2026-07-01",
+   "due_date": "2026-06-28",
+   "updated_at": "2026-07-07T15:21:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "389f714b-032a-814d-86aa-c8b5a4799449",
+   "url": "https://app.notion.com/p/CAW-38-IT-Jor-389f714b032a814d86aac8b5a4799449",
+   "name": "CAW (38-IT) (Jor)",
+   "marketer": "Jordan",
+   "tags": [
+    "CAW"
+   ],
+   "channel": "META",
+   "editors": [
+    "Jordan & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Pulaski"
+   ],
+   "status": "Upload in progress",
+   "stage": "done",
+   "script_start": null,
+   "prod_started": "2026-06-25",
+   "prod_end": "2026-06-30",
+   "bp_submitted": null,
+   "due_date": "2026-07-08",
+   "updated_at": "2026-07-06T13:32:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "388f714b-032a-80a4-9043-c7da3d71428e",
+   "url": "https://app.notion.com/p/END-16-18-cha-388f714b032a80a49043c7da3d71428e",
+   "name": "END 16-18 (cha)",
+   "marketer": "Charlie",
+   "tags": [
+    "END"
+   ],
+   "channel": "META",
+   "editors": [],
+   "priority": null,
+   "buyer": [
+    "BP"
+   ],
+   "status": "Script in progress",
+   "stage": "script",
+   "script_start": "2026-06-23",
+   "prod_started": null,
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": null,
+   "updated_at": "2026-06-23T10:29:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "388f714b-032a-8021-92c5-cd7a87535165",
+   "url": "https://app.notion.com/p/CAW-73-78-Mo-388f714b032a802192c5cd7a87535165",
+   "name": "CAW 73-78 (Mo)",
+   "marketer": "Morane",
+   "tags": [
+    "CAW"
+   ],
+   "channel": "META",
+   "editors": [
+    "Ahmed & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Pulaski"
+   ],
+   "status": "Upload in progress",
+   "stage": "done",
+   "script_start": "2026-06-23",
+   "prod_started": "2026-06-24",
+   "prod_end": "2026-06-28",
+   "bp_submitted": null,
+   "due_date": "2026-07-06",
+   "updated_at": "2026-07-06T13:32:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "388f714b-032a-8059-88e7-f8fe0e33f724",
+   "url": "https://app.notion.com/p/CAW-67-72-Spa-Mo-388f714b032a805988e7f8fe0e33f724",
+   "name": "CAW 67-72 (Spa) (Mo)",
+   "marketer": "Morane",
+   "tags": [
+    "CAW"
+   ],
+   "channel": "META",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Pulaski"
+   ],
+   "status": "Uploaded",
+   "stage": "done",
+   "script_start": "2026-06-23",
+   "prod_started": "2026-06-23",
+   "prod_end": "2026-06-28",
+   "bp_submitted": null,
+   "due_date": "2026-06-30",
+   "updated_at": "2026-07-02T01:32:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "387f714b-032a-80dc-aa10-f88f835b2ac1",
+   "url": "https://app.notion.com/p/CAW-64-66-Mo-387f714b032a80dcaa10f88f835b2ac1",
+   "name": "CAW (64-66) (Mo) ",
+   "marketer": "Morane",
+   "tags": [
+    "CAW"
+   ],
+   "channel": "META",
+   "editors": [
+    "Aarij & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Pulaski"
+   ],
+   "status": "Uploaded",
+   "stage": "done",
+   "script_start": "2026-06-22",
+   "prod_started": "2026-06-23",
+   "prod_end": "2026-06-24",
+   "bp_submitted": null,
+   "due_date": "2026-07-03",
+   "updated_at": "2026-07-02T07:08:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "387f714b-032a-80b1-ac3d-ed902bc3d517",
+   "url": "https://app.notion.com/p/CAW-IT2-37-U-B-Mo-387f714b032a80b1ac3ded902bc3d517",
+   "name": "CAW (IT2-37) (U-B) (Mo)",
+   "marketer": "Morane",
+   "tags": [
+    "CAW"
+   ],
+   "channel": "META",
+   "editors": [
+    "Ahmed & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Pulaski"
+   ],
+   "status": "Upload in progress",
+   "stage": "done",
+   "script_start": "2026-06-22",
+   "prod_started": "2026-06-24",
+   "prod_end": "2026-06-28",
+   "bp_submitted": null,
+   "due_date": "2026-07-06",
+   "updated_at": "2026-07-06T13:17:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "387f714b-032a-8043-a356-d7cf4bdfb6b5",
+   "url": "https://app.notion.com/p/CAW-IT2-37-U-H-Mo-387f714b032a8043a356d7cf4bdfb6b5",
+   "name": "CAW (IT2-37) (U-H) (Mo) ",
+   "marketer": "Morane",
+   "tags": [
+    "CAW"
+   ],
+   "channel": "META",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Pulaski"
+   ],
+   "status": "Uploaded",
+   "stage": "done",
+   "script_start": "2026-06-22",
+   "prod_started": "2026-06-23",
+   "prod_end": "2026-06-24",
+   "bp_submitted": null,
+   "due_date": "2026-06-29",
+   "updated_at": "2026-06-30T02:32:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "387f714b-032a-8073-a75e-c68debde851d",
+   "url": "https://app.notion.com/p/CAW-IT-37-Mo-387f714b032a8073a75ec68debde851d",
+   "name": "CAW (IT-37) (Mo)",
+   "marketer": "Morane",
+   "tags": [
+    "CAW"
+   ],
+   "channel": "META",
+   "editors": [
+    "Morane"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Pulaski"
+   ],
+   "status": "Uploaded",
+   "stage": "done",
+   "script_start": "2026-06-11",
+   "prod_started": "2026-06-15",
+   "prod_end": "2026-06-22",
+   "bp_submitted": null,
+   "due_date": "2026-06-23",
+   "updated_at": "2026-06-26T07:36:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "387f714b-032a-809c-9b86-c93306fcf55e",
+   "url": "https://app.notion.com/p/TP-150-151-cha-387f714b032a809c9b86c93306fcf55e",
+   "name": "TP 150 -151 (cha)",
+   "marketer": "Charlie",
+   "tags": [
+    "TP"
+   ],
+   "channel": "META",
+   "editors": [
+    "Charlie Editors"
+   ],
+   "priority": "Low",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Uploaded",
+   "stage": "done",
+   "script_start": "2026-06-22",
+   "prod_started": "2026-06-22",
+   "prod_end": "2026-06-24",
+   "bp_submitted": "2026-06-24",
+   "due_date": "2026-07-03",
+   "updated_at": "2026-07-02T06:55:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "384f714b-032a-8010-8411-ec6c8b36fbb1",
+   "url": "https://app.notion.com/p/END-11-5IT1-cha-384f714b032a80108411ec6c8b36fbb1",
+   "name": "END 11, 5IT1 (cha)",
+   "marketer": "Charlie",
+   "tags": [
+    "END"
+   ],
+   "channel": "META",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "some ads refused - In rework",
+   "stage": "other",
+   "script_start": "2026-06-19",
+   "prod_started": "2026-06-19",
+   "prod_end": "2026-06-25",
+   "bp_submitted": "2026-06-25",
+   "due_date": "2026-07-03",
+   "updated_at": "2026-07-03T17:43:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "383f714b-032a-81a9-a974-e6c92743e5f8",
+   "url": "https://app.notion.com/p/END-13-15-Jor-383f714b032a81a9a974e6c92743e5f8",
+   "name": "END 13-15 (Jor)",
+   "marketer": "Jordan",
+   "tags": [
+    "END"
+   ],
+   "channel": "META",
+   "editors": [
+    "Jordan & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Uploaded",
+   "stage": "done",
+   "script_start": null,
+   "prod_started": "2026-06-18",
+   "prod_end": "2026-06-23",
+   "bp_submitted": "2026-06-23",
+   "due_date": "2026-06-29",
+   "updated_at": "2026-07-03T06:44:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "383f714b-032a-80ac-bf81-d13ce0afd8d4",
+   "url": "https://app.notion.com/p/YT-PP-H-P-383f714b032a80acbf81d13ce0afd8d4",
+   "name": "YT PP H&P",
+   "marketer": null,
+   "tags": [
+    "PP"
+   ],
+   "channel": "\u25b6\ufe0f YT",
+   "editors": [],
+   "priority": null,
+   "buyer": [],
+   "status": "Placeholder - DO NOT DELETE",
+   "stage": "other",
+   "script_start": null,
+   "prod_started": null,
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": null,
+   "updated_at": "2026-06-18T03:50:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "382f714b-032a-80c7-8db5-c7cb1b18dae4",
+   "url": "https://app.notion.com/p/HM-41-42-Cha-382f714b032a80c78db5c7cb1b18dae4",
+   "name": "HM 41-42 (Cha) ",
+   "marketer": "Charlie",
+   "tags": [
+    "HM"
+   ],
+   "channel": "META",
+   "editors": [
+    "Ahmed & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Uploaded",
+   "stage": "done",
+   "script_start": "2026-06-17",
+   "prod_started": "2026-06-19",
+   "prod_end": "2026-06-23",
+   "bp_submitted": "2026-06-21",
+   "due_date": "2026-06-29",
+   "updated_at": "2026-06-27T02:10:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "382f714b-032a-80e1-8236-dbc274f715ab",
+   "url": "https://app.notion.com/p/YT-HM-H-P-382f714b032a80e18236dbc274f715ab",
+   "name": "YT HM H&P",
+   "marketer": null,
+   "tags": [
+    "HM"
+   ],
+   "channel": "\u25b6\ufe0f YT",
+   "editors": [],
+   "priority": null,
+   "buyer": [],
+   "status": "Uploaded",
+   "stage": "done",
+   "script_start": null,
+   "prod_started": null,
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": null,
+   "updated_at": "2026-06-25T13:54:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "382f714b-032a-81b9-9400-f8b8799198ac",
+   "url": "https://app.notion.com/p/HM-13-IT-Jor-382f714b032a81b99400f8b8799198ac",
+   "name": "HM (13-IT) (Jor)",
+   "marketer": "Jordan",
+   "tags": [
+    "HM"
+   ],
+   "channel": "META",
+   "editors": [
+    "Jordan & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "To be uploaded",
+   "stage": "done",
+   "script_start": null,
+   "prod_started": "2026-06-20",
+   "prod_end": "2026-06-30",
+   "bp_submitted": "2026-06-30",
+   "due_date": "2026-06-19",
+   "updated_at": "2026-07-07T15:10:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "381f714b-032a-80a3-be72-eca2b83d803f",
+   "url": "https://app.notion.com/p/PP-33-35-cha-381f714b032a80a3be72eca2b83d803f",
+   "name": "PP 33-35 (cha)",
+   "marketer": "Charlie",
+   "tags": [
+    "PP"
+   ],
+   "channel": "META",
+   "editors": [
+    "Aarij & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Uploaded",
+   "stage": "done",
+   "script_start": "2026-06-16",
+   "prod_started": "2026-06-16",
+   "prod_end": "2026-06-19",
+   "bp_submitted": "2026-06-19",
+   "due_date": "2026-06-25",
+   "updated_at": "2026-06-30T02:25:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "381f714b-032a-80ba-9f1c-d3bc5e6fe89e",
+   "url": "https://app.notion.com/p/381f714b032a80ba9f1cd3bc5e6fe89e",
+   "name": "",
+   "marketer": null,
+   "tags": [
+    "CAW"
+   ],
+   "channel": "\u25b6\ufe0f YT",
+   "editors": [],
+   "priority": null,
+   "buyer": [],
+   "status": "Placeholder - DO NOT DELETE",
+   "stage": "other",
+   "script_start": "2026-06-16",
+   "prod_started": null,
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": null,
+   "updated_at": "2026-06-16T03:38:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "381f714b-032a-8009-b53b-e63213cd2a13",
+   "url": "https://app.notion.com/p/Placeholder-381f714b032a8009b53be63213cd2a13",
+   "name": "Placeholder",
+   "marketer": null,
+   "tags": [
+    "PQT"
+   ],
+   "channel": "\u25b6\ufe0f YT",
+   "editors": [],
+   "priority": null,
+   "buyer": [],
+   "status": "Placeholder - DO NOT DELETE",
+   "stage": "other",
+   "script_start": "2026-06-16",
+   "prod_started": null,
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": null,
+   "updated_at": "2026-06-16T03:31:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "381f714b-032a-8098-a6c7-ca8e58126dc5",
+   "url": "https://app.notion.com/p/381f714b032a8098a6c7ca8e58126dc5",
+   "name": "",
+   "marketer": null,
+   "tags": [
+    "END"
+   ],
+   "channel": "\u25b6\ufe0f YT",
+   "editors": [],
+   "priority": null,
+   "buyer": [],
+   "status": "Placeholder - DO NOT DELETE",
+   "stage": "other",
+   "script_start": "2026-06-16",
+   "prod_started": null,
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": null,
+   "updated_at": "2026-06-16T03:34:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "381f714b-032a-8065-a539-c552cd19ce8f",
+   "url": "https://app.notion.com/p/381f714b032a8065a539c552cd19ce8f",
+   "name": "",
+   "marketer": null,
+   "tags": [
+    "TP"
+   ],
+   "channel": "\u25b6\ufe0f YT",
+   "editors": [],
+   "priority": null,
+   "buyer": [],
+   "status": "Placeholder - DO NOT DELETE",
+   "stage": "other",
+   "script_start": "2026-06-16",
+   "prod_started": null,
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": null,
+   "updated_at": "2026-06-25T13:36:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "381f714b-032a-8096-a399-f0785fe99fe4",
+   "url": "https://app.notion.com/p/Placeholder-381f714b032a8096a399f0785fe99fe4",
+   "name": "Placeholder",
+   "marketer": null,
+   "tags": [
+    "YRT"
+   ],
+   "channel": "\u25b6\ufe0f YT",
+   "editors": [],
+   "priority": null,
+   "buyer": [],
+   "status": "Placeholder - DO NOT DELETE",
+   "stage": "other",
+   "script_start": "2026-06-16",
+   "prod_started": null,
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": null,
+   "updated_at": "2026-06-16T03:31:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "380f714b-032a-800f-8ccf-c8c938fa1db6",
+   "url": "https://app.notion.com/p/PQT-10-11-cha-380f714b032a800f8ccfc8c938fa1db6",
+   "name": "PQT 10-11 (cha)",
+   "marketer": "Charlie",
+   "tags": [
+    "PQT"
+   ],
+   "channel": "META",
+   "editors": [
+    "Ahmed & Team"
+   ],
+   "priority": null,
+   "buyer": [
+    "BP"
+   ],
+   "status": "Uploaded",
+   "stage": "done",
+   "script_start": "2026-06-15",
+   "prod_started": "2026-06-17",
+   "prod_end": "2026-06-21",
+   "bp_submitted": "2026-06-21",
+   "due_date": "2026-06-26",
+   "updated_at": "2026-06-26T07:42:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "37ff714b-032a-80b7-93ab-ffd209cfaadb",
+   "url": "https://app.notion.com/p/SMA-YT-48-49-Cha-37ff714b032a80b793abffd209cfaadb",
+   "name": "SMA YT 48-49 (Cha)",
+   "marketer": "Charlie",
+   "tags": [
+    "SMA"
+   ],
+   "channel": "\u25b6\ufe0f YT",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Uploaded",
+   "stage": "done",
+   "script_start": "2026-06-14",
+   "prod_started": "2026-06-16",
+   "prod_end": "2026-06-20",
+   "bp_submitted": "2026-06-19",
+   "due_date": "2026-06-17",
+   "updated_at": "2026-07-06T20:13:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "37ff714b-032a-8041-83de-ccd7483f01b8",
+   "url": "https://app.notion.com/p/SMA-45-47-Cha-37ff714b032a804183deccd7483f01b8",
+   "name": "SMA 45-47 (Cha)",
+   "marketer": "Charlie",
+   "tags": [
+    "SMA"
+   ],
+   "channel": "META",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Uploaded",
+   "stage": "done",
+   "script_start": "2026-06-14",
+   "prod_started": "2026-06-15",
+   "prod_end": "2026-06-18",
+   "bp_submitted": "2026-06-18",
+   "due_date": "2026-06-26",
+   "updated_at": "2026-06-23T03:03:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "37ef714b-032a-800e-adf3-fa5b898dec06",
+   "url": "https://app.notion.com/p/ILM-YT-72-73-cha-37ef714b032a800eadf3fa5b898dec06",
+   "name": "ILM YT 72-73 (cha)",
+   "marketer": "Charlie",
+   "tags": [
+    "ILM"
+   ],
+   "channel": "\u25b6\ufe0f YT",
+   "editors": [
+    "Ahmed & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "To be uploaded - Brendan",
+   "stage": "done",
+   "script_start": "2026-06-13",
+   "prod_started": "2026-06-17",
+   "prod_end": "2026-06-22",
+   "bp_submitted": "2026-06-22",
+   "due_date": "2026-06-17",
+   "updated_at": "2026-07-02T02:39:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "37ef714b-032a-80c0-ac35-e3de304bd9e9",
+   "url": "https://app.notion.com/p/ILM-69-71-cha-37ef714b032a80c0ac35e3de304bd9e9",
+   "name": "ILM 69-71 (cha)",
+   "marketer": "Charlie",
+   "tags": [
+    "ILM"
+   ],
+   "channel": "META",
+   "editors": [
+    "Charlie Editors"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Uploaded",
+   "stage": "done",
+   "script_start": "2026-06-13",
+   "prod_started": null,
+   "prod_end": "2026-06-22",
+   "bp_submitted": "2026-06-22",
+   "due_date": "2026-06-29",
+   "updated_at": "2026-06-29T03:19:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "37df714b-032a-809e-835c-cf7d4687c386",
+   "url": "https://app.notion.com/p/YT-HM-19-IT-39-40-cha-37df714b032a809e835ccf7d4687c386",
+   "name": "YT HM 19-IT 39-40 (cha)",
+   "marketer": "Charlie",
+   "tags": [
+    "HM"
+   ],
+   "channel": "\u25b6\ufe0f YT",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "To be uploaded - Brendan",
+   "stage": "done",
+   "script_start": "2026-06-12",
+   "prod_started": "2026-06-13",
+   "prod_end": "2026-06-17",
+   "bp_submitted": "2026-06-18",
+   "due_date": "2026-06-14",
+   "updated_at": "2026-07-02T02:39:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "37df714b-032a-81f3-a740-eaaa2945b8c7",
+   "url": "https://app.notion.com/p/ILM-66-68-Jor-37df714b032a81f3a740eaaa2945b8c7",
+   "name": "ILM 66-68 (Jor)",
+   "marketer": "Jordan",
+   "tags": [
+    "ILM"
+   ],
+   "channel": "META",
+   "editors": [
+    "Aarij & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Uploaded",
+   "stage": "done",
+   "script_start": null,
+   "prod_started": "2026-06-15",
+   "prod_end": "2026-06-24",
+   "bp_submitted": "2026-06-24",
+   "due_date": "2026-06-29",
+   "updated_at": "2026-06-29T03:18:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "37df714b-032a-808a-9f66-fbf6071fbca7",
+   "url": "https://app.notion.com/p/HM-19-IT-Jor-37df714b032a808a9f66fbf6071fbca7",
+   "name": " HM (19-IT) (Jor)",
+   "marketer": "Jordan",
+   "tags": [
+    "HM"
+   ],
+   "channel": "META",
+   "editors": [
+    "Aarij & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Ads fixed - to be uploaded",
+   "stage": "done",
+   "script_start": "2026-06-12",
+   "prod_started": "2026-06-29",
+   "prod_end": "2026-06-24",
+   "bp_submitted": "2026-06-24",
+   "due_date": "2026-06-29",
+   "updated_at": "2026-06-30T10:11:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "37df714b-032a-80ac-8812-c150c988653a",
+   "url": "https://app.notion.com/p/YT-HM-38-14-IT-Mo-37df714b032a80ac8812c150c988653a",
+   "name": "YT HM (38 + 14-IT) (Mo)",
+   "marketer": "Morane",
+   "tags": [
+    "HM"
+   ],
+   "channel": "\u25b6\ufe0f YT",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "To be uploaded - Brendan",
+   "stage": "done",
+   "script_start": "2026-06-12",
+   "prod_started": "2026-06-12",
+   "prod_end": "2026-06-14",
+   "bp_submitted": "2026-06-14",
+   "due_date": "2026-06-13",
+   "updated_at": "2026-06-16T03:19:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "37df714b-032a-8006-92a2-e16a8d221b8d",
+   "url": "https://app.notion.com/p/YT-HM-19-IT-Jor-37df714b032a800692a2e16a8d221b8d",
+   "name": "YT HM (19-IT) (Jor)",
+   "marketer": "Jordan",
+   "tags": [
+    "HM"
+   ],
+   "channel": "\u25b6\ufe0f YT",
+   "editors": [
+    "Ahmed & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "To be uploaded - Brendan",
+   "stage": "done",
+   "script_start": "2026-06-12",
+   "prod_started": "2026-06-15",
+   "prod_end": "2026-06-25",
+   "bp_submitted": "2026-06-25",
+   "due_date": "2026-06-15",
+   "updated_at": "2026-07-02T13:59:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "37cf714b-032a-800a-bbff-db45cc6532fc",
+   "url": "https://app.notion.com/p/YT-HM-Linkout-37cf714b032a800abbffdb45cc6532fc",
+   "name": "YT HM Linkout",
+   "marketer": null,
+   "tags": [
+    "HM"
+   ],
+   "channel": "\u25b6\ufe0f YT",
+   "editors": [],
+   "priority": null,
+   "buyer": [],
+   "status": "Uploaded",
+   "stage": "done",
+   "script_start": null,
+   "prod_started": null,
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": null,
+   "updated_at": "2026-06-25T08:25:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "37cf714b-032a-80e9-98a2-f4fe5ca37cf0",
+   "url": "https://app.notion.com/p/CAW-63-Mo-37cf714b032a80e998a2f4fe5ca37cf0",
+   "name": "CAW 63 (Mo) ",
+   "marketer": "Morane",
+   "tags": [
+    "CAW"
+   ],
+   "channel": "META",
+   "editors": [
+    "Ahmed & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "Pulaski"
+   ],
+   "status": "Uploaded",
+   "stage": "done",
+   "script_start": "2026-06-11",
+   "prod_started": "2026-06-15",
+   "prod_end": "2026-06-23",
+   "bp_submitted": null,
+   "due_date": "2026-06-23",
+   "updated_at": "2026-06-27T02:11:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "37bf714b-032a-804e-8a49-fb332879d703",
+   "url": "https://app.notion.com/p/YT-PP-6-8-Less-Aggressive-Mo-37bf714b032a804e8a49fb332879d703",
+   "name": "YT PP 6+8 (Less Aggressive) (Mo)",
+   "marketer": "Morane",
+   "tags": [
+    "PP"
+   ],
+   "channel": "\u25b6\ufe0f YT",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "To be uploaded - Brendan",
+   "stage": "done",
+   "script_start": "2026-06-10",
+   "prod_started": null,
+   "prod_end": "2026-06-12",
+   "bp_submitted": null,
+   "due_date": "2026-06-10",
+   "updated_at": "2026-06-12T10:33:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "37bf714b-032a-80ab-b31b-e021c1284f5c",
+   "url": "https://app.notion.com/p/HM-36-37-Mo-37bf714b032a80abb31be021c1284f5c",
+   "name": "HM (36-37) (Mo)",
+   "marketer": "Morane",
+   "tags": [
+    "HM"
+   ],
+   "channel": "META",
+   "editors": [
+    "Iqbal & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Uploaded",
+   "stage": "done",
+   "script_start": "2026-06-10",
+   "prod_started": null,
+   "prod_end": "2026-06-17",
+   "bp_submitted": "2026-06-17",
+   "due_date": "2026-06-22",
+   "updated_at": "2026-06-25T12:55:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "37bf714b-032a-808a-b89e-c09d591cc9f5",
+   "url": "https://app.notion.com/p/HM-12-IT3-Dialogue-Mo-37bf714b032a808ab89ec09d591cc9f5",
+   "name": "HM (12-IT3) (Dialogue) (Mo)",
+   "marketer": "Morane",
+   "tags": [
+    "HM"
+   ],
+   "channel": "META",
+   "editors": [
+    "Ahmed & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Working on it",
+   "stage": "production",
+   "script_start": "2026-06-10",
+   "prod_started": "2026-07-04",
+   "prod_end": null,
+   "bp_submitted": null,
+   "due_date": "2026-06-14",
+   "updated_at": "2026-07-04T05:45:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "37bf714b-032a-81a3-a965-f17d6ad30b35",
+   "url": "https://app.notion.com/p/YT-PP-30-32-Jor-37bf714b032a81a3a965f17d6ad30b35",
+   "name": "YT PP 30-32 (Jor)",
+   "marketer": "Jordan",
+   "tags": [
+    "PP"
+   ],
+   "channel": "\u25b6\ufe0f YT",
+   "editors": [
+    "Jordan & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "To be uploaded - Brendan",
+   "stage": "done",
+   "script_start": null,
+   "prod_started": "2026-06-11",
+   "prod_end": "2026-06-17",
+   "bp_submitted": "2026-06-17",
+   "due_date": "2026-06-12",
+   "updated_at": "2026-07-03T06:44:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "37bf714b-032a-80c9-a8a6-dbfa6620107e",
+   "url": "https://app.notion.com/p/HM-33-35-Mo-37bf714b032a80c9a8a6dbfa6620107e",
+   "name": "HM (33-35) (Mo)",
+   "marketer": "Morane",
+   "tags": [
+    "HM"
+   ],
+   "channel": "META",
+   "editors": [
+    "Shahid & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Uploaded",
+   "stage": "done",
+   "script_start": "2026-06-10",
+   "prod_started": "2026-06-10",
+   "prod_end": "2026-06-12",
+   "bp_submitted": "2026-06-12",
+   "due_date": "2026-06-19",
+   "updated_at": "2026-06-25T12:55:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "37bf714b-032a-8029-ae12-ebaf774b25bb",
+   "url": "https://app.notion.com/p/YT-HM-12-IT-Dialogue-Mo-37bf714b032a8029ae12ebaf774b25bb",
+   "name": "YT HM (12-IT) (Dialogue) (Mo)",
+   "marketer": "Morane",
+   "tags": [
+    "HM"
+   ],
+   "channel": "\u25b6\ufe0f YT",
+   "editors": [
+    "Ahmed & Team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "To be uploaded - Brendan",
+   "stage": "done",
+   "script_start": "2026-06-10",
+   "prod_started": null,
+   "prod_end": "2026-06-30",
+   "bp_submitted": null,
+   "due_date": "2026-06-12",
+   "updated_at": "2026-07-02T02:37:00.000Z",
+   "archived": false
+  },
+  {
+   "id": "37bf714b-032a-80d0-8aff-c4df10f82e46",
+   "url": "https://app.notion.com/p/HM-12-IT2-Dialogue-Mo-37bf714b032a80d08affc4df10f82e46",
+   "name": "HM (12-IT2) (Dialogue) (Mo) ",
+   "marketer": "Morane",
+   "tags": [
+    "HM"
+   ],
+   "channel": "META",
+   "editors": [
+    "Abu & team"
+   ],
+   "priority": "High",
+   "buyer": [
+    "BP"
+   ],
+   "status": "Uploaded",
+   "stage": "done",
+   "script_start": "2026-06-10",
+   "prod_started": "2026-06-11",
+   "prod_end": "2026-06-19",
+   "bp_submitted": "2026-06-22",
+   "due_date": "2026-06-29",
+   "updated_at": "2026-06-29T03:16:00.000Z",
+   "archived": false
+  }
+ ]
+}

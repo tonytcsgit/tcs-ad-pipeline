@@ -1,0 +1,84 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+:root{--bg:#0d1117;--card:#161b22;--line:#21262d;--txt:#e6edf3;--dim:#8b949e;
+--script:#a371f7;--prod:#58a6ff;--review:#d29922;--bp:#3fb950;--overdue:#f85149;--stuck:#db6d28}
+body{font-family:-apple-system,'Segoe UI',sans-serif;background:var(--bg);color:var(--txt);margin:0;padding:20px}
+h1{font-size:18px;margin:0 0 2px}.sub{color:var(--dim);font-size:12px;margin-bottom:14px}
+.filters{display:flex;gap:8px;margin-bottom:16px;flex-wrap:wrap}
+.chip{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:5px 12px;font-size:12px;color:var(--dim)}
+.chip.on{background:#1f6feb33;border-color:#1f6feb;color:#79c0ff}
+.legend{display:flex;gap:14px;font-size:11px;color:var(--dim);margin-bottom:10px}
+.dot{display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:4px;vertical-align:-1px}
+.gantt{background:var(--card);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.ghead{display:grid;grid-template-columns:270px repeat(14,1fr);border-bottom:1px solid var(--line);font-size:10px;color:var(--dim)}
+.ghead div{padding:6px 4px;text-align:center;border-left:1px solid var(--line)}
+.ghead div:first-child{text-align:left;padding-left:14px;border-left:none}
+.grow{display:grid;grid-template-columns:270px repeat(14,1fr);border-bottom:1px solid var(--line);position:relative;height:38px;align-items:center}
+.grow:nth-child(odd){background:#0d111788}
+.gname{padding-left:14px;font-size:12px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.gname .m{color:var(--dim);font-size:10px}
+.bar{position:absolute;height:16px;top:11px;border-radius:4px;display:flex;overflow:hidden;font-size:9px}
+.seg{height:100%}
+.today{position:absolute;top:0;bottom:0;width:2px;background:#f8514966;z-index:2}
+.tag{font-size:9px;padding:1px 6px;border-radius:8px;background:#30363d;color:#c9d1d9;margin-left:6px}
+.od{outline:2px solid var(--overdue)}
+.stk{outline:2px dashed var(--stuck)}
+.flag{position:absolute;right:6px;top:10px;font-size:10px}
+</style></head><body>
+<h1>Ad Creation Pipeline — Variant A: Gantt Timeline</h1>
+<div class="sub">Time on X · one row per video · bar segments = stage durations · red line = today (Jul 7)</div>
+<div class="filters">
+<span class="chip on">All Torts ▾</span><span class="chip">Marketer: All ▾</span><span class="chip on">Channel: META</span><span class="chip">Editor team ▾</span><span class="chip">Priority ▾</span><span class="chip on">⚠ Overdue only</span><span class="chip">Show archived</span>
+</div>
+<div class="legend">
+<span><span class="dot" style="background:var(--script)"></span>Script</span>
+<span><span class="dot" style="background:var(--prod)"></span>Production</span>
+<span><span class="dot" style="background:var(--review)"></span>Review / QA</span>
+<span><span class="dot" style="background:var(--bp)"></span>Submitted to BP</span>
+<span><span class="dot" style="background:transparent;outline:2px solid var(--overdue)"></span>Overdue</span>
+<span><span class="dot" style="background:transparent;outline:2px dashed var(--stuck)"></span>Stuck &gt;3d in stage</span>
+</div>
+<div class="gantt">
+<div class="ghead"><div>VIDEO</div><div>Jun 26</div><div>27</div><div>28</div><div>29</div><div>30</div><div>Jul 1</div><div>2</div><div>3</div><div>4</div><div>5</div><div>6</div><div><b style="color:#f85149">7</b></div><div>8</div><div>9</div></div>
+
+<div class="grow"><div class="gname">CHLOR (1-4) (Mo)<span class="tag">CHLOR</span><br><span class="m">Morane · Iqbal & Team</span></div>
+<div class="today" style="left:calc(270px + 11*(100% - 270px)/14)"></div>
+<div class="bar" style="left:calc(270px + 5*(100% - 270px)/14);width:calc(6*(100% - 270px)/14)">
+<div class="seg" style="width:35%;background:var(--script)"></div><div class="seg" style="width:40%;background:var(--prod)"></div><div class="seg" style="width:25%;background:var(--bp)"></div></div></div>
+
+<div class="grow"><div class="gname">ILM 83-87 (Mo)<span class="tag">ILM</span><br><span class="m">Morane · Ahmed & Team</span></div>
+<div class="today" style="left:calc(270px + 11*(100% - 270px)/14)"></div>
+<div class="bar" style="left:calc(270px + 10*(100% - 270px)/14);width:calc(3*(100% - 270px)/14)">
+<div class="seg" style="width:40%;background:var(--script)"></div><div class="seg" style="width:60%;background:var(--prod)"></div></div></div>
+
+<div class="grow"><div class="gname">CHLOR 18-20 (Cha)<span class="tag">CHLOR</span><br><span class="m">Charlie · Shahid & Team</span></div>
+<div class="today" style="left:calc(270px + 11*(100% - 270px)/14)"></div>
+<div class="bar od" style="left:calc(270px + 10*(100% - 270px)/14);width:calc(4*(100% - 270px)/14)">
+<div class="seg" style="width:30%;background:var(--script)"></div><div class="seg" style="width:70%;background:var(--prod)"></div></div>
+<span class="flag">🔴 due Jul 8</span></div>
+
+<div class="grow"><div class="gname">HM 36 Betrayal v2 (Mo)<span class="tag">HM</span><br><span class="m">Morane · Abu & team</span></div>
+<div class="today" style="left:calc(270px + 11*(100% - 270px)/14)"></div>
+<div class="bar stk" style="left:calc(270px + 2*(100% - 270px)/14);width:calc(9*(100% - 270px)/14)">
+<div class="seg" style="width:20%;background:var(--script)"></div><div class="seg" style="width:35%;background:var(--prod)"></div><div class="seg" style="width:45%;background:var(--review)"></div></div>
+<span class="flag">🟠 5d in review</span></div>
+
+<div class="grow"><div class="gname">DEPO 41-44 (Jor)<span class="tag">DEPO</span><br><span class="m">Jordan · Tanvir</span></div>
+<div class="today" style="left:calc(270px + 11*(100% - 270px)/14)"></div>
+<div class="bar" style="left:calc(270px + 0*(100% - 270px)/14);width:calc(8*(100% - 270px)/14)">
+<div class="seg" style="width:25%;background:var(--script)"></div><div class="seg" style="width:45%;background:var(--prod)"></div><div class="seg" style="width:30%;background:var(--bp)"></div></div>
+<span class="flag">✅ BP approved</span></div>
+
+<div class="grow"><div class="gname">YT SIL 15 (Mo)<span class="tag">SIL</span><br><span class="m">Morane · Shahid & Team · YT</span></div>
+<div class="today" style="left:calc(270px + 11*(100% - 270px)/14)"></div>
+<div class="bar" style="left:calc(270px + 12*(100% - 270px)/14);width:calc(2*(100% - 270px)/14)">
+<div class="seg" style="width:100%;background:var(--script)"></div></div>
+<span class="flag" style="right:auto;left:calc(270px + 9.2*(100% - 270px)/14)">⏳ starts tmrw</span></div>
+
+<div class="grow"><div class="gname">TP 9-11 (Cha)<span class="tag">TP</span><br><span class="m">Charlie · Aarij & Team</span></div>
+<div class="today" style="left:calc(270px + 11*(100% - 270px)/14)"></div>
+<div class="bar od stk" style="left:calc(270px + 1*(100% - 270px)/14);width:calc(10*(100% - 270px)/14)">
+<div class="seg" style="width:15%;background:var(--script)"></div><div class="seg" style="width:25%;background:var(--prod)"></div><div class="seg" style="width:60%;background:var(--review)"></div></div>
+<span class="flag">🔴 due Jul 3 · 6d in review</span></div>
+</div>
+<div style="color:var(--dim);font-size:11px;margin-top:10px">Click a bar → opens the Notion card. Hover → full stage history tooltip.</div>
+</body></html>
