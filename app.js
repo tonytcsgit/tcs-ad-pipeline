@@ -131,7 +131,15 @@
 
     if (EXCLUDED_STATUSES.indexOf(status) !== -1) return "excluded";
 
-    if (/upload|approved|\blive\b/.test(status)) return "done";
+    // Trust the stage the sync pipeline already derived (authoritative per data
+    // contract). Only fall back to client-side derivation for legacy/sample data
+    // that predates the stage field.
+    var VALID_STAGES = ["script", "production", "review", "bp_review", "done", "other"];
+    if (task.stage && VALID_STAGES.indexOf(task.stage) !== -1) {
+      return task.stage;
+    }
+
+    if (/upload|approved|\blive\b|launched|scheduled|put back live/.test(status)) return "done";
 
     if (STATUS_MAP.hasOwnProperty(status)) return STATUS_MAP[status];
 
