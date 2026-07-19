@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-07-18T21:31:10.556489Z",
+  "synced_at": "2026-07-19T05:33:13.382729Z",
   "task_count": 399,
   "tasks": [
     {
@@ -204,10 +204,10 @@
       "stage": "review",
       "script_start": "2026-07-16",
       "prod_started": null,
-      "prod_end": null,
+      "prod_end": "2026-07-19",
       "bp_submitted": null,
       "due_date": "2026-07-17",
-      "updated_at": "2026-07-18T06:40:00.000Z",
+      "updated_at": "2026-07-19T05:25:00.000Z",
       "archived": false
     },
     {
@@ -692,14 +692,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "To be uploaded",
       "stage": "review",
       "script_start": "2026-07-14",
       "prod_started": "2026-07-14",
       "prod_end": "2026-07-18",
       "bp_submitted": null,
       "due_date": "2026-07-16",
-      "updated_at": "2026-07-18T21:08:00.000Z",
+      "updated_at": "2026-07-19T05:32:00.000Z",
       "archived": false
     },
     {
