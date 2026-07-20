@@ -1,7 +1,85 @@
 {
-  "synced_at": "2026-07-19T05:33:13.382729Z",
-  "task_count": 399,
+  "synced_at": "2026-07-20T20:40:34.326834Z",
+  "task_count": 401,
   "tasks": [
+    {
+      "id": "3a3f714b-032a-80da-8dcf-eb4058467161",
+      "url": "https://app.notion.com/p/CHLOR-18-20-Cha-Wagstaff-3a3f714b032a80da8dcfeb4058467161",
+      "name": "CHLOR 18-20 (Cha) - Wagstaff",
+      "marketer": "Charlie",
+      "tags": [
+        "CHLOR"
+      ],
+      "channel": "META",
+      "editors": [
+        "Shahid & Team"
+      ],
+      "priority": "Medium",
+      "buyer": [
+        "Wagstaff"
+      ],
+      "status": "Start production",
+      "stage": "production",
+      "script_start": "2026-07-06",
+      "prod_started": "2026-07-06",
+      "prod_end": "2026-07-20",
+      "bp_submitted": "2026-07-14",
+      "due_date": "2026-07-20",
+      "updated_at": "2026-07-20T12:52:00.000Z",
+      "archived": false
+    },
+    {
+      "id": "3a2f714b-032a-80ad-a992-d5ed11891f74",
+      "url": "https://app.notion.com/p/TP-IT-116-117-135-Mo-3a2f714b032a80ada992d5ed11891f74",
+      "name": "TP (IT-116-117-135) (Mo) ",
+      "marketer": "Morane",
+      "tags": [
+        "TP"
+      ],
+      "channel": "META",
+      "editors": [
+        "Ahmed & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "BP"
+      ],
+      "status": "Start production",
+      "stage": "script",
+      "script_start": "2026-07-19",
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-07-21",
+      "updated_at": "2026-07-19T13:23:00.000Z",
+      "archived": false
+    },
+    {
+      "id": "3a2f714b-032a-803b-9208-c3c4c503c01b",
+      "url": "https://app.notion.com/p/ILM-IT-65-Mo-3a2f714b032a803b9208c3c4c503c01b",
+      "name": "ILM (IT-65) (Mo) ",
+      "marketer": "Morane",
+      "tags": [
+        "ILM"
+      ],
+      "channel": "META",
+      "editors": [
+        "Morane"
+      ],
+      "priority": "High",
+      "buyer": [
+        "BP"
+      ],
+      "status": "In review by Broughton",
+      "stage": "bp_review",
+      "script_start": "2026-07-19",
+      "prod_started": null,
+      "prod_end": "2026-07-19",
+      "bp_submitted": "2026-07-19",
+      "due_date": "2026-07-19",
+      "updated_at": "2026-07-19T06:38:00.000Z",
+      "archived": false
+    },
     {
       "id": "3a0f714b-032a-803d-bf3c-eaafc98a6292",
       "url": "https://app.notion.com/p/RCL-IT-022-Mo-Stinar-3a0f714b032a803dbf3ceaafc98a6292",
@@ -18,14 +96,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "To be uploaded",
-      "stage": "review",
+      "status": "Uploaded",
+      "stage": "done",
       "script_start": "2026-07-17",
       "prod_started": null,
       "prod_end": "2026-07-18",
       "bp_submitted": null,
-      "due_date": "2026-07-17",
-      "updated_at": "2026-07-17T22:01:00.000Z",
+      "due_date": "2026-07-21",
+      "updated_at": "2026-07-20T19:41:00.000Z",
       "archived": false
     },
     {
@@ -70,14 +148,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Upload in progress",
-      "stage": "review",
+      "status": "Uploaded",
+      "stage": "done",
       "script_start": "2026-07-17",
       "prod_started": null,
       "prod_end": "2026-07-17",
       "bp_submitted": null,
       "due_date": "2026-07-18",
-      "updated_at": "2026-07-18T10:21:00.000Z",
+      "updated_at": "2026-07-20T19:41:00.000Z",
       "archived": false
     },
     {
@@ -96,14 +174,14 @@
       "buyer": [
         "Wagstaff"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "To be uploaded",
+      "stage": "review",
       "script_start": "2026-07-17",
       "prod_started": "2026-07-17",
-      "prod_end": null,
+      "prod_end": "2026-07-20",
       "bp_submitted": null,
       "due_date": "2026-07-18",
-      "updated_at": "2026-07-17T03:29:00.000Z",
+      "updated_at": "2026-07-20T08:56:00.000Z",
       "archived": false
     },
     {
@@ -122,14 +200,14 @@
       "buyer": [
         "Wagstaff"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "To be uploaded",
+      "stage": "review",
       "script_start": "2026-07-17",
       "prod_started": "2026-07-17",
-      "prod_end": null,
+      "prod_end": "2026-07-20",
       "bp_submitted": null,
       "due_date": "2026-07-18",
-      "updated_at": "2026-07-17T03:29:00.000Z",
+      "updated_at": "2026-07-20T08:55:00.000Z",
       "archived": false
     },
     {
@@ -148,14 +226,14 @@
       "buyer": [
         "Pulaski"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "To be uploaded",
+      "stage": "review",
       "script_start": null,
       "prod_started": "2026-07-17",
-      "prod_end": null,
+      "prod_end": "2026-07-20",
       "bp_submitted": null,
       "due_date": null,
-      "updated_at": "2026-07-17T03:21:00.000Z",
+      "updated_at": "2026-07-20T06:21:00.000Z",
       "archived": false
     },
     {
@@ -200,14 +278,14 @@
       "buyer": [
         "Wagstaff"
       ],
-      "status": "Revisions in progress",
+      "status": "To be uploaded",
       "stage": "review",
       "script_start": "2026-07-16",
       "prod_started": null,
-      "prod_end": "2026-07-19",
+      "prod_end": "2026-07-20",
       "bp_submitted": null,
       "due_date": "2026-07-17",
-      "updated_at": "2026-07-19T05:25:00.000Z",
+      "updated_at": "2026-07-20T14:42:00.000Z",
       "archived": false
     },
     {
@@ -226,14 +304,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "To be uploaded",
+      "status": "Upload in progress",
       "stage": "review",
       "script_start": "2026-07-15",
       "prod_started": "2026-07-16",
       "prod_end": "2026-07-17",
       "bp_submitted": "2026-07-17",
-      "due_date": "2026-07-16",
-      "updated_at": "2026-07-18T06:20:00.000Z",
+      "due_date": "2026-07-22",
+      "updated_at": "2026-07-20T10:11:00.000Z",
       "archived": false
     },
     {
@@ -252,14 +330,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Start production",
-      "stage": "script",
+      "status": "In review by Broughton",
+      "stage": "bp_review",
       "script_start": "2026-07-15",
-      "prod_started": null,
+      "prod_started": "2026-07-19",
       "prod_end": null,
-      "bp_submitted": null,
+      "bp_submitted": "2026-07-20",
       "due_date": "2026-07-16",
-      "updated_at": "2026-07-15T14:00:00.000Z",
+      "updated_at": "2026-07-20T15:09:00.000Z",
       "archived": false
     },
     {
@@ -278,14 +356,14 @@
       "buyer": [
         "Pulaski"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "To be uploaded - Brendan",
+      "stage": "review",
       "script_start": null,
       "prod_started": "2026-07-18",
-      "prod_end": null,
+      "prod_end": "2026-07-20",
       "bp_submitted": null,
       "due_date": "2026-07-17",
-      "updated_at": "2026-07-18T00:52:00.000Z",
+      "updated_at": "2026-07-20T06:16:00.000Z",
       "archived": false
     },
     {
@@ -304,14 +382,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "To be uploaded",
       "stage": "review",
       "script_start": null,
       "prod_started": null,
-      "prod_end": null,
+      "prod_end": "2026-07-20",
       "bp_submitted": null,
       "due_date": "2026-07-17",
-      "updated_at": "2026-07-17T10:38:00.000Z",
+      "updated_at": "2026-07-20T08:33:00.000Z",
       "archived": false
     },
     {
@@ -330,14 +408,14 @@
       "buyer": [
         "Pulaski"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "Video done / To be reviewed",
+      "stage": "review",
       "script_start": null,
-      "prod_started": "2026-07-18",
-      "prod_end": null,
+      "prod_started": "2026-07-20",
+      "prod_end": "2026-07-20",
       "bp_submitted": null,
       "due_date": "2026-07-17",
-      "updated_at": "2026-07-18T00:52:00.000Z",
+      "updated_at": "2026-07-20T06:33:00.000Z",
       "archived": false
     },
     {
@@ -356,14 +434,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "To be uploaded",
       "stage": "review",
       "script_start": null,
       "prod_started": null,
-      "prod_end": null,
+      "prod_end": "2026-07-20",
       "bp_submitted": null,
       "due_date": "2026-07-17",
-      "updated_at": "2026-07-17T10:38:00.000Z",
+      "updated_at": "2026-07-20T08:40:00.000Z",
       "archived": false
     },
     {
@@ -434,14 +512,14 @@
       "buyer": [
         "The Advocates"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "Upload in progress",
+      "stage": "review",
       "script_start": "2026-07-15",
       "prod_started": "2026-07-17",
-      "prod_end": null,
+      "prod_end": "2026-07-20",
       "bp_submitted": null,
-      "due_date": "2026-07-16",
-      "updated_at": "2026-07-17T13:15:00.000Z",
+      "due_date": "2026-07-21",
+      "updated_at": "2026-07-20T11:08:00.000Z",
       "archived": false
     },
     {
@@ -460,14 +538,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "In review by Stinar",
+      "stage": "bp_review",
       "script_start": "2026-07-15",
       "prod_started": "2026-07-17",
-      "prod_end": null,
+      "prod_end": "2026-07-20",
       "bp_submitted": null,
       "due_date": "2026-07-17",
-      "updated_at": "2026-07-17T13:20:00.000Z",
+      "updated_at": "2026-07-20T09:17:00.000Z",
       "archived": false
     },
     {
@@ -484,7 +562,7 @@
       ],
       "priority": "High",
       "buyer": [
-        "Stinar Lannen"
+        "Pulaski"
       ],
       "status": "Revisions in progress",
       "stage": "review",
@@ -493,7 +571,7 @@
       "prod_end": "2026-07-15",
       "bp_submitted": null,
       "due_date": "2026-07-18",
-      "updated_at": "2026-07-16T14:28:00.000Z",
+      "updated_at": "2026-07-20T09:08:00.000Z",
       "archived": false
     },
     {
@@ -584,18 +662,18 @@
       "editors": [
         "Ahmed & Team"
       ],
-      "priority": null,
+      "priority": "High",
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Revisions in progress",
       "stage": "review",
       "script_start": "2026-07-14",
       "prod_started": "2026-07-17",
       "prod_end": null,
       "bp_submitted": null,
-      "due_date": null,
-      "updated_at": "2026-07-18T02:31:00.000Z",
+      "due_date": "2026-07-20",
+      "updated_at": "2026-07-20T09:35:00.000Z",
       "archived": false
     },
     {
@@ -618,10 +696,10 @@
       "stage": "review",
       "script_start": "2026-07-14",
       "prod_started": "2026-07-14",
-      "prod_end": null,
+      "prod_end": "2026-07-20",
       "bp_submitted": null,
       "due_date": "2026-07-17",
-      "updated_at": "2026-07-17T20:12:00.000Z",
+      "updated_at": "2026-07-20T11:28:00.000Z",
       "archived": false
     },
     {
@@ -640,14 +718,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Start production",
-      "stage": "script",
+      "status": "Working on it",
+      "stage": "production",
       "script_start": "2026-07-14",
-      "prod_started": null,
+      "prod_started": "2026-07-19",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-16",
-      "updated_at": "2026-07-14T13:58:00.000Z",
+      "updated_at": "2026-07-19T16:59:00.000Z",
       "archived": false
     },
     {
@@ -718,14 +796,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "In review by Broughton",
+      "stage": "bp_review",
       "script_start": "2026-07-14",
       "prod_started": "2026-07-17",
-      "prod_end": null,
-      "bp_submitted": null,
+      "prod_end": "2026-07-20",
+      "bp_submitted": "2026-07-20",
       "due_date": "2026-07-16",
-      "updated_at": "2026-07-17T05:09:00.000Z",
+      "updated_at": "2026-07-20T14:59:00.000Z",
       "archived": false
     },
     {
@@ -748,10 +826,10 @@
       "stage": "review",
       "script_start": "2026-07-14",
       "prod_started": "2026-07-16",
-      "prod_end": null,
+      "prod_end": "2026-07-20",
       "bp_submitted": "2026-07-17",
       "due_date": "2026-07-15",
-      "updated_at": "2026-07-18T06:21:00.000Z",
+      "updated_at": "2026-07-20T20:09:00.000Z",
       "archived": false
     },
     {
@@ -770,14 +848,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "Revisions in progress",
+      "stage": "review",
       "script_start": "2026-07-14",
-      "prod_started": "2026-07-17",
-      "prod_end": null,
+      "prod_started": "2026-07-19",
+      "prod_end": "2026-07-20",
       "bp_submitted": null,
       "due_date": "2026-07-15",
-      "updated_at": "2026-07-17T13:21:00.000Z",
+      "updated_at": "2026-07-20T09:02:00.000Z",
       "archived": false
     },
     {
@@ -826,10 +904,10 @@
       "stage": "review",
       "script_start": null,
       "prod_started": "2026-07-15",
-      "prod_end": null,
+      "prod_end": "2026-07-20",
       "bp_submitted": null,
       "due_date": "2026-07-16",
-      "updated_at": "2026-07-17T06:56:00.000Z",
+      "updated_at": "2026-07-20T06:25:00.000Z",
       "archived": false
     },
     {
@@ -852,10 +930,10 @@
       "stage": "review",
       "script_start": null,
       "prod_started": "2026-07-14",
-      "prod_end": null,
+      "prod_end": "2026-07-20",
       "bp_submitted": null,
       "due_date": "2026-07-16",
-      "updated_at": "2026-07-16T06:44:00.000Z",
+      "updated_at": "2026-07-20T06:40:00.000Z",
       "archived": false
     },
     {
@@ -900,14 +978,14 @@
       "buyer": [
         "Pulaski"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "Revisions in progress",
+      "stage": "review",
       "script_start": "2026-07-14",
       "prod_started": "2026-07-17",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-16",
-      "updated_at": "2026-07-17T13:20:00.000Z",
+      "updated_at": "2026-07-20T09:08:00.000Z",
       "archived": false
     },
     {
@@ -956,10 +1034,10 @@
       "stage": "review",
       "script_start": "2026-07-13",
       "prod_started": "2026-07-13",
-      "prod_end": null,
+      "prod_end": "2026-07-20",
       "bp_submitted": null,
       "due_date": "2026-07-19",
-      "updated_at": "2026-07-17T21:29:00.000Z",
+      "updated_at": "2026-07-20T20:16:00.000Z",
       "archived": false
     },
     {
@@ -1004,14 +1082,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Revisions in progress",
       "stage": "review",
       "script_start": "2026-07-13",
       "prod_started": "2026-07-17",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-15",
-      "updated_at": "2026-07-17T13:50:00.000Z",
+      "updated_at": "2026-07-20T09:54:00.000Z",
       "archived": false
     },
     {
@@ -1056,14 +1134,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Upload in progress",
-      "stage": "review",
+      "status": "Uploaded",
+      "stage": "done",
       "script_start": "2026-07-13",
       "prod_started": null,
       "prod_end": "2026-07-16",
       "bp_submitted": null,
       "due_date": "2026-07-18",
-      "updated_at": "2026-07-18T14:36:00.000Z",
+      "updated_at": "2026-07-20T15:27:00.000Z",
       "archived": false
     },
     {
@@ -1170,14 +1248,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Upload in progress",
-      "stage": "review",
+      "status": "Uploaded",
+      "stage": "done",
       "script_start": "2026-07-09",
       "prod_started": "2026-07-09",
       "prod_end": "2026-07-16",
       "bp_submitted": null,
-      "due_date": "2026-07-18",
-      "updated_at": "2026-07-18T17:37:00.000Z",
+      "due_date": "2026-07-20",
+      "updated_at": "2026-07-20T15:26:00.000Z",
       "archived": false
     },
     {
@@ -1255,7 +1333,7 @@
       "prod_end": "2026-07-13",
       "bp_submitted": "2026-07-13",
       "due_date": "2026-07-20",
-      "updated_at": "2026-07-18T07:10:00.000Z",
+      "updated_at": "2026-07-20T11:47:00.000Z",
       "archived": false
     },
     {
@@ -1274,14 +1352,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Revisions in progress",
       "stage": "review",
       "script_start": null,
       "prod_started": "2026-07-10",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-10",
-      "updated_at": "2026-07-17T12:39:00.000Z",
+      "updated_at": "2026-07-20T06:01:00.000Z",
       "archived": false
     },
     {
@@ -1333,7 +1411,7 @@
       "prod_end": "2026-07-14",
       "bp_submitted": "2026-07-14",
       "due_date": "2026-07-20",
-      "updated_at": "2026-07-18T10:20:00.000Z",
+      "updated_at": "2026-07-20T09:06:00.000Z",
       "archived": false
     },
     {
@@ -1400,7 +1478,7 @@
       "editors": [
         "Aarij & Team"
       ],
-      "priority": "Medium",
+      "priority": "High",
       "buyer": [
         "BP"
       ],
@@ -1411,7 +1489,7 @@
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-14",
-      "updated_at": "2026-07-13T02:31:00.000Z",
+      "updated_at": "2026-07-20T17:03:00.000Z",
       "archived": false
     },
     {
@@ -1534,14 +1612,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Upload in progress",
-      "stage": "review",
+      "status": "Uploaded",
+      "stage": "done",
       "script_start": "2026-07-08",
       "prod_started": "2026-07-09",
       "prod_end": "2026-07-16",
       "bp_submitted": null,
       "due_date": "2026-07-10",
-      "updated_at": "2026-07-17T01:49:00.000Z",
+      "updated_at": "2026-07-20T19:40:00.000Z",
       "archived": false
     },
     {
@@ -1560,14 +1638,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Upload in progress",
       "stage": "review",
       "script_start": "2026-07-08",
       "prod_started": "2026-07-09",
       "prod_end": "2026-07-17",
       "bp_submitted": null,
-      "due_date": "2026-07-10",
-      "updated_at": "2026-07-18T04:18:00.000Z",
+      "due_date": "2026-07-22",
+      "updated_at": "2026-07-20T20:20:00.000Z",
       "archived": false
     },
     {
@@ -1586,14 +1664,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Upload in progress",
       "stage": "review",
       "script_start": "2026-07-10",
       "prod_started": "2026-07-11",
-      "prod_end": "2026-07-18",
+      "prod_end": "2026-07-20",
       "bp_submitted": null,
-      "due_date": "2026-07-10",
-      "updated_at": "2026-07-18T21:26:00.000Z",
+      "due_date": "2026-07-21",
+      "updated_at": "2026-07-20T20:15:00.000Z",
       "archived": false
     },
     {
@@ -1612,14 +1690,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Upload in progress",
       "stage": "review",
       "script_start": "2026-07-08",
       "prod_started": "2026-07-09",
       "prod_end": "2026-07-17",
       "bp_submitted": null,
-      "due_date": "2026-07-08",
-      "updated_at": "2026-07-17T03:20:00.000Z",
+      "due_date": "2026-07-21",
+      "updated_at": "2026-07-20T20:30:00.000Z",
       "archived": false
     },
     {
@@ -1638,14 +1716,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Upload in progress",
-      "stage": "review",
+      "status": "Uploaded",
+      "stage": "done",
       "script_start": "2026-07-05",
       "prod_started": "2026-07-06",
       "prod_end": "2026-07-16",
       "bp_submitted": null,
       "due_date": "2026-07-18",
-      "updated_at": "2026-07-18T14:36:00.000Z",
+      "updated_at": "2026-07-20T15:26:00.000Z",
       "archived": false
     },
     {
@@ -1664,14 +1742,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Upload in progress",
-      "stage": "review",
+      "status": "Uploaded",
+      "stage": "done",
       "script_start": "2026-06-25",
       "prod_started": "2026-06-26",
       "prod_end": "2026-07-16",
       "bp_submitted": null,
       "due_date": "2026-07-03",
-      "updated_at": "2026-07-17T01:49:00.000Z",
+      "updated_at": "2026-07-20T19:41:00.000Z",
       "archived": false
     },
     {
@@ -1716,14 +1794,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Upload in progress",
-      "stage": "review",
+      "status": "Uploaded",
+      "stage": "done",
       "script_start": "2026-06-25",
       "prod_started": "2026-06-28",
       "prod_end": "2026-07-16",
       "bp_submitted": null,
       "due_date": "2026-07-03",
-      "updated_at": "2026-07-16T21:30:00.000Z",
+      "updated_at": "2026-07-20T19:39:00.000Z",
       "archived": false
     },
     {
@@ -1748,8 +1826,8 @@
       "prod_started": "2026-07-06",
       "prod_end": "2026-07-16",
       "bp_submitted": null,
-      "due_date": "2026-07-18",
-      "updated_at": "2026-07-18T19:16:00.000Z",
+      "due_date": "2026-07-20",
+      "updated_at": "2026-07-19T21:58:00.000Z",
       "archived": false
     },
     {
@@ -1768,14 +1846,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Upload in progress",
-      "stage": "review",
+      "status": "Uploaded",
+      "stage": "done",
       "script_start": "2026-07-03",
       "prod_started": "2026-07-16",
       "prod_end": "2026-07-17",
       "bp_submitted": null,
-      "due_date": "2026-07-18",
-      "updated_at": "2026-07-18T14:36:00.000Z",
+      "due_date": "2026-07-20",
+      "updated_at": "2026-07-20T15:27:00.000Z",
       "archived": false
     },
     {
@@ -1846,14 +1924,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Upload in progress",
-      "stage": "review",
+      "status": "Uploaded",
+      "stage": "done",
       "script_start": "2026-07-08",
       "prod_started": "2026-07-16",
       "prod_end": "2026-07-16",
       "bp_submitted": null,
       "due_date": "2026-07-03",
-      "updated_at": "2026-07-16T21:59:00.000Z",
+      "updated_at": "2026-07-20T19:39:00.000Z",
       "archived": false
     },
     {
@@ -1872,14 +1950,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "To be uploaded",
+      "status": "Upload in progress",
       "stage": "review",
       "script_start": null,
       "prod_started": "2026-07-03",
       "prod_end": "2026-07-10",
       "bp_submitted": "2026-07-10",
-      "due_date": "2026-07-11",
-      "updated_at": "2026-07-16T07:36:00.000Z",
+      "due_date": "2026-07-22",
+      "updated_at": "2026-07-20T11:19:00.000Z",
       "archived": false
     },
     {
@@ -1950,14 +2028,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Video done / To be reviewed",
-      "stage": "review",
+      "status": "In review by Broughton",
+      "stage": "bp_review",
       "script_start": "2026-07-01",
       "prod_started": "2026-07-06",
       "prod_end": "2026-07-14",
-      "bp_submitted": null,
+      "bp_submitted": "2026-07-20",
       "due_date": "2026-07-03",
-      "updated_at": "2026-07-18T02:31:00.000Z",
+      "updated_at": "2026-07-20T10:05:00.000Z",
       "archived": false
     },
     {
@@ -2002,14 +2080,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "To be uploaded",
+      "status": "Upload in progress",
       "stage": "review",
       "script_start": "2026-07-09",
       "prod_started": "2026-07-03",
       "prod_end": "2026-07-08",
       "bp_submitted": "2026-07-08",
-      "due_date": "2026-07-03",
-      "updated_at": "2026-07-18T00:52:00.000Z",
+      "due_date": "2026-07-21",
+      "updated_at": "2026-07-20T20:09:00.000Z",
       "archived": false
     },
     {
@@ -2054,14 +2132,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Working on it",
+      "status": "Production paused",
       "stage": "production",
       "script_start": "2026-06-30",
       "prod_started": "2026-07-03",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-03",
-      "updated_at": "2026-07-03T07:43:00.000Z",
+      "updated_at": "2026-07-19T16:56:00.000Z",
       "archived": false
     },
     {
@@ -2158,14 +2236,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "To be uploaded",
+      "status": "Upload in progress",
       "stage": "review",
       "script_start": null,
       "prod_started": "2026-07-01",
       "prod_end": "2026-07-10",
       "bp_submitted": "2026-07-10",
-      "due_date": "2026-07-13",
-      "updated_at": "2026-07-12T20:32:00.000Z",
+      "due_date": "2026-07-22",
+      "updated_at": "2026-07-20T11:19:00.000Z",
       "archived": false
     },
     {
@@ -2794,30 +2872,6 @@
       "archived": false
     },
     {
-      "id": "388f714b-032a-80a4-9043-c7da3d71428e",
-      "url": "https://app.notion.com/p/END-16-18-cha-388f714b032a80a49043c7da3d71428e",
-      "name": "END 16-18 (cha)",
-      "marketer": "Charlie",
-      "tags": [
-        "END"
-      ],
-      "channel": "META",
-      "editors": [],
-      "priority": null,
-      "buyer": [
-        "BP"
-      ],
-      "status": "Script in progress",
-      "stage": "script",
-      "script_start": "2026-06-23",
-      "prod_started": null,
-      "prod_end": null,
-      "bp_submitted": null,
-      "due_date": null,
-      "updated_at": "2026-06-23T10:29:00.000Z",
-      "archived": false
-    },
-    {
       "id": "388f714b-032a-8021-92c5-cd7a87535165",
       "url": "https://app.notion.com/p/CAW-73-78-Mo-388f714b032a802192c5cd7a87535165",
       "name": "CAW 73-78 (Mo)",
@@ -2859,14 +2913,14 @@
       "buyer": [
         "Pulaski"
       ],
-      "status": "Upload in progress",
-      "stage": "review",
+      "status": "Uploaded",
+      "stage": "done",
       "script_start": "2026-06-23",
       "prod_started": "2026-06-23",
       "prod_end": "2026-06-28",
       "bp_submitted": null,
       "due_date": "2026-06-30",
-      "updated_at": "2026-07-17T19:12:00.000Z",
+      "updated_at": "2026-07-20T15:27:00.000Z",
       "archived": false
     },
     {
@@ -4133,7 +4187,7 @@
       "prod_end": "2026-06-06",
       "bp_submitted": null,
       "due_date": "2026-06-12",
-      "updated_at": "2026-07-14T22:05:00.000Z",
+      "updated_at": "2026-07-20T10:47:00.000Z",
       "archived": false
     },
     {
