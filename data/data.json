@@ -1,7 +1,59 @@
 {
-  "synced_at": "2026-07-20T22:41:03.788280Z",
-  "task_count": 401,
+  "synced_at": "2026-07-21T00:41:32.539658Z",
+  "task_count": 403,
   "tasks": [
+    {
+      "id": "3a3f714b-032a-8014-b58f-e4d05975e8a6",
+      "url": "https://app.notion.com/p/RDC-22-YT-Cha-3a3f714b032a8014b58fe4d05975e8a6",
+      "name": "RDC 22 YT (Cha) ",
+      "marketer": "Charlie",
+      "tags": [
+        "RDC"
+      ],
+      "channel": "YT",
+      "editors": [
+        "Aarij & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "Stinar Lannen"
+      ],
+      "status": "Start production",
+      "stage": "production",
+      "script_start": "2026-07-14",
+      "prod_started": "2026-07-17",
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-07-16",
+      "updated_at": "2026-07-20T23:01:00.000Z",
+      "archived": false
+    },
+    {
+      "id": "3a3f714b-032a-80e9-9c8a-f7c4f94b1ad9",
+      "url": "https://app.notion.com/p/RDC-023-YT-Stinar-3a3f714b032a80e99c8af7c4f94b1ad9",
+      "name": "RDC 023 YT - Stinar",
+      "marketer": "Charlie",
+      "tags": [
+        "RDC"
+      ],
+      "channel": "YT",
+      "editors": [
+        "Shahid & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "Stinar Lannen"
+      ],
+      "status": "Start production",
+      "stage": "production",
+      "script_start": "2026-07-14",
+      "prod_started": "2026-07-17",
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-07-22",
+      "updated_at": "2026-07-20T23:01:00.000Z",
+      "archived": false
+    },
     {
       "id": "3a3f714b-032a-80da-8dcf-eb4058467161",
       "url": "https://app.notion.com/p/CHLOR-18-20-Cha-Wagstaff-3a3f714b032a80da8dcfeb4058467161",
@@ -985,7 +1037,7 @@
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-16",
-      "updated_at": "2026-07-20T09:08:00.000Z",
+      "updated_at": "2026-07-20T23:00:00.000Z",
       "archived": false
     },
     {
@@ -2243,7 +2295,7 @@
       "prod_end": "2026-07-10",
       "bp_submitted": "2026-07-10",
       "due_date": "2026-07-22",
-      "updated_at": "2026-07-20T11:19:00.000Z",
+      "updated_at": "2026-07-21T00:05:00.000Z",
       "archived": false
     },
     {
