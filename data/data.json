@@ -1,7 +1,33 @@
 {
-  "synced_at": "2026-07-21T19:58:46.777601Z",
-  "task_count": 405,
+  "synced_at": "2026-07-21T21:59:16.463629Z",
+  "task_count": 406,
   "tasks": [
+    {
+      "id": "3a4f714b-032a-80e8-a137-cff517c45c32",
+      "url": "https://app.notion.com/p/YT-RBS-28-cha-3a4f714b032a80e8a137cff517c45c32",
+      "name": "YT RBS 28 (cha)",
+      "marketer": "Charlie",
+      "tags": [
+        "RBS"
+      ],
+      "channel": "YT",
+      "editors": [
+        "Ahmed & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "Pulaski"
+      ],
+      "status": "Start production",
+      "stage": "script",
+      "script_start": "2026-07-21",
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-07-23",
+      "updated_at": "2026-07-21T21:11:00.000Z",
+      "archived": false
+    },
     {
       "id": "3a4f714b-032a-8089-945e-e5945b24f628",
       "url": "https://app.notion.com/p/TP-IT2-120-New-avatars-Mo-3a4f714b032a8089945ee5945b24f628",
@@ -252,14 +278,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Revisions in progress",
       "stage": "review",
       "script_start": "2026-07-17",
       "prod_started": "2026-07-17",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-19",
-      "updated_at": "2026-07-21T17:40:00.000Z",
+      "updated_at": "2026-07-21T20:29:00.000Z",
       "archived": false
     },
     {
@@ -441,7 +467,7 @@
       "prod_end": "2026-07-17",
       "bp_submitted": "2026-07-17",
       "due_date": "2026-07-22",
-      "updated_at": "2026-07-20T10:11:00.000Z",
+      "updated_at": "2026-07-21T21:22:00.000Z",
       "archived": false
     },
     {
@@ -822,14 +848,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Revisions in progress",
       "stage": "review",
       "script_start": "2026-07-14",
       "prod_started": "2026-07-14",
       "prod_end": "2026-07-21",
       "bp_submitted": null,
       "due_date": "2026-07-17",
-      "updated_at": "2026-07-21T17:47:00.000Z",
+      "updated_at": "2026-07-21T20:22:00.000Z",
       "archived": false
     },
     {
@@ -1898,14 +1924,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Put new disclaimer",
-      "stage": "other",
+      "status": "In review by Stinar",
+      "stage": "bp_review",
       "script_start": "2026-06-25",
       "prod_started": "2026-07-07",
-      "prod_end": "2026-07-14",
+      "prod_end": "2026-07-21",
       "bp_submitted": null,
       "due_date": "2026-06-27",
-      "updated_at": "2026-07-16T09:26:00.000Z",
+      "updated_at": "2026-07-21T20:33:00.000Z",
       "archived": false
     },
     {
