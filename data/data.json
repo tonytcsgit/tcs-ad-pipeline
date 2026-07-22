@@ -1,7 +1,33 @@
 {
-  "synced_at": "2026-07-22T02:00:30.197330Z",
-  "task_count": 409,
+  "synced_at": "2026-07-22T04:01:01.268772Z",
+  "task_count": 410,
   "tasks": [
+    {
+      "id": "3a5f714b-032a-81d0-a944-c8d1879a4e3e",
+      "url": "https://app.notion.com/p/TVG-1-3-Jor-3a5f714b032a81d0a944c8d1879a4e3e",
+      "name": "TVG 1-3 (Jor)",
+      "marketer": "Jordan",
+      "tags": [
+        "TVG"
+      ],
+      "channel": "META",
+      "editors": [
+        "Jordan & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "BP"
+      ],
+      "status": "Start production",
+      "stage": "script",
+      "script_start": null,
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-07-24",
+      "updated_at": "2026-07-22T03:04:00.000Z",
+      "archived": false
+    },
     {
       "id": "3a4f714b-032a-8026-8f56-ff2052bd73fa",
       "url": "https://app.notion.com/p/RCL-029-YT-Cha-Stinar-3a4f714b032a80268f56ff2052bd73fa",
@@ -70,14 +96,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Start production",
-      "stage": "script",
+      "status": "Working on it",
+      "stage": "production",
       "script_start": "2026-07-22",
-      "prod_started": null,
+      "prod_started": "2026-07-22",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-23",
-      "updated_at": "2026-07-21T22:11:00.000Z",
+      "updated_at": "2026-07-22T03:21:00.000Z",
       "archived": false
     },
     {
