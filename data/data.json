@@ -1,7 +1,57 @@
 {
-  "synced_at": "2026-07-23T18:03:56.947420Z",
-  "task_count": 419,
+  "synced_at": "2026-07-23T20:04:33.549416Z",
+  "task_count": 420,
   "tasks": [
+    {
+      "id": "3a6f714b-032a-80e8-b96e-f3bddb0e830f",
+      "url": "https://app.notion.com/p/YT-END-20-21-Cha-3a6f714b032a80e8b96ef3bddb0e830f",
+      "name": "YT END 20-21 (Cha)",
+      "marketer": "Charlie",
+      "tags": [
+        "END"
+      ],
+      "channel": "YT",
+      "editors": [],
+      "priority": null,
+      "buyer": [
+        "BP"
+      ],
+      "status": "Script in progress",
+      "stage": "script",
+      "script_start": "2026-07-23",
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": null,
+      "updated_at": "2026-07-23T19:20:00.000Z",
+      "archived": false
+    },
+    {
+      "id": "3a6f714b-032a-8061-a35b-c132096d4c1b",
+      "url": "https://app.notion.com/p/END-16-18-Cha-3a6f714b032a8061a35bc132096d4c1b",
+      "name": "END 16 -18 (Cha)",
+      "marketer": "Charlie",
+      "tags": [
+        "END"
+      ],
+      "channel": "META",
+      "editors": [
+        "Aarij & Team"
+      ],
+      "priority": "Medium",
+      "buyer": [
+        "BP"
+      ],
+      "status": "Start production",
+      "stage": "script",
+      "script_start": "2026-07-23",
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-07-25",
+      "updated_at": "2026-07-23T19:19:00.000Z",
+      "archived": false
+    },
     {
       "id": "3a6f714b-032a-8016-a775-e7e426994d40",
       "url": "https://app.notion.com/p/RCL-30-Jor-3a6f714b032a8016a775e7e426994d40",
@@ -200,14 +250,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Revisions in progress",
       "stage": "review",
       "script_start": "2026-07-23",
       "prod_started": "2026-07-23",
       "prod_end": "2026-07-23",
       "bp_submitted": null,
       "due_date": "2026-07-23",
-      "updated_at": "2026-07-23T16:50:00.000Z",
+      "updated_at": "2026-07-23T19:02:00.000Z",
       "archived": false
     },
     {
@@ -486,14 +536,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "To be uploaded",
+      "status": "To be uploaded - Brendan",
       "stage": "review",
       "script_start": "2026-07-14",
       "prod_started": "2026-07-21",
       "prod_end": "2026-07-23",
       "bp_submitted": null,
       "due_date": "2026-07-16",
-      "updated_at": "2026-07-23T14:03:00.000Z",
+      "updated_at": "2026-07-23T18:22:00.000Z",
       "archived": false
     },
     {
@@ -940,8 +990,8 @@
     },
     {
       "id": "39ef714b-032a-8067-8c21-e650ae44f21b",
-      "url": "https://app.notion.com/p/MVA-10-cha-39ef714b032a80678c21e650ae44f21b",
-      "name": "MVA 10 (cha) ",
+      "url": "https://app.notion.com/p/MVA-9-10-cha-39ef714b032a80678c21e650ae44f21b",
+      "name": "MVA 9- 10 (cha) ",
       "marketer": "Morane",
       "tags": [
         "MVA"
@@ -954,40 +1004,14 @@
       "buyer": [
         "The Advocates"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "To be uploaded",
+      "stage": "review",
       "script_start": "2026-07-15",
       "prod_started": "2026-07-17",
-      "prod_end": null,
+      "prod_end": "2026-07-23",
       "bp_submitted": null,
       "due_date": "2026-07-16",
-      "updated_at": "2026-07-17T13:15:00.000Z",
-      "archived": false
-    },
-    {
-      "id": "39ef714b-032a-80e6-987c-d20f088687c9",
-      "url": "https://app.notion.com/p/MVA-9-Cha-39ef714b032a80e6987cd20f088687c9",
-      "name": "MVA 9 (Cha)",
-      "marketer": "Charlie",
-      "tags": [
-        "MVA"
-      ],
-      "channel": "META",
-      "editors": [
-        "Charlie Editors"
-      ],
-      "priority": null,
-      "buyer": [
-        "The Advocates"
-      ],
-      "status": "Working on it",
-      "stage": "production",
-      "script_start": "2026-07-15",
-      "prod_started": "2026-07-17",
-      "prod_end": null,
-      "bp_submitted": null,
-      "due_date": "2026-07-16",
-      "updated_at": "2026-07-17T13:15:00.000Z",
+      "updated_at": "2026-07-23T18:18:00.000Z",
       "archived": false
     },
     {
@@ -1032,14 +1056,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "To be uploaded",
+      "status": "To be uploaded - Brendan",
       "stage": "review",
       "script_start": "2026-07-15",
       "prod_started": "2026-07-17",
       "prod_end": "2026-07-20",
       "bp_submitted": null,
       "due_date": "2026-07-17",
-      "updated_at": "2026-07-21T10:07:00.000Z",
+      "updated_at": "2026-07-23T18:21:00.000Z",
       "archived": false
     },
     {
@@ -1472,14 +1496,14 @@
       "buyer": [
         "Pulaski"
       ],
-      "status": "To be uploaded",
+      "status": "To be uploaded - Brendan",
       "stage": "review",
       "script_start": "2026-07-14",
       "prod_started": "2026-07-17",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-16",
-      "updated_at": "2026-07-22T15:58:00.000Z",
+      "updated_at": "2026-07-23T18:23:00.000Z",
       "archived": false
     },
     {
@@ -1976,14 +2000,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "Revisions in progress",
+      "stage": "review",
       "script_start": "2026-07-06",
       "prod_started": "2026-07-21",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-14",
-      "updated_at": "2026-07-21T19:51:00.000Z",
+      "updated_at": "2026-07-23T19:12:00.000Z",
       "archived": false
     },
     {
