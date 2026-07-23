@@ -1,6 +1,6 @@
 {
-  "synced_at": "2026-07-23T14:02:35.594536Z",
-  "task_count": 418,
+  "synced_at": "2026-07-23T16:03:26.436411Z",
+  "task_count": 419,
   "tasks": [
     {
       "id": "3a6f714b-032a-8016-a775-e7e426994d40",
@@ -200,14 +200,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "Video done / To be reviewed",
+      "stage": "review",
       "script_start": "2026-07-23",
       "prod_started": "2026-07-23",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-23",
-      "updated_at": "2026-07-23T08:08:00.000Z",
+      "updated_at": "2026-07-23T15:05:00.000Z",
       "archived": false
     },
     {
@@ -486,14 +486,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "To be uploaded",
       "stage": "review",
       "script_start": "2026-07-14",
       "prod_started": "2026-07-21",
-      "prod_end": null,
+      "prod_end": "2026-07-23",
       "bp_submitted": null,
       "due_date": "2026-07-16",
-      "updated_at": "2026-07-23T08:21:00.000Z",
+      "updated_at": "2026-07-23T14:03:00.000Z",
       "archived": false
     },
     {
@@ -616,14 +616,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Video done / To be reviewed",
-      "stage": "review",
+      "status": "In review by Stinar",
+      "stage": "bp_review",
       "script_start": "2026-07-17",
       "prod_started": "2026-07-17",
       "prod_end": "2026-07-23",
       "bp_submitted": null,
       "due_date": "2026-07-19",
-      "updated_at": "2026-07-23T13:58:00.000Z",
+      "updated_at": "2026-07-23T14:36:00.000Z",
       "archived": false
     },
     {
@@ -828,10 +828,10 @@
       "stage": "review",
       "script_start": "2026-07-15",
       "prod_started": "2026-07-19",
-      "prod_end": null,
+      "prod_end": "2026-07-23",
       "bp_submitted": "2026-07-20",
       "due_date": "2026-07-16",
-      "updated_at": "2026-07-21T07:05:00.000Z",
+      "updated_at": "2026-07-23T14:45:00.000Z",
       "archived": false
     },
     {
@@ -1242,10 +1242,10 @@
       "stage": "review",
       "script_start": "2026-07-14",
       "prod_started": "2026-07-17",
-      "prod_end": null,
+      "prod_end": "2026-07-23",
       "bp_submitted": "2026-07-17",
       "due_date": "2026-07-24",
-      "updated_at": "2026-07-23T07:21:00.000Z",
+      "updated_at": "2026-07-23T14:44:00.000Z",
       "archived": false
     },
     {
@@ -1271,7 +1271,7 @@
       "prod_end": "2026-07-18",
       "bp_submitted": null,
       "due_date": "2026-07-23",
-      "updated_at": "2026-07-23T09:35:00.000Z",
+      "updated_at": "2026-07-23T14:16:00.000Z",
       "archived": false
     },
     {
@@ -1320,10 +1320,10 @@
       "stage": "review",
       "script_start": "2026-07-14",
       "prod_started": "2026-07-16",
-      "prod_end": "2026-07-20",
+      "prod_end": "2026-07-23",
       "bp_submitted": "2026-07-17",
       "due_date": "2026-07-15",
-      "updated_at": "2026-07-20T20:09:00.000Z",
+      "updated_at": "2026-07-23T14:46:00.000Z",
       "archived": false
     },
     {
@@ -1550,14 +1550,14 @@
       "buyer": [
         "Pulaski"
       ],
-      "status": "Revisions in progress",
+      "status": "To be uploaded",
       "stage": "review",
       "script_start": "2026-07-13",
       "prod_started": null,
-      "prod_end": null,
+      "prod_end": "2026-07-23",
       "bp_submitted": null,
       "due_date": "2026-07-15",
-      "updated_at": "2026-07-16T20:44:00.000Z",
+      "updated_at": "2026-07-23T14:11:00.000Z",
       "archived": false
     },
     {
@@ -2522,14 +2522,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "In review by Broughton",
-      "stage": "bp_review",
+      "status": "To be uploaded",
+      "stage": "review",
       "script_start": "2026-07-01",
       "prod_started": "2026-07-06",
       "prod_end": "2026-07-14",
       "bp_submitted": "2026-07-20",
       "due_date": "2026-07-03",
-      "updated_at": "2026-07-20T10:05:00.000Z",
+      "updated_at": "2026-07-23T14:04:00.000Z",
       "archived": false
     },
     {
@@ -4057,6 +4057,32 @@
       "bp_submitted": "2026-06-17",
       "due_date": "2026-06-22",
       "updated_at": "2026-06-25T12:55:00.000Z",
+      "archived": false
+    },
+    {
+      "id": "37bf714b-032a-808a-b89e-c09d591cc9f5",
+      "url": "https://app.notion.com/p/HM-12-IT3-Dialogue-Mo-37bf714b032a808ab89ec09d591cc9f5",
+      "name": "HM (12-IT3) (Dialogue) (Mo)",
+      "marketer": "Morane",
+      "tags": [
+        "HM"
+      ],
+      "channel": "META",
+      "editors": [
+        "Ahmed & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "BP"
+      ],
+      "status": "Revisions in progress",
+      "stage": "review",
+      "script_start": "2026-06-10",
+      "prod_started": "2026-07-04",
+      "prod_end": "2026-07-23",
+      "bp_submitted": null,
+      "due_date": "2026-06-14",
+      "updated_at": "2026-07-23T14:36:00.000Z",
       "archived": false
     },
     {
@@ -9550,20 +9576,20 @@
       "buyer": [
         "BP"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Revisions in progress",
       "stage": "review",
       "script_start": "2026-04-11",
       "prod_started": "2026-07-16",
       "prod_end": "2026-07-21",
       "bp_submitted": null,
       "due_date": "2026-07-19",
-      "updated_at": "2026-07-21T12:38:00.000Z",
+      "updated_at": "2026-07-23T14:42:00.000Z",
       "archived": false
     },
     {
       "id": "324f714b-032a-807d-866b-c6d98de33fec",
-      "url": "https://app.notion.com/p/TP-118-120-Mo-324f714b032a807d866bc6d98de33fec",
-      "name": "TP (118-120) (Mo)",
+      "url": "https://app.notion.com/p/TP-118-120-old-scripts-Mo-324f714b032a807d866bc6d98de33fec",
+      "name": "TP (118-120) (old scripts) (Mo)",
       "marketer": "Morane",
       "tags": [
         "TP"
@@ -9576,14 +9602,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Revisions in progress",
-      "stage": "review",
+      "status": "Put new disclaimer",
+      "stage": "bp_review",
       "script_start": null,
       "prod_started": null,
-      "prod_end": null,
-      "bp_submitted": null,
+      "prod_end": "2026-07-23",
+      "bp_submitted": "2026-07-23",
       "due_date": "2026-03-21",
-      "updated_at": "2026-07-23T13:08:00.000Z",
+      "updated_at": "2026-07-23T14:27:00.000Z",
       "archived": false
     },
     {
