@@ -1,7 +1,111 @@
 {
-  "synced_at": "2026-07-23T07:23:39.323086Z",
-  "task_count": 415,
+  "synced_at": "2026-07-23T14:02:35.594536Z",
+  "task_count": 418,
   "tasks": [
+    {
+      "id": "3a6f714b-032a-8016-a775-e7e426994d40",
+      "url": "https://app.notion.com/p/RCL-30-Jor-3a6f714b032a8016a775e7e426994d40",
+      "name": "RCL 30 (Jor)",
+      "marketer": "Jordan",
+      "tags": [
+        "RCL"
+      ],
+      "channel": "META",
+      "editors": [
+        "Shahid & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "Pulaski"
+      ],
+      "status": "Working on it",
+      "stage": "production",
+      "script_start": null,
+      "prod_started": "2026-07-23",
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-07-25",
+      "updated_at": "2026-07-23T10:17:00.000Z",
+      "archived": false
+    },
+    {
+      "id": "3a6f714b-032a-80e5-b80f-cfa4875e1ec2",
+      "url": "https://app.notion.com/p/RCL-33-34-Jor-Stinar-3a6f714b032a80e5b80fcfa4875e1ec2",
+      "name": "RCL 33-34 (Jor) - Stinar",
+      "marketer": "Jordan",
+      "tags": [
+        "RCL"
+      ],
+      "channel": "META",
+      "editors": [
+        "Shahid & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "Stinar Lannen"
+      ],
+      "status": "Working on it",
+      "stage": "production",
+      "script_start": null,
+      "prod_started": "2026-07-23",
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-07-25",
+      "updated_at": "2026-07-23T10:12:00.000Z",
+      "archived": false
+    },
+    {
+      "id": "3a6f714b-032a-818b-aef9-c857d1dc4eca",
+      "url": "https://app.notion.com/p/RCL-31-32-Jor-3a6f714b032a818baef9c857d1dc4eca",
+      "name": "RCL 31-32 (Jor)",
+      "marketer": "Jordan",
+      "tags": [
+        "RCL"
+      ],
+      "channel": "META",
+      "editors": [
+        "Jordan & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "Pulaski"
+      ],
+      "status": "Start production",
+      "stage": "script",
+      "script_start": null,
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-07-25",
+      "updated_at": "2026-07-23T10:11:00.000Z",
+      "archived": false
+    },
+    {
+      "id": "3a6f714b-032a-81a2-9abe-d6c501b527a3",
+      "url": "https://app.notion.com/p/RCL-35-Jor-Stinar-3a6f714b032a81a29abed6c501b527a3",
+      "name": "RCL 35 (Jor) - Stinar",
+      "marketer": "Jordan",
+      "tags": [
+        "RCL"
+      ],
+      "channel": "META",
+      "editors": [
+        "Jordan & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "Stinar Lannen"
+      ],
+      "status": "Start production",
+      "stage": "script",
+      "script_start": null,
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-07-25",
+      "updated_at": "2026-07-23T10:06:00.000Z",
+      "archived": false
+    },
     {
       "id": "3a6f714b-032a-804e-8a91-c662b6eef081",
       "url": "https://app.notion.com/p/BM-1-Jor-3a6f714b032a804e8a91c662b6eef081",
@@ -70,14 +174,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Start production",
-      "stage": "script",
+      "status": "Revisions in progress",
+      "stage": "review",
       "script_start": "2026-07-23",
       "prod_started": null,
       "prod_end": null,
       "bp_submitted": null,
       "due_date": null,
-      "updated_at": "2026-07-22T23:36:00.000Z",
+      "updated_at": "2026-07-23T13:53:00.000Z",
       "archived": false
     },
     {
@@ -96,14 +200,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Start production",
-      "stage": "script",
+      "status": "Working on it",
+      "stage": "production",
       "script_start": "2026-07-23",
-      "prod_started": null,
+      "prod_started": "2026-07-23",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-23",
-      "updated_at": "2026-07-23T02:46:00.000Z",
+      "updated_at": "2026-07-23T08:08:00.000Z",
       "archived": false
     },
     {
@@ -252,14 +356,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Video done / To be reviewed",
-      "stage": "review",
+      "status": "In review by Stinar",
+      "stage": "bp_review",
       "script_start": "2026-07-22",
       "prod_started": "2026-07-22",
       "prod_end": "2026-07-23",
       "bp_submitted": null,
       "due_date": "2026-07-23",
-      "updated_at": "2026-07-23T06:58:00.000Z",
+      "updated_at": "2026-07-23T13:56:00.000Z",
       "archived": false
     },
     {
@@ -330,14 +434,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "Revisions in progress",
+      "stage": "review",
       "script_start": "2026-07-21",
       "prod_started": "2026-07-22",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-22",
-      "updated_at": "2026-07-22T08:47:00.000Z",
+      "updated_at": "2026-07-23T13:07:00.000Z",
       "archived": false
     },
     {
@@ -356,14 +460,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Revisions in progress",
       "stage": "review",
       "script_start": "2026-07-21",
       "prod_started": null,
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-23",
-      "updated_at": "2026-07-22T08:40:00.000Z",
+      "updated_at": "2026-07-23T13:45:00.000Z",
       "archived": false
     },
     {
@@ -389,7 +493,7 @@
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-16",
-      "updated_at": "2026-07-22T18:56:00.000Z",
+      "updated_at": "2026-07-23T08:21:00.000Z",
       "archived": false
     },
     {
@@ -408,14 +512,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "In review by Stinar",
-      "stage": "bp_review",
+      "status": "To be uploaded - Brendan",
+      "stage": "review",
       "script_start": "2026-07-14",
       "prod_started": "2026-07-21",
       "prod_end": "2026-07-23",
       "bp_submitted": null,
       "due_date": "2026-07-22",
-      "updated_at": "2026-07-23T05:42:00.000Z",
+      "updated_at": "2026-07-23T13:58:00.000Z",
       "archived": false
     },
     {
@@ -498,8 +602,8 @@
     },
     {
       "id": "3a0f714b-032a-807e-b1f5-cd01dc6f3e35",
-      "url": "https://app.notion.com/p/CAW-091-092-Stinar-3a0f714b032a807eb1f5cd01dc6f3e35",
-      "name": "CAW 091-092 - Stinar",
+      "url": "https://app.notion.com/p/CAW-091-092-Stinar-cha-3a0f714b032a807eb1f5cd01dc6f3e35",
+      "name": "CAW 091-092 - Stinar (cha)",
       "marketer": "Charlie",
       "tags": [
         "CAW"
@@ -516,10 +620,10 @@
       "stage": "review",
       "script_start": "2026-07-17",
       "prod_started": "2026-07-17",
-      "prod_end": null,
+      "prod_end": "2026-07-23",
       "bp_submitted": null,
       "due_date": "2026-07-19",
-      "updated_at": "2026-07-22T16:57:00.000Z",
+      "updated_at": "2026-07-23T13:58:00.000Z",
       "archived": false
     },
     {
@@ -954,14 +1058,14 @@
       "buyer": [
         "Pulaski"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Revisions in progress",
       "stage": "review",
       "script_start": "2026-07-08",
       "prod_started": "2026-07-21",
-      "prod_end": "2026-07-15",
+      "prod_end": "2026-07-23",
       "bp_submitted": null,
       "due_date": "2026-07-18",
-      "updated_at": "2026-07-21T23:59:00.000Z",
+      "updated_at": "2026-07-23T13:46:00.000Z",
       "archived": false
     },
     {
@@ -1082,14 +1186,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "In review by Stinar",
-      "stage": "bp_review",
+      "status": "To be uploaded - Brendan",
+      "stage": "review",
       "script_start": "2026-07-14",
       "prod_started": "2026-07-14",
       "prod_end": "2026-07-21",
       "bp_submitted": null,
       "due_date": "2026-07-17",
-      "updated_at": "2026-07-23T05:34:00.000Z",
+      "updated_at": "2026-07-23T13:49:00.000Z",
       "archived": false
     },
     {
@@ -1167,7 +1271,7 @@
       "prod_end": "2026-07-18",
       "bp_submitted": null,
       "due_date": "2026-07-23",
-      "updated_at": "2026-07-22T07:15:00.000Z",
+      "updated_at": "2026-07-23T09:35:00.000Z",
       "archived": false
     },
     {
@@ -1924,14 +2028,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "Video done / To be reviewed",
+      "stage": "review",
       "script_start": "2026-07-06",
       "prod_started": "2026-07-22",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-07",
-      "updated_at": "2026-07-21T22:25:00.000Z",
+      "updated_at": "2026-07-23T10:01:00.000Z",
       "archived": false
     },
     {
@@ -2158,14 +2262,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "In review by Stinar",
-      "stage": "bp_review",
+      "status": "Revisions in progress",
+      "stage": "review",
       "script_start": "2026-06-25",
       "prod_started": "2026-07-07",
       "prod_end": "2026-07-21",
       "bp_submitted": null,
       "due_date": "2026-06-27",
-      "updated_at": "2026-07-21T20:33:00.000Z",
+      "updated_at": "2026-07-23T13:52:00.000Z",
       "archived": false
     },
     {
@@ -2347,7 +2451,7 @@
       "prod_end": "2026-07-10",
       "bp_submitted": "2026-07-10",
       "due_date": "2026-07-22",
-      "updated_at": "2026-07-23T07:13:00.000Z",
+      "updated_at": "2026-07-23T10:16:00.000Z",
       "archived": false
     },
     {
@@ -2633,7 +2737,7 @@
       "prod_end": "2026-07-10",
       "bp_submitted": "2026-07-10",
       "due_date": "2026-07-22",
-      "updated_at": "2026-07-22T08:09:00.000Z",
+      "updated_at": "2026-07-23T12:08:00.000Z",
       "archived": false
     },
     {
@@ -3953,32 +4057,6 @@
       "bp_submitted": "2026-06-17",
       "due_date": "2026-06-22",
       "updated_at": "2026-06-25T12:55:00.000Z",
-      "archived": false
-    },
-    {
-      "id": "37bf714b-032a-808a-b89e-c09d591cc9f5",
-      "url": "https://app.notion.com/p/HM-12-IT3-Dialogue-Mo-37bf714b032a808ab89ec09d591cc9f5",
-      "name": "HM (12-IT3) (Dialogue) (Mo)",
-      "marketer": "Morane",
-      "tags": [
-        "HM"
-      ],
-      "channel": "META",
-      "editors": [
-        "Ahmed & Team"
-      ],
-      "priority": "High",
-      "buyer": [
-        "BP"
-      ],
-      "status": "Revisions in progress",
-      "stage": "review",
-      "script_start": "2026-06-10",
-      "prod_started": "2026-07-04",
-      "prod_end": null,
-      "bp_submitted": null,
-      "due_date": "2026-06-14",
-      "updated_at": "2026-07-21T07:41:00.000Z",
       "archived": false
     },
     {
@@ -8119,14 +8197,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "Video done / To be reviewed",
+      "stage": "review",
       "script_start": null,
       "prod_started": "2026-07-22",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-04-30",
-      "updated_at": "2026-07-22T08:47:00.000Z",
+      "updated_at": "2026-07-23T11:50:00.000Z",
       "archived": false
     },
     {
@@ -9225,7 +9303,7 @@
     {
       "id": "328f714b-032a-8000-9034-ebc337acf5c0",
       "url": "https://app.notion.com/p/TP-117-118-Mo-328f714b032a80009034ebc337acf5c0",
-      "name": "TP 117-118 (Mo)",
+      "name": "TP (117-118) (Mo)",
       "marketer": "Morane",
       "tags": [
         "TP"
@@ -9245,7 +9323,7 @@
       "prod_end": "2026-03-27",
       "bp_submitted": "2026-05-01",
       "due_date": "2026-03-20",
-      "updated_at": "2026-07-22T08:47:00.000Z",
+      "updated_at": "2026-07-23T13:08:00.000Z",
       "archived": false
     },
     {
@@ -9485,7 +9563,7 @@
     {
       "id": "324f714b-032a-807d-866b-c6d98de33fec",
       "url": "https://app.notion.com/p/TP-118-120-Mo-324f714b032a807d866bc6d98de33fec",
-      "name": "TP 118-120 (Mo)",
+      "name": "TP (118-120) (Mo)",
       "marketer": "Morane",
       "tags": [
         "TP"
@@ -9505,7 +9583,7 @@
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-03-21",
-      "updated_at": "2026-07-21T15:47:00.000Z",
+      "updated_at": "2026-07-23T13:08:00.000Z",
       "archived": false
     },
     {
