@@ -1,7 +1,59 @@
 {
-  "synced_at": "2026-07-22T22:06:43.312175Z",
-  "task_count": 411,
+  "synced_at": "2026-07-23T00:07:15.023676Z",
+  "task_count": 413,
   "tasks": [
+    {
+      "id": "3a5f714b-032a-80fa-888f-e86e52dffd17",
+      "url": "https://app.notion.com/p/BM-5-Cha-3a5f714b032a80fa888fe86e52dffd17",
+      "name": "BM 5 (Cha)",
+      "marketer": "Charlie",
+      "tags": [
+        "BM"
+      ],
+      "channel": "META",
+      "editors": [
+        "Ahmed & Team"
+      ],
+      "priority": null,
+      "buyer": [
+        "BP"
+      ],
+      "status": "Start production",
+      "stage": "script",
+      "script_start": "2026-07-23",
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": null,
+      "updated_at": "2026-07-22T23:36:00.000Z",
+      "archived": false
+    },
+    {
+      "id": "3a5f714b-032a-80a8-8861-d6eaf534a34d",
+      "url": "https://app.notion.com/p/TVG-4-5-Cha-3a5f714b032a80a88861d6eaf534a34d",
+      "name": "TVG 4-5 (Cha)",
+      "marketer": "Charlie",
+      "tags": [
+        "TVG"
+      ],
+      "channel": "META",
+      "editors": [
+        "Aarij & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "BP"
+      ],
+      "status": "Start production",
+      "stage": "script",
+      "script_start": "2026-07-23",
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-07-23",
+      "updated_at": "2026-07-22T23:14:00.000Z",
+      "archived": false
+    },
     {
       "id": "3a5f714b-032a-813b-9acb-e81346587ab0",
       "url": "https://app.notion.com/p/BM-3-4-Jor-3a5f714b032a813b9acbe81346587ab0",
@@ -493,7 +545,7 @@
       "prod_end": "2026-07-20",
       "bp_submitted": null,
       "due_date": "2026-07-22",
-      "updated_at": "2026-07-22T14:29:00.000Z",
+      "updated_at": "2026-07-22T22:42:00.000Z",
       "archived": false
     },
     {
