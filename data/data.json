@@ -1,14 +1,14 @@
 {
-  "synced_at": "2026-07-23T02:30:07.228003Z",
-  "task_count": 414,
+  "synced_at": "2026-07-23T07:23:39.323086Z",
+  "task_count": 415,
   "tasks": [
     {
-      "id": "3a6f714b-032a-8013-9db6-d6b4a9575854",
-      "url": "https://app.notion.com/p/TVG-1-Jor-3a6f714b032a80139db6d6b4a9575854",
-      "name": "TVG 1 (Jor)",
+      "id": "3a6f714b-032a-804e-8a91-c662b6eef081",
+      "url": "https://app.notion.com/p/BM-1-Jor-3a6f714b032a804e8a91c662b6eef081",
+      "name": "BM 1 (Jor)",
       "marketer": "Jordan",
       "tags": [
-        "TVG"
+        "BM"
       ],
       "channel": "META",
       "editors": [
@@ -18,14 +18,40 @@
       "buyer": [
         "BP"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "In review by Broughton",
+      "stage": "bp_review",
+      "script_start": null,
+      "prod_started": null,
+      "prod_end": "2026-07-23",
+      "bp_submitted": "2026-07-23",
+      "due_date": "2026-07-24",
+      "updated_at": "2026-07-23T03:15:00.000Z",
+      "archived": false
+    },
+    {
+      "id": "3a6f714b-032a-8013-9db6-d6b4a9575854",
+      "url": "https://app.notion.com/p/TVM-1-Jor-3a6f714b032a80139db6d6b4a9575854",
+      "name": "TVM 1 (Jor)",
+      "marketer": "Jordan",
+      "tags": [
+        "TVM"
+      ],
+      "channel": "META",
+      "editors": [
+        "Jordan & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "BP"
+      ],
+      "status": "In review by Broughton",
+      "stage": "bp_review",
       "script_start": null,
       "prod_started": "2026-07-23",
       "prod_end": "2026-07-23",
-      "bp_submitted": null,
+      "bp_submitted": "2026-07-23",
       "due_date": "2026-07-24",
-      "updated_at": "2026-07-23T00:29:00.000Z",
+      "updated_at": "2026-07-23T03:05:00.000Z",
       "archived": false
     },
     {
@@ -56,11 +82,11 @@
     },
     {
       "id": "3a5f714b-032a-80a8-8861-d6eaf534a34d",
-      "url": "https://app.notion.com/p/TVG-4-5-Cha-3a5f714b032a80a88861d6eaf534a34d",
-      "name": "TVG 4-5 (Cha)",
+      "url": "https://app.notion.com/p/TVM-4-5-Cha-3a5f714b032a80a88861d6eaf534a34d",
+      "name": "TVM 4-5 (Cha)",
       "marketer": "Charlie",
       "tags": [
-        "TVG"
+        "TVM"
       ],
       "channel": "META",
       "editors": [
@@ -77,7 +103,7 @@
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-23",
-      "updated_at": "2026-07-22T23:14:00.000Z",
+      "updated_at": "2026-07-23T02:46:00.000Z",
       "archived": false
     },
     {
@@ -96,20 +122,20 @@
       "buyer": [
         "BP"
       ],
-      "status": "Start production",
-      "stage": "script",
+      "status": "Working on it",
+      "stage": "production",
       "script_start": null,
-      "prod_started": null,
+      "prod_started": "2026-07-23",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-24",
-      "updated_at": "2026-07-22T07:25:00.000Z",
+      "updated_at": "2026-07-23T06:06:00.000Z",
       "archived": false
     },
     {
       "id": "3a5f714b-032a-8149-9a8e-ff39866812d3",
-      "url": "https://app.notion.com/p/BM-1-2-Jor-3a5f714b032a81499a8eff39866812d3",
-      "name": "BM 1-2 (Jor)",
+      "url": "https://app.notion.com/p/BM-2-Jor-3a5f714b032a81499a8eff39866812d3",
+      "name": "BM 2 (Jor)",
       "marketer": "Jordan",
       "tags": [
         "BM"
@@ -122,23 +148,23 @@
       "buyer": [
         "BP"
       ],
-      "status": "Start production",
-      "stage": "script",
+      "status": "Working on it",
+      "stage": "production",
       "script_start": null,
-      "prod_started": null,
+      "prod_started": "2026-07-23",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-24",
-      "updated_at": "2026-07-22T07:25:00.000Z",
+      "updated_at": "2026-07-23T06:06:00.000Z",
       "archived": false
     },
     {
       "id": "3a5f714b-032a-81d0-a944-c8d1879a4e3e",
-      "url": "https://app.notion.com/p/TVG-2-3-Jor-3a5f714b032a81d0a944c8d1879a4e3e",
-      "name": "TVG 2-3 (Jor)",
+      "url": "https://app.notion.com/p/TVM-2-3-Jor-3a5f714b032a81d0a944c8d1879a4e3e",
+      "name": "TVM 2-3 (Jor)",
       "marketer": "Jordan",
       "tags": [
-        "TVG"
+        "TVM"
       ],
       "channel": "META",
       "editors": [
@@ -155,7 +181,7 @@
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-24",
-      "updated_at": "2026-07-23T00:28:00.000Z",
+      "updated_at": "2026-07-23T02:45:00.000Z",
       "archived": false
     },
     {
@@ -230,10 +256,10 @@
       "stage": "review",
       "script_start": "2026-07-22",
       "prod_started": "2026-07-22",
-      "prod_end": null,
+      "prod_end": "2026-07-23",
       "bp_submitted": null,
       "due_date": "2026-07-23",
-      "updated_at": "2026-07-22T17:43:00.000Z",
+      "updated_at": "2026-07-23T06:58:00.000Z",
       "archived": false
     },
     {
@@ -368,8 +394,8 @@
     },
     {
       "id": "3a3f714b-032a-80e9-9c8a-f7c4f94b1ad9",
-      "url": "https://app.notion.com/p/RDC-023-YT-Stinar-3a3f714b032a80e99c8af7c4f94b1ad9",
-      "name": "RDC 023 YT - Stinar",
+      "url": "https://app.notion.com/p/RDC-023-YT-Cha-Stinar-3a3f714b032a80e99c8af7c4f94b1ad9",
+      "name": "RDC 023 YT (Cha) - Stinar",
       "marketer": "Charlie",
       "tags": [
         "RDC"
@@ -382,14 +408,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Video done / To be reviewed",
-      "stage": "review",
+      "status": "In review by Stinar",
+      "stage": "bp_review",
       "script_start": "2026-07-14",
       "prod_started": "2026-07-21",
-      "prod_end": null,
+      "prod_end": "2026-07-23",
       "bp_submitted": null,
       "due_date": "2026-07-22",
-      "updated_at": "2026-07-22T17:38:00.000Z",
+      "updated_at": "2026-07-23T05:42:00.000Z",
       "archived": false
     },
     {
@@ -415,7 +441,7 @@
       "prod_end": "2026-07-21",
       "bp_submitted": null,
       "due_date": "2026-07-23",
-      "updated_at": "2026-07-23T00:20:00.000Z",
+      "updated_at": "2026-07-23T05:36:00.000Z",
       "archived": false
     },
     {
@@ -545,7 +571,7 @@
       "prod_end": "2026-07-20",
       "bp_submitted": null,
       "due_date": "2026-07-22",
-      "updated_at": "2026-07-22T20:57:00.000Z",
+      "updated_at": "2026-07-23T05:54:00.000Z",
       "archived": false
     },
     {
@@ -571,7 +597,7 @@
       "prod_end": "2026-07-20",
       "bp_submitted": null,
       "due_date": "2026-07-22",
-      "updated_at": "2026-07-22T22:42:00.000Z",
+      "updated_at": "2026-07-23T05:44:00.000Z",
       "archived": false
     },
     {
@@ -1056,14 +1082,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Video done / To be reviewed",
-      "stage": "review",
+      "status": "In review by Stinar",
+      "stage": "bp_review",
       "script_start": "2026-07-14",
       "prod_started": "2026-07-14",
       "prod_end": "2026-07-21",
       "bp_submitted": null,
       "due_date": "2026-07-17",
-      "updated_at": "2026-07-22T18:49:00.000Z",
+      "updated_at": "2026-07-23T05:34:00.000Z",
       "archived": false
     },
     {
@@ -1115,7 +1141,7 @@
       "prod_end": null,
       "bp_submitted": "2026-07-17",
       "due_date": "2026-07-24",
-      "updated_at": "2026-07-22T11:24:00.000Z",
+      "updated_at": "2026-07-23T07:21:00.000Z",
       "archived": false
     },
     {
@@ -1167,7 +1193,7 @@
       "prod_end": "2026-07-20",
       "bp_submitted": "2026-07-20",
       "due_date": "2026-07-24",
-      "updated_at": "2026-07-22T11:24:00.000Z",
+      "updated_at": "2026-07-23T07:21:00.000Z",
       "archived": false
     },
     {
@@ -2321,7 +2347,7 @@
       "prod_end": "2026-07-10",
       "bp_submitted": "2026-07-10",
       "due_date": "2026-07-22",
-      "updated_at": "2026-07-22T08:09:00.000Z",
+      "updated_at": "2026-07-23T07:13:00.000Z",
       "archived": false
     },
     {
