@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-07-24T19:08:44.451284Z",
+  "synced_at": "2026-07-24T21:09:25.196663Z",
   "task_count": 420,
   "tasks": [
     {
@@ -179,7 +179,7 @@
       "prod_end": "2026-07-23",
       "bp_submitted": "2026-07-23",
       "due_date": "2026-07-24",
-      "updated_at": "2026-07-24T18:55:00.000Z",
+      "updated_at": "2026-07-24T19:26:00.000Z",
       "archived": false
     },
     {
@@ -205,7 +205,7 @@
       "prod_end": "2026-07-23",
       "bp_submitted": "2026-07-23",
       "due_date": "2026-07-24",
-      "updated_at": "2026-07-24T18:55:00.000Z",
+      "updated_at": "2026-07-24T19:25:00.000Z",
       "archived": false
     },
     {
@@ -777,7 +777,7 @@
       "prod_end": "2026-07-20",
       "bp_submitted": null,
       "due_date": "2026-07-24",
-      "updated_at": "2026-07-22T11:36:00.000Z",
+      "updated_at": "2026-07-24T19:33:00.000Z",
       "archived": false
     },
     {
@@ -880,8 +880,8 @@
       "prod_started": "2026-07-19",
       "prod_end": "2026-07-23",
       "bp_submitted": "2026-07-20",
-      "due_date": "2026-07-16",
-      "updated_at": "2026-07-23T14:45:00.000Z",
+      "due_date": "2026-07-25",
+      "updated_at": "2026-07-24T20:23:00.000Z",
       "archived": false
     },
     {
