@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-07-23T20:04:33.549416Z",
+  "synced_at": "2026-07-24T00:05:37.758045Z",
   "task_count": 420,
   "tasks": [
     {
@@ -42,14 +42,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Start production",
-      "stage": "script",
+      "status": "Working on it",
+      "stage": "production",
       "script_start": "2026-07-23",
-      "prod_started": null,
+      "prod_started": "2026-07-24",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-25",
-      "updated_at": "2026-07-23T19:19:00.000Z",
+      "updated_at": "2026-07-23T22:48:00.000Z",
       "archived": false
     },
     {
@@ -146,14 +146,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Start production",
-      "stage": "script",
+      "status": "Working on it",
+      "stage": "production",
       "script_start": null,
-      "prod_started": null,
+      "prod_started": "2026-07-24",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-25",
-      "updated_at": "2026-07-23T10:06:00.000Z",
+      "updated_at": "2026-07-23T22:49:00.000Z",
       "archived": false
     },
     {
@@ -172,14 +172,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "In review by Broughton",
-      "stage": "bp_review",
+      "status": "To be uploaded",
+      "stage": "review",
       "script_start": null,
       "prod_started": null,
       "prod_end": "2026-07-23",
       "bp_submitted": "2026-07-23",
       "due_date": "2026-07-24",
-      "updated_at": "2026-07-23T03:15:00.000Z",
+      "updated_at": "2026-07-23T22:42:00.000Z",
       "archived": false
     },
     {
@@ -198,14 +198,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "In review by Broughton",
-      "stage": "bp_review",
+      "status": "To be uploaded",
+      "stage": "review",
       "script_start": null,
       "prod_started": "2026-07-23",
       "prod_end": "2026-07-23",
       "bp_submitted": "2026-07-23",
       "due_date": "2026-07-24",
-      "updated_at": "2026-07-23T03:05:00.000Z",
+      "updated_at": "2026-07-23T22:42:00.000Z",
       "archived": false
     },
     {
@@ -250,14 +250,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Revisions in progress",
+      "status": "Video done / To be reviewed",
       "stage": "review",
       "script_start": "2026-07-23",
       "prod_started": "2026-07-23",
       "prod_end": "2026-07-23",
       "bp_submitted": null,
       "due_date": "2026-07-23",
-      "updated_at": "2026-07-23T19:02:00.000Z",
+      "updated_at": "2026-07-23T23:04:00.000Z",
       "archived": false
     },
     {
@@ -302,14 +302,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Revisions in progress",
       "stage": "review",
       "script_start": null,
       "prod_started": "2026-07-23",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-24",
-      "updated_at": "2026-07-23T17:03:00.000Z",
+      "updated_at": "2026-07-23T23:12:00.000Z",
       "archived": false
     },
     {
@@ -1870,14 +1870,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Revisions in progress",
       "stage": "review",
       "script_start": null,
       "prod_started": "2026-07-10",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-10",
-      "updated_at": "2026-07-22T10:48:00.000Z",
+      "updated_at": "2026-07-23T23:01:00.000Z",
       "archived": false
     },
     {
@@ -2000,14 +2000,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Revisions in progress",
+      "status": "Video done / To be reviewed",
       "stage": "review",
       "script_start": "2026-07-06",
       "prod_started": "2026-07-21",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-14",
-      "updated_at": "2026-07-23T19:12:00.000Z",
+      "updated_at": "2026-07-23T23:53:00.000Z",
       "archived": false
     },
     {
@@ -2475,7 +2475,7 @@
       "prod_end": "2026-07-10",
       "bp_submitted": "2026-07-10",
       "due_date": "2026-07-22",
-      "updated_at": "2026-07-23T10:16:00.000Z",
+      "updated_at": "2026-07-24T00:05:00.000Z",
       "archived": false
     },
     {
