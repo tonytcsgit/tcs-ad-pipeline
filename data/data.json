@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-07-24T04:15:29.940506Z",
+  "synced_at": "2026-07-24T09:03:53.852862Z",
   "task_count": 420,
   "tasks": [
     {
@@ -276,14 +276,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "Video done / To be reviewed",
+      "stage": "review",
       "script_start": null,
       "prod_started": "2026-07-23",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-24",
-      "updated_at": "2026-07-23T06:06:00.000Z",
+      "updated_at": "2026-07-24T08:54:00.000Z",
       "archived": false
     },
     {
@@ -354,14 +354,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Start production",
-      "stage": "script",
+      "status": "Working on it",
+      "stage": "production",
       "script_start": "2026-07-22",
-      "prod_started": null,
+      "prod_started": "2026-07-24",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-24",
-      "updated_at": "2026-07-21T23:04:00.000Z",
+      "updated_at": "2026-07-24T07:11:00.000Z",
       "archived": false
     },
     {
@@ -380,14 +380,14 @@
       "buyer": [
         "Pulaski"
       ],
-      "status": "Start production",
-      "stage": "script",
+      "status": "Working on it",
+      "stage": "production",
       "script_start": "2026-07-22",
-      "prod_started": null,
+      "prod_started": "2026-07-24",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-23",
-      "updated_at": "2026-07-21T22:59:00.000Z",
+      "updated_at": "2026-07-24T07:11:00.000Z",
       "archived": false
     },
     {
