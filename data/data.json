@@ -1,31 +1,7 @@
 {
-  "synced_at": "2026-07-25T17:54:24.667611Z",
-  "task_count": 420,
+  "synced_at": "2026-07-26T14:07:30.765339Z",
+  "task_count": 415,
   "tasks": [
-    {
-      "id": "3a6f714b-032a-80e8-b96e-f3bddb0e830f",
-      "url": "https://app.notion.com/p/YT-END-20-21-Cha-3a6f714b032a80e8b96ef3bddb0e830f",
-      "name": "YT END 20-21 (Cha)",
-      "marketer": "Charlie",
-      "tags": [
-        "END"
-      ],
-      "channel": "YT",
-      "editors": [],
-      "priority": null,
-      "buyer": [
-        "BP"
-      ],
-      "status": "Script in progress",
-      "stage": "script",
-      "script_start": "2026-07-23",
-      "prod_started": null,
-      "prod_end": null,
-      "bp_submitted": null,
-      "due_date": null,
-      "updated_at": "2026-07-23T19:20:00.000Z",
-      "archived": false
-    },
     {
       "id": "3a6f714b-032a-8061-a35b-c132096d4c1b",
       "url": "https://app.notion.com/p/END-16-18-Cha-3a6f714b032a8061a35bc132096d4c1b",
@@ -42,14 +18,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Revisions in progress",
       "stage": "review",
       "script_start": "2026-07-23",
       "prod_started": "2026-07-24",
-      "prod_end": null,
+      "prod_end": "2026-07-26",
       "bp_submitted": null,
       "due_date": "2026-07-25",
-      "updated_at": "2026-07-24T17:47:00.000Z",
+      "updated_at": "2026-07-26T06:57:00.000Z",
       "archived": false
     },
     {
@@ -224,14 +200,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Revisions in progress",
+      "status": "Video done / To be reviewed",
       "stage": "review",
       "script_start": "2026-07-23",
       "prod_started": null,
       "prod_end": null,
       "bp_submitted": null,
-      "due_date": null,
-      "updated_at": "2026-07-23T13:53:00.000Z",
+      "due_date": "2026-07-26",
+      "updated_at": "2026-07-26T08:14:00.000Z",
       "archived": false
     },
     {
@@ -250,14 +226,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Video done / To be reviewed",
-      "stage": "review",
+      "status": "In review by Broughton",
+      "stage": "bp_review",
       "script_start": "2026-07-23",
       "prod_started": "2026-07-23",
       "prod_end": "2026-07-23",
-      "bp_submitted": null,
+      "bp_submitted": "2026-07-26",
       "due_date": "2026-07-23",
-      "updated_at": "2026-07-23T23:04:00.000Z",
+      "updated_at": "2026-07-26T06:24:00.000Z",
       "archived": false
     },
     {
@@ -1184,14 +1160,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Revisions in progress",
+      "status": "Video done / To be reviewed",
       "stage": "review",
       "script_start": "2026-07-14",
       "prod_started": "2026-07-17",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-20",
-      "updated_at": "2026-07-22T16:06:00.000Z",
+      "updated_at": "2026-07-26T09:22:00.000Z",
       "archived": false
     },
     {
@@ -1663,94 +1639,6 @@
       "archived": false
     },
     {
-      "id": "399f714b-032a-809d-8b69-fb17f435011b",
-      "url": "https://app.notion.com/p/Depo-IT-48-Mo-UGC-S-399f714b032a809d8b69fb17f435011b",
-      "name": "Depo [IT - 48] [Mo] [UGC - S] ",
-      "marketer": "Morane",
-      "tags": [
-        "DEPO"
-      ],
-      "channel": null,
-      "editors": [],
-      "priority": null,
-      "buyer": [],
-      "status": "Upload in progress",
-      "stage": "review",
-      "script_start": "2026-07-10",
-      "prod_started": null,
-      "prod_end": "2026-07-10",
-      "bp_submitted": null,
-      "due_date": "2026-07-12",
-      "updated_at": "2026-07-16T17:08:00.000Z",
-      "archived": false
-    },
-    {
-      "id": "399f714b-032a-802c-831f-f8a16d2cee27",
-      "url": "https://app.notion.com/p/DP-38-h1-Even-Cha-U-H-399f714b032a802c831ff8a16d2cee27",
-      "name": "DP 38 [h1] [Even] [Cha] [U-H]",
-      "marketer": "Charlie",
-      "tags": [
-        "DEPO"
-      ],
-      "channel": null,
-      "editors": [],
-      "priority": null,
-      "buyer": [],
-      "status": "Upload in progress",
-      "stage": "review",
-      "script_start": "2026-07-10",
-      "prod_started": null,
-      "prod_end": "2026-07-10",
-      "bp_submitted": null,
-      "due_date": "2026-07-11",
-      "updated_at": "2026-07-17T21:47:00.000Z",
-      "archived": false
-    },
-    {
-      "id": "399f714b-032a-803a-a686-c2eebe17b7f1",
-      "url": "https://app.notion.com/p/DP-38-h1-Even-Cha-U-I-399f714b032a803aa686c2eebe17b7f1",
-      "name": "DP 38 [h1] [Even] [Cha] [U-I]",
-      "marketer": "Charlie",
-      "tags": [
-        "DEPO"
-      ],
-      "channel": null,
-      "editors": [],
-      "priority": null,
-      "buyer": [],
-      "status": "Upload in progress",
-      "stage": "review",
-      "script_start": "2026-07-10",
-      "prod_started": null,
-      "prod_end": "2026-07-10",
-      "bp_submitted": null,
-      "due_date": "2026-07-11",
-      "updated_at": "2026-07-17T21:49:00.000Z",
-      "archived": false
-    },
-    {
-      "id": "399f714b-032a-80cb-9392-f972036676e5",
-      "url": "https://app.notion.com/p/Depo-38-h2-Cha-U-H-399f714b032a80cb9392f972036676e5",
-      "name": "Depo 38 [h2] [Cha] [U-H]",
-      "marketer": "Charlie",
-      "tags": [
-        "DEPO"
-      ],
-      "channel": null,
-      "editors": [],
-      "priority": null,
-      "buyer": [],
-      "status": "Upload in progress",
-      "stage": "review",
-      "script_start": "2026-07-10",
-      "prod_started": null,
-      "prod_end": "2026-07-10",
-      "bp_submitted": null,
-      "due_date": "2026-07-11",
-      "updated_at": "2026-07-17T21:49:00.000Z",
-      "archived": false
-    },
-    {
       "id": "398f714b-032a-8046-9942-c2bbaf9db61f",
       "url": "https://app.notion.com/p/CAW-086-090-Mo-Stinar-398f714b032a80469942c2bbaf9db61f",
       "name": "CAW 086-090 (Mo) - Stinar",
@@ -2000,14 +1888,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Video done / To be reviewed",
-      "stage": "review",
+      "status": "In review by Broughton",
+      "stage": "bp_review",
       "script_start": "2026-07-06",
       "prod_started": "2026-07-21",
-      "prod_end": null,
-      "bp_submitted": null,
+      "prod_end": "2026-07-26",
+      "bp_submitted": "2026-07-26",
       "due_date": "2026-07-14",
-      "updated_at": "2026-07-23T23:53:00.000Z",
+      "updated_at": "2026-07-26T06:31:00.000Z",
       "archived": false
     },
     {
@@ -4099,14 +3987,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Revisions in progress",
+      "status": "Video done / To be reviewed",
       "stage": "review",
       "script_start": "2026-06-10",
       "prod_started": "2026-07-04",
       "prod_end": "2026-07-23",
       "bp_submitted": null,
       "due_date": "2026-06-14",
-      "updated_at": "2026-07-23T14:36:00.000Z",
+      "updated_at": "2026-07-26T08:14:00.000Z",
       "archived": false
     },
     {
