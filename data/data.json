@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-07-26T14:07:30.765339Z",
+  "synced_at": "2026-07-27T04:00:37.709344Z",
   "task_count": 415,
   "tasks": [
     {
@@ -96,14 +96,14 @@
       "buyer": [
         "Pulaski"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "Video done / To be reviewed",
+      "stage": "review",
       "script_start": null,
       "prod_started": "2026-07-24",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-25",
-      "updated_at": "2026-07-24T01:40:00.000Z",
+      "updated_at": "2026-07-26T21:19:00.000Z",
       "archived": false
     },
     {
@@ -122,14 +122,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "Video done / To be reviewed",
+      "stage": "review",
       "script_start": null,
       "prod_started": "2026-07-24",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-25",
-      "updated_at": "2026-07-23T22:49:00.000Z",
+      "updated_at": "2026-07-26T17:19:00.000Z",
       "archived": false
     },
     {
@@ -252,14 +252,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Revisions in progress",
       "stage": "review",
       "script_start": null,
       "prod_started": "2026-07-23",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-24",
-      "updated_at": "2026-07-24T08:54:00.000Z",
+      "updated_at": "2026-07-27T03:20:00.000Z",
       "archived": false
     },
     {
@@ -304,14 +304,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Revisions in progress",
       "stage": "review",
       "script_start": null,
       "prod_started": "2026-07-22",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-24",
-      "updated_at": "2026-07-24T01:40:00.000Z",
+      "updated_at": "2026-07-27T03:07:00.000Z",
       "archived": false
     },
     {
@@ -330,14 +330,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "Video done / To be reviewed",
+      "stage": "review",
       "script_start": "2026-07-22",
       "prod_started": "2026-07-24",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-24",
-      "updated_at": "2026-07-24T07:11:00.000Z",
+      "updated_at": "2026-07-27T01:55:00.000Z",
       "archived": false
     },
     {
@@ -356,14 +356,14 @@
       "buyer": [
         "Pulaski"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "Video done / To be reviewed",
+      "stage": "review",
       "script_start": "2026-07-22",
       "prod_started": "2026-07-24",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-23",
-      "updated_at": "2026-07-24T07:11:00.000Z",
+      "updated_at": "2026-07-27T01:09:00.000Z",
       "archived": false
     },
     {
@@ -382,14 +382,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "In review by Stinar",
-      "stage": "bp_review",
+      "status": "To be uploaded - Brendan",
+      "stage": "review",
       "script_start": "2026-07-22",
       "prod_started": "2026-07-22",
       "prod_end": "2026-07-23",
       "bp_submitted": null,
       "due_date": "2026-07-23",
-      "updated_at": "2026-07-23T13:56:00.000Z",
+      "updated_at": "2026-07-26T15:02:00.000Z",
       "archived": false
     },
     {
@@ -434,14 +434,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "In review by Broughton",
-      "stage": "bp_review",
+      "status": "To be uploaded",
+      "stage": "review",
       "script_start": "2026-07-21",
       "prod_started": null,
       "prod_end": "2026-07-21",
       "bp_submitted": "2026-07-21",
       "due_date": "2026-07-21",
-      "updated_at": "2026-07-21T15:54:00.000Z",
+      "updated_at": "2026-07-26T17:17:00.000Z",
       "archived": false
     },
     {
@@ -460,14 +460,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Video done / To be reviewed",
-      "stage": "review",
+      "status": "In review by Broughton",
+      "stage": "bp_review",
       "script_start": "2026-07-21",
       "prod_started": "2026-07-22",
-      "prod_end": null,
-      "bp_submitted": null,
+      "prod_end": "2026-07-26",
+      "bp_submitted": "2026-07-26",
       "due_date": "2026-07-22",
-      "updated_at": "2026-07-25T09:23:00.000Z",
+      "updated_at": "2026-07-26T16:58:00.000Z",
       "archived": false
     },
     {
@@ -486,14 +486,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Revisions in progress",
+      "status": "Video done / To be reviewed",
       "stage": "review",
       "script_start": "2026-07-21",
       "prod_started": null,
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-23",
-      "updated_at": "2026-07-23T13:45:00.000Z",
+      "updated_at": "2026-07-26T20:07:00.000Z",
       "archived": false
     },
     {
@@ -642,14 +642,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "In review by Stinar",
-      "stage": "bp_review",
+      "status": "To be uploaded",
+      "stage": "review",
       "script_start": "2026-07-17",
       "prod_started": "2026-07-17",
       "prod_end": "2026-07-23",
       "bp_submitted": null,
       "due_date": "2026-07-19",
-      "updated_at": "2026-07-23T14:36:00.000Z",
+      "updated_at": "2026-07-26T15:18:00.000Z",
       "archived": false
     },
     {
@@ -1058,14 +1058,14 @@
       "buyer": [
         "Pulaski"
       ],
-      "status": "Revisions in progress",
+      "status": "Video done / To be reviewed",
       "stage": "review",
       "script_start": "2026-07-08",
       "prod_started": "2026-07-21",
       "prod_end": "2026-07-23",
       "bp_submitted": null,
       "due_date": "2026-07-18",
-      "updated_at": "2026-07-23T13:46:00.000Z",
+      "updated_at": "2026-07-27T01:42:00.000Z",
       "archived": false
     },
     {
@@ -1096,8 +1096,8 @@
     },
     {
       "id": "39df714b-032a-8067-8f9d-da4e87322b45",
-      "url": "https://app.notion.com/p/RDC-014-Mo-Switch-from-Stinar-to-Pulaski-39df714b032a80678f9dda4e87322b45",
-      "name": "RDC 014 (Mo) - Switch from Stinar to Pulaski",
+      "url": "https://app.notion.com/p/RDC-14-Mo-39df714b032a80678f9dda4e87322b45",
+      "name": "RDC 14 (Mo)",
       "marketer": "Morane",
       "tags": [
         "RDC"
@@ -1108,7 +1108,7 @@
       ],
       "priority": "High",
       "buyer": [
-        "Stinar Lannen"
+        "Pulaski"
       ],
       "status": "Video done / To be reviewed",
       "stage": "review",
@@ -1117,7 +1117,7 @@
       "prod_end": "2026-07-22",
       "bp_submitted": null,
       "due_date": "2026-07-18",
-      "updated_at": "2026-07-22T07:46:00.000Z",
+      "updated_at": "2026-07-26T17:38:00.000Z",
       "archived": false
     },
     {
@@ -1342,14 +1342,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "In review by Broughton",
-      "stage": "bp_review",
+      "status": "To be uploaded",
+      "stage": "review",
       "script_start": "2026-07-14",
       "prod_started": "2026-07-19",
       "prod_end": "2026-07-20",
       "bp_submitted": "2026-07-21",
       "due_date": "2026-07-15",
-      "updated_at": "2026-07-21T12:16:00.000Z",
+      "updated_at": "2026-07-26T15:19:00.000Z",
       "archived": false
     },
     {
@@ -1940,14 +1940,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Video done / To be reviewed",
-      "stage": "review",
+      "status": "In review by Broughton",
+      "stage": "bp_review",
       "script_start": "2026-07-06",
       "prod_started": "2026-07-22",
-      "prod_end": null,
-      "bp_submitted": null,
+      "prod_end": "2026-07-26",
+      "bp_submitted": "2026-07-26",
       "due_date": "2026-07-07",
-      "updated_at": "2026-07-23T10:01:00.000Z",
+      "updated_at": "2026-07-26T15:29:00.000Z",
       "archived": false
     },
     {
@@ -3175,8 +3175,8 @@
     },
     {
       "id": "389f714b-032a-8047-8af1-ee9e81c26f25",
-      "url": "https://app.notion.com/p/RDC-01-05-Mo-389f714b032a80478af1ee9e81c26f25",
-      "name": "RDC (01-05) (Mo)",
+      "url": "https://app.notion.com/p/RDC-1-5-Mo-389f714b032a80478af1ee9e81c26f25",
+      "name": "RDC 1-5 (Mo)",
       "marketer": "Morane",
       "tags": [
         "RDC"
@@ -3196,7 +3196,7 @@
       "prod_end": "2026-07-08",
       "bp_submitted": null,
       "due_date": "2026-07-02",
-      "updated_at": "2026-07-15T22:11:00.000Z",
+      "updated_at": "2026-07-26T17:34:00.000Z",
       "archived": false
     },
     {
@@ -3987,14 +3987,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Video done / To be reviewed",
-      "stage": "review",
+      "status": "In review by Broughton",
+      "stage": "bp_review",
       "script_start": "2026-06-10",
       "prod_started": "2026-07-04",
       "prod_end": "2026-07-23",
-      "bp_submitted": null,
+      "bp_submitted": "2026-07-26",
       "due_date": "2026-06-14",
-      "updated_at": "2026-07-26T08:14:00.000Z",
+      "updated_at": "2026-07-26T15:37:00.000Z",
       "archived": false
     },
     {
@@ -9474,8 +9474,8 @@
     },
     {
       "id": "325f714b-032a-8098-907f-cd288d11cd86",
-      "url": "https://app.notion.com/p/SMA-28-35-Ma-1-5-325f714b032a8098907fcd288d11cd86",
-      "name": "SMA 28-35 (Ma) (1-5)",
+      "url": "https://app.notion.com/p/SMA-28-35-Mo-1-5-325f714b032a8098907fcd288d11cd86",
+      "name": "SMA 28-35 (Mo) (1-5)",
       "marketer": "Morane",
       "tags": [
         "SMA"
@@ -9488,14 +9488,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Video done / To be reviewed",
-      "stage": "review",
+      "status": "In review by Broughton",
+      "stage": "bp_review",
       "script_start": "2026-04-11",
       "prod_started": "2026-07-16",
-      "prod_end": "2026-07-21",
-      "bp_submitted": null,
+      "prod_end": "2026-07-26",
+      "bp_submitted": "2026-07-26",
       "due_date": "2026-07-19",
-      "updated_at": "2026-07-23T16:37:00.000Z",
+      "updated_at": "2026-07-26T16:10:00.000Z",
       "archived": false
     },
     {
