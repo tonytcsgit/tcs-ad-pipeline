@@ -1,7 +1,33 @@
 {
-  "synced_at": "2026-07-29T09:44:43.328716Z",
-  "task_count": 425,
+  "synced_at": "2026-07-29T11:45:14.366383Z",
+  "task_count": 426,
   "tasks": [
+    {
+      "id": "3acf714b-032a-805d-9511-d561e065adbf",
+      "url": "https://app.notion.com/p/CHLOR-21-23-Cha-Wagstaff-3acf714b032a805d9511d561e065adbf",
+      "name": "CHLOR 21-23 (Cha) - Wagstaff",
+      "marketer": "Charlie",
+      "tags": [
+        "CHLOR"
+      ],
+      "channel": "META",
+      "editors": [
+        "Aarij & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "Wagstaff"
+      ],
+      "status": "Start production",
+      "stage": "production",
+      "script_start": "2026-07-06",
+      "prod_started": "2026-07-21",
+      "prod_end": "2026-07-29",
+      "bp_submitted": "2026-07-26",
+      "due_date": "2026-07-30",
+      "updated_at": "2026-07-29T10:06:00.000Z",
+      "archived": false
+    },
     {
       "id": "3acf714b-032a-80db-a24f-fd088e6a76a9",
       "url": "https://app.notion.com/p/TVM-12-16-Mo-3acf714b032a80dba24ffd088e6a76a9",
@@ -226,14 +252,14 @@
       "buyer": [
         "Wagstaff"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "Video done / To be reviewed",
+      "stage": "review",
       "script_start": "2026-07-27",
-      "prod_started": "2026-07-28",
+      "prod_started": "2026-07-29",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-28",
-      "updated_at": "2026-07-28T07:08:00.000Z",
+      "updated_at": "2026-07-29T10:45:00.000Z",
       "archived": false
     },
     {
@@ -408,14 +434,14 @@
       "buyer": [
         "Pulaski"
       ],
-      "status": "Revisions in progress",
+      "status": "Video done / To be reviewed",
       "stage": "review",
       "script_start": null,
       "prod_started": "2026-07-24",
       "prod_end": "2026-07-28",
       "bp_submitted": null,
       "due_date": "2026-07-25",
-      "updated_at": "2026-07-29T01:40:00.000Z",
+      "updated_at": "2026-07-29T10:08:00.000Z",
       "archived": false
     },
     {
@@ -642,14 +668,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Revisions in progress",
+      "status": "Video done / To be reviewed",
       "stage": "review",
       "script_start": "2026-07-22",
       "prod_started": "2026-07-24",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-24",
-      "updated_at": "2026-07-27T18:22:00.000Z",
+      "updated_at": "2026-07-29T11:05:00.000Z",
       "archived": false
     },
     {
@@ -720,14 +746,14 @@
       "buyer": [
         "Pulaski"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "To be uploaded - Brendan",
       "stage": "review",
       "script_start": "2026-07-21",
       "prod_started": "2026-07-25",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-23",
-      "updated_at": "2026-07-27T23:02:00.000Z",
+      "updated_at": "2026-07-29T09:58:00.000Z",
       "archived": false
     },
     {
@@ -1169,7 +1195,7 @@
       "prod_end": "2026-07-23",
       "bp_submitted": "2026-07-20",
       "due_date": "2026-07-29",
-      "updated_at": "2026-07-28T20:51:00.000Z",
+      "updated_at": "2026-07-29T11:09:00.000Z",
       "archived": false
     },
     {
@@ -4306,7 +4332,7 @@
       "prod_end": "2026-07-23",
       "bp_submitted": "2026-07-26",
       "due_date": "2026-07-29",
-      "updated_at": "2026-07-29T07:40:00.000Z",
+      "updated_at": "2026-07-29T09:54:00.000Z",
       "archived": false
     },
     {
