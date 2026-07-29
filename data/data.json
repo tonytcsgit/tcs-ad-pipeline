@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-07-29T21:47:32.445115Z",
+  "synced_at": "2026-07-29T23:48:25.090141Z",
   "task_count": 428,
   "tasks": [
     {
@@ -331,14 +331,14 @@
       "buyer": [
         "Wagstaff"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "To be uploaded",
       "stage": "review",
       "script_start": "2026-07-27",
       "prod_started": "2026-07-29",
       "prod_end": "2026-07-29",
       "bp_submitted": null,
       "due_date": "2026-07-28",
-      "updated_at": "2026-07-29T20:53:00.000Z",
+      "updated_at": "2026-07-29T22:10:00.000Z",
       "archived": false
     },
     {
