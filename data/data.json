@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-07-29T17:46:33.954083Z",
+  "synced_at": "2026-07-29T19:47:04.605676Z",
   "task_count": 428,
   "tasks": [
     {
@@ -1241,14 +1241,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Upload in progress",
-      "stage": "review",
+      "status": "Uploaded",
+      "stage": "done",
       "script_start": "2026-07-15",
       "prod_started": "2026-07-16",
       "prod_end": "2026-07-17",
       "bp_submitted": "2026-07-17",
       "due_date": "2026-07-22",
-      "updated_at": "2026-07-22T11:04:00.000Z",
+      "updated_at": "2026-07-29T18:54:00.000Z",
       "archived": false
     },
     {
@@ -2461,14 +2461,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Upload in progress",
-      "stage": "review",
+      "status": "Uploaded",
+      "stage": "done",
       "script_start": "2026-07-08",
       "prod_started": "2026-07-09",
       "prod_end": "2026-07-17",
       "bp_submitted": null,
       "due_date": "2026-07-22",
-      "updated_at": "2026-07-22T07:16:00.000Z",
+      "updated_at": "2026-07-29T18:52:00.000Z",
       "archived": false
     },
     {
@@ -3086,14 +3086,14 @@
         "LCA",
         "Pulaski"
       ],
-      "status": "Upload in progress",
-      "stage": "review",
+      "status": "Uploaded",
+      "stage": "done",
       "script_start": "2026-06-30",
       "prod_started": "2026-07-01",
       "prod_end": "2026-07-06",
       "bp_submitted": null,
       "due_date": "2026-07-16",
-      "updated_at": "2026-07-17T22:50:00.000Z",
+      "updated_at": "2026-07-29T18:53:00.000Z",
       "archived": false
     },
     {
@@ -5652,14 +5652,14 @@
         "Pulaski",
         "LCA"
       ],
-      "status": "Upload in progress",
-      "stage": "review",
+      "status": "Uploaded",
+      "stage": "done",
       "script_start": null,
       "prod_started": "2026-05-28",
       "prod_end": "2026-06-03",
       "bp_submitted": null,
       "due_date": "2026-07-06",
-      "updated_at": "2026-07-04T00:38:00.000Z",
+      "updated_at": "2026-07-29T18:53:00.000Z",
       "archived": false
     },
     {
