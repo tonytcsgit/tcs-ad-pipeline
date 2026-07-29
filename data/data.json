@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-07-29T19:47:04.605676Z",
+  "synced_at": "2026-07-29T21:47:32.445115Z",
   "task_count": 428,
   "tasks": [
     {
@@ -253,14 +253,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "Video done / To be reviewed",
+      "stage": "review",
       "script_start": "2026-07-28",
       "prod_started": "2026-07-28",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-30",
-      "updated_at": "2026-07-28T14:49:00.000Z",
+      "updated_at": "2026-07-29T21:08:00.000Z",
       "archived": false
     },
     {
@@ -305,14 +305,14 @@
       "buyer": [
         "Wagstaff"
       ],
-      "status": "Revisions in progress",
+      "status": "To be uploaded",
       "stage": "review",
       "script_start": "2026-07-27",
       "prod_started": "2026-07-28",
       "prod_end": "2026-07-29",
       "bp_submitted": null,
       "due_date": "2026-07-28",
-      "updated_at": "2026-07-29T14:40:00.000Z",
+      "updated_at": "2026-07-29T20:49:00.000Z",
       "archived": false
     },
     {
@@ -331,14 +331,14 @@
       "buyer": [
         "Wagstaff"
       ],
-      "status": "Revisions in progress",
+      "status": "Video done / To be reviewed",
       "stage": "review",
       "script_start": "2026-07-27",
       "prod_started": "2026-07-29",
       "prod_end": "2026-07-29",
       "bp_submitted": null,
       "due_date": "2026-07-28",
-      "updated_at": "2026-07-29T12:14:00.000Z",
+      "updated_at": "2026-07-29T20:53:00.000Z",
       "archived": false
     },
     {
@@ -357,14 +357,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "In review by Broughton",
-      "stage": "bp_review",
+      "status": "To be uploaded",
+      "stage": "review",
       "script_start": "2026-07-27",
       "prod_started": "2026-07-28",
       "prod_end": "2026-07-29",
       "bp_submitted": "2026-07-29",
       "due_date": "2026-07-28",
-      "updated_at": "2026-07-29T13:27:00.000Z",
+      "updated_at": "2026-07-29T20:01:00.000Z",
       "archived": false
     },
     {
@@ -409,14 +409,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "In review by Broughton",
-      "stage": "bp_review",
+      "status": "To be uploaded",
+      "stage": "review",
       "script_start": "2026-07-27",
       "prod_started": "2026-07-28",
       "prod_end": "2026-07-29",
       "bp_submitted": "2026-07-29",
       "due_date": "2026-07-27",
-      "updated_at": "2026-07-29T12:30:00.000Z",
+      "updated_at": "2026-07-29T20:01:00.000Z",
       "archived": false
     },
     {
@@ -1629,14 +1629,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "In review by Broughton",
-      "stage": "bp_review",
+      "status": "To be uploaded",
+      "stage": "review",
       "script_start": "2026-07-14",
       "prod_started": "2026-07-19",
       "prod_end": "2026-07-28",
       "bp_submitted": "2026-07-29",
       "due_date": "2026-07-16",
-      "updated_at": "2026-07-29T12:20:00.000Z",
+      "updated_at": "2026-07-29T20:00:00.000Z",
       "archived": false
     },
     {
