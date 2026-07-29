@@ -1,7 +1,33 @@
 {
-  "synced_at": "2026-07-29T07:44:15.292991Z",
-  "task_count": 424,
+  "synced_at": "2026-07-29T09:44:43.328716Z",
+  "task_count": 425,
   "tasks": [
+    {
+      "id": "3acf714b-032a-80db-a24f-fd088e6a76a9",
+      "url": "https://app.notion.com/p/TVM-12-16-Mo-3acf714b032a80dba24ffd088e6a76a9",
+      "name": "TVM 12-16 (Mo)",
+      "marketer": "Morane",
+      "tags": [
+        "TVM"
+      ],
+      "channel": "META",
+      "editors": [
+        "Shahid & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "BP"
+      ],
+      "status": "Working on it",
+      "stage": "production",
+      "script_start": "2026-07-29",
+      "prod_started": "2026-07-29",
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-07-29",
+      "updated_at": "2026-07-29T09:34:00.000Z",
+      "archived": false
+    },
     {
       "id": "3acf714b-032a-8169-a385-f926c95f7d65",
       "url": "https://app.notion.com/p/CHLOR-26-28-Jor-Wagstaff-3acf714b032a8169a385f926c95f7d65",
@@ -304,14 +330,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "In review by Broughton",
-      "stage": "bp_review",
+      "status": "To be uploaded",
+      "stage": "review",
       "script_start": "2026-07-23",
       "prod_started": "2026-07-24",
       "prod_end": "2026-07-26",
       "bp_submitted": "2026-07-27",
       "due_date": "2026-07-25",
-      "updated_at": "2026-07-27T18:25:00.000Z",
+      "updated_at": "2026-07-29T09:39:00.000Z",
       "archived": false
     },
     {
@@ -330,14 +356,14 @@
       "buyer": [
         "Pulaski"
       ],
-      "status": "To be uploaded",
+      "status": "Upload in progress",
       "stage": "review",
       "script_start": null,
       "prod_started": "2026-07-23",
       "prod_end": "2026-07-29",
       "bp_submitted": null,
-      "due_date": "2026-07-25",
-      "updated_at": "2026-07-29T02:31:00.000Z",
+      "due_date": "2026-07-30",
+      "updated_at": "2026-07-29T07:56:00.000Z",
       "archived": false
     },
     {
@@ -408,14 +434,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "To be uploaded",
+      "status": "Upload in progress",
       "stage": "review",
       "script_start": null,
       "prod_started": "2026-07-24",
       "prod_end": "2026-07-28",
       "bp_submitted": null,
       "due_date": "2026-07-25",
-      "updated_at": "2026-07-28T08:49:00.000Z",
+      "updated_at": "2026-07-29T08:42:00.000Z",
       "archived": false
     },
     {
@@ -486,14 +512,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "In review by Broughton",
-      "stage": "bp_review",
+      "status": "To be uploaded",
+      "stage": "review",
       "script_start": "2026-07-23",
       "prod_started": null,
       "prod_end": "2026-07-27",
       "bp_submitted": "2026-07-27",
       "due_date": "2026-07-26",
-      "updated_at": "2026-07-27T13:52:00.000Z",
+      "updated_at": "2026-07-29T09:39:00.000Z",
       "archived": false
     },
     {
@@ -512,14 +538,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "To be uploaded",
+      "status": "Upload in progress",
       "stage": "review",
       "script_start": "2026-07-23",
       "prod_started": "2026-07-23",
       "prod_end": "2026-07-23",
       "bp_submitted": "2026-07-26",
-      "due_date": "2026-07-23",
-      "updated_at": "2026-07-27T18:10:00.000Z",
+      "due_date": "2026-07-29",
+      "updated_at": "2026-07-29T08:03:00.000Z",
       "archived": false
     },
     {
@@ -590,14 +616,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "To be uploaded",
+      "status": "Upload in progress",
       "stage": "review",
       "script_start": null,
       "prod_started": "2026-07-22",
       "prod_end": "2026-07-28",
       "bp_submitted": "2026-07-28",
-      "due_date": "2026-07-24",
-      "updated_at": "2026-07-28T22:13:00.000Z",
+      "due_date": "2026-07-29",
+      "updated_at": "2026-07-29T08:03:00.000Z",
       "archived": false
     },
     {
@@ -1344,14 +1370,14 @@
       "buyer": [
         "Pulaski"
       ],
-      "status": "To be uploaded",
+      "status": "Upload in progress",
       "stage": "review",
       "script_start": "2026-07-08",
       "prod_started": "2026-07-21",
       "prod_end": "2026-07-28",
       "bp_submitted": null,
       "due_date": "2026-07-18",
-      "updated_at": "2026-07-28T09:19:00.000Z",
+      "updated_at": "2026-07-29T07:53:00.000Z",
       "archived": false
     },
     {
@@ -2226,14 +2252,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "To be uploaded",
+      "status": "Upload in progress",
       "stage": "review",
       "script_start": "2026-07-06",
       "prod_started": "2026-07-22",
       "prod_end": "2026-07-26",
       "bp_submitted": "2026-07-26",
       "due_date": "2026-07-30",
-      "updated_at": "2026-07-29T07:44:00.000Z",
+      "updated_at": "2026-07-29T07:47:00.000Z",
       "archived": false
     },
     {
@@ -9748,14 +9774,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "To be uploaded",
+      "status": "Upload in progress",
       "stage": "review",
       "script_start": "2026-04-11",
       "prod_started": "2026-07-16",
       "prod_end": "2026-07-26",
       "bp_submitted": "2026-07-26",
       "due_date": "2026-07-19",
-      "updated_at": "2026-07-28T18:53:00.000Z",
+      "updated_at": "2026-07-29T07:49:00.000Z",
       "archived": false
     },
     {
