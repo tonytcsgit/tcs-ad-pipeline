@@ -1,7 +1,59 @@
 {
-  "synced_at": "2026-07-29T01:42:57.655081Z",
-  "task_count": 421,
+  "synced_at": "2026-07-29T03:43:24.071722Z",
+  "task_count": 423,
   "tasks": [
+    {
+      "id": "3acf714b-032a-8171-925b-eceeec64c866",
+      "url": "https://app.notion.com/p/DEPO-60-IT-Jor-3acf714b032a8171925beceeec64c866",
+      "name": "DEPO 60-IT (Jor)",
+      "marketer": "Jordan",
+      "tags": [
+        "DEPO"
+      ],
+      "channel": "META",
+      "editors": [
+        "Jordan & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "Pulaski"
+      ],
+      "status": "Start production",
+      "stage": "script",
+      "script_start": null,
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-07-31",
+      "updated_at": "2026-07-29T02:24:00.000Z",
+      "archived": false
+    },
+    {
+      "id": "3acf714b-032a-8180-9f8a-e2fb5d23f463",
+      "url": "https://app.notion.com/p/YT-DEPO-60-IT-Jor-3acf714b032a81809f8ae2fb5d23f463",
+      "name": "YT DEPO 60-IT (Jor)",
+      "marketer": "Jordan",
+      "tags": [
+        "DEPO"
+      ],
+      "channel": "YT",
+      "editors": [
+        "Jordan & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "Pulaski"
+      ],
+      "status": "Start production",
+      "stage": "script",
+      "script_start": null,
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-07-31",
+      "updated_at": "2026-07-29T02:24:00.000Z",
+      "archived": false
+    },
     {
       "id": "3abf714b-032a-8167-883f-fbf5b7b66ea0",
       "url": "https://app.notion.com/p/TVM-9-11-Jor-3abf714b032a8167883ffbf5b7b66ea0",
@@ -259,7 +311,7 @@
       "prod_end": "2026-07-29",
       "bp_submitted": null,
       "due_date": "2026-07-25",
-      "updated_at": "2026-07-29T01:39:00.000Z",
+      "updated_at": "2026-07-29T02:31:00.000Z",
       "archived": false
     },
     {
@@ -857,7 +909,7 @@
       "prod_end": "2026-07-23",
       "bp_submitted": null,
       "due_date": "2026-07-27",
-      "updated_at": "2026-07-27T14:31:00.000Z",
+      "updated_at": "2026-07-29T01:58:00.000Z",
       "archived": false
     },
     {
@@ -2441,7 +2493,7 @@
       "prod_end": "2026-07-16",
       "bp_submitted": null,
       "due_date": "2026-07-20",
-      "updated_at": "2026-07-19T21:58:00.000Z",
+      "updated_at": "2026-07-29T01:52:00.000Z",
       "archived": false
     },
     {
@@ -6800,14 +6852,14 @@
         "Pulaski",
         "LCA"
       ],
-      "status": "To be uploaded - Brendan",
-      "stage": "review",
+      "status": "Uploaded",
+      "stage": "done",
       "script_start": "2026-05-07",
       "prod_started": "2026-05-07",
       "prod_end": "2026-05-09",
       "bp_submitted": null,
       "due_date": "2026-05-07",
-      "updated_at": "2026-06-24T16:04:00.000Z",
+      "updated_at": "2026-07-29T02:31:00.000Z",
       "archived": false
     },
     {
