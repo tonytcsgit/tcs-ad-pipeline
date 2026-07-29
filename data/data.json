@@ -1,7 +1,60 @@
 {
-  "synced_at": "2026-07-29T11:45:14.366383Z",
-  "task_count": 426,
+  "synced_at": "2026-07-29T13:45:38.098276Z",
+  "task_count": 427,
   "tasks": [
+    {
+      "id": "3acf714b-032a-80c9-a44e-cb5bbc1b78ce",
+      "url": "https://app.notion.com/p/HM-YT-49-50-Cha-3acf714b032a80c9a44ecb5bbc1b78ce",
+      "name": "HM YT 49-50 (Cha)",
+      "marketer": "Charlie",
+      "tags": [
+        "HM"
+      ],
+      "channel": "YT",
+      "editors": [
+        "Shahid & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "BP"
+      ],
+      "status": "Start production",
+      "stage": "script",
+      "script_start": "2026-07-29",
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-07-31",
+      "updated_at": "2026-07-29T13:34:00.000Z",
+      "archived": false
+    },
+    {
+      "id": "3acf714b-032a-8063-b0e8-f8a792764d07",
+      "url": "https://app.notion.com/p/DEPO-YT-55-IT-cha-3acf714b032a8063b0e8f8a792764d07",
+      "name": "DEPO YT 55-IT (cha)",
+      "marketer": "Charlie",
+      "tags": [
+        "DEPO"
+      ],
+      "channel": "YT",
+      "editors": [
+        "Ahmed & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "Pulaski",
+        "LCA"
+      ],
+      "status": "Start production",
+      "stage": "script",
+      "script_start": "2026-07-29",
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-07-31",
+      "updated_at": "2026-07-29T12:15:00.000Z",
+      "archived": false
+    },
     {
       "id": "3acf714b-032a-805d-9511-d561e065adbf",
       "url": "https://app.notion.com/p/CHLOR-21-23-Cha-Wagstaff-3acf714b032a805d9511d561e065adbf",
@@ -252,14 +305,14 @@
       "buyer": [
         "Wagstaff"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Revisions in progress",
       "stage": "review",
       "script_start": "2026-07-27",
       "prod_started": "2026-07-29",
-      "prod_end": null,
+      "prod_end": "2026-07-29",
       "bp_submitted": null,
       "due_date": "2026-07-28",
-      "updated_at": "2026-07-29T10:45:00.000Z",
+      "updated_at": "2026-07-29T12:14:00.000Z",
       "archived": false
     },
     {
@@ -278,14 +331,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "In review by Broughton",
+      "stage": "bp_review",
       "script_start": "2026-07-27",
       "prod_started": "2026-07-28",
-      "prod_end": null,
-      "bp_submitted": null,
+      "prod_end": "2026-07-29",
+      "bp_submitted": "2026-07-29",
       "due_date": "2026-07-28",
-      "updated_at": "2026-07-28T04:30:00.000Z",
+      "updated_at": "2026-07-29T13:27:00.000Z",
       "archived": false
     },
     {
@@ -330,14 +383,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Revisions in progress",
-      "stage": "review",
+      "status": "In review by Broughton",
+      "stage": "bp_review",
       "script_start": "2026-07-27",
       "prod_started": "2026-07-28",
-      "prod_end": null,
-      "bp_submitted": null,
+      "prod_end": "2026-07-29",
+      "bp_submitted": "2026-07-29",
       "due_date": "2026-07-27",
-      "updated_at": "2026-07-28T19:39:00.000Z",
+      "updated_at": "2026-07-29T12:30:00.000Z",
       "archived": false
     },
     {
@@ -408,14 +461,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Revisions in progress",
+      "status": "Video done / To be reviewed",
       "stage": "review",
       "script_start": null,
       "prod_started": "2026-07-23",
       "prod_end": "2026-07-29",
       "bp_submitted": null,
       "due_date": "2026-07-25",
-      "updated_at": "2026-07-29T01:37:00.000Z",
+      "updated_at": "2026-07-29T12:58:00.000Z",
       "archived": false
     },
     {
@@ -668,14 +721,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Video done / To be reviewed",
-      "stage": "review",
+      "status": "In review by Stinar",
+      "stage": "bp_review",
       "script_start": "2026-07-22",
       "prod_started": "2026-07-24",
-      "prod_end": null,
+      "prod_end": "2026-07-29",
       "bp_submitted": null,
       "due_date": "2026-07-24",
-      "updated_at": "2026-07-29T11:05:00.000Z",
+      "updated_at": "2026-07-29T11:48:00.000Z",
       "archived": false
     },
     {
@@ -935,7 +988,7 @@
       "prod_end": "2026-07-19",
       "bp_submitted": "2026-07-19",
       "due_date": "2026-07-30",
-      "updated_at": "2026-07-29T07:23:00.000Z",
+      "updated_at": "2026-07-29T11:54:00.000Z",
       "archived": false
     },
     {
@@ -1550,14 +1603,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Revisions in progress",
-      "stage": "review",
+      "status": "In review by Broughton",
+      "stage": "bp_review",
       "script_start": "2026-07-14",
       "prod_started": "2026-07-19",
       "prod_end": "2026-07-28",
-      "bp_submitted": null,
+      "bp_submitted": "2026-07-29",
       "due_date": "2026-07-16",
-      "updated_at": "2026-07-28T19:33:00.000Z",
+      "updated_at": "2026-07-29T12:20:00.000Z",
       "archived": false
     },
     {
@@ -2779,7 +2832,7 @@
       "prod_end": "2026-07-14",
       "bp_submitted": "2026-07-20",
       "due_date": "2026-07-29",
-      "updated_at": "2026-07-27T10:55:00.000Z",
+      "updated_at": "2026-07-29T12:28:00.000Z",
       "archived": false
     },
     {
@@ -10146,30 +10199,6 @@
       "bp_submitted": null,
       "due_date": "2026-03-07",
       "updated_at": "2026-05-27T17:43:00.000Z",
-      "archived": false
-    },
-    {
-      "id": "318f714b-032a-80fd-9d23-ce140496637e",
-      "url": "https://app.notion.com/p/YT-SMA-7-Mo-318f714b032a80fd9d23ce140496637e",
-      "name": "YT SMA 7 (Mo)",
-      "marketer": "Morane",
-      "tags": [
-        "SMA"
-      ],
-      "channel": "YT",
-      "editors": [],
-      "priority": "High",
-      "buyer": [
-        "BP"
-      ],
-      "status": "Start production",
-      "stage": "production",
-      "script_start": "2026-03-16",
-      "prod_started": "2026-03-16",
-      "prod_end": "2026-03-19",
-      "bp_submitted": null,
-      "due_date": "2026-03-23",
-      "updated_at": "2026-06-25T22:02:00.000Z",
       "archived": false
     },
     {
