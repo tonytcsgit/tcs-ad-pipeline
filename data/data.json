@@ -1,7 +1,33 @@
 {
-  "synced_at": "2026-07-29T23:48:25.090141Z",
-  "task_count": 428,
+  "synced_at": "2026-07-30T01:48:52.496313Z",
+  "task_count": 429,
   "tasks": [
+    {
+      "id": "3adf714b-032a-808f-a68e-e360d2803ec5",
+      "url": "https://app.notion.com/p/TVM-21-23-Mo-3adf714b032a808fa68ee360d2803ec5",
+      "name": "TVM 21-23 (Mo)",
+      "marketer": "Morane",
+      "tags": [
+        "TVM"
+      ],
+      "channel": "META",
+      "editors": [
+        "Ahmed & Team"
+      ],
+      "priority": null,
+      "buyer": [
+        "BP"
+      ],
+      "status": "Start production",
+      "stage": "script",
+      "script_start": "2026-07-30",
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-07-30",
+      "updated_at": "2026-07-30T00:03:00.000Z",
+      "archived": false
+    },
     {
       "id": "3acf714b-032a-80ba-aabc-f19959d854ff",
       "url": "https://app.notion.com/p/TVM-17-20-Mo-3acf714b032a80baaabcf19959d854ff",
