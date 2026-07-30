@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-07-30T19:53:02.072514Z",
+  "synced_at": "2026-07-30T23:54:19.668576Z",
   "task_count": 431,
   "tasks": [
     {
@@ -96,14 +96,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Revisions in progress",
-      "stage": "review",
+      "status": "In review by Broughton",
+      "stage": "bp_review",
       "script_start": "2026-07-29",
       "prod_started": "2026-07-30",
-      "prod_end": null,
-      "bp_submitted": null,
+      "prod_end": "2026-07-31",
+      "bp_submitted": "2026-07-30",
       "due_date": "2026-07-29",
-      "updated_at": "2026-07-30T15:23:00.000Z",
+      "updated_at": "2026-07-30T22:19:00.000Z",
       "archived": false
     },
     {
@@ -201,14 +201,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Revisions in progress",
-      "stage": "review",
+      "status": "In review by Broughton",
+      "stage": "bp_review",
       "script_start": "2026-07-29",
       "prod_started": "2026-07-29",
-      "prod_end": null,
-      "bp_submitted": null,
+      "prod_end": "2026-07-31",
+      "bp_submitted": "2026-07-30",
       "due_date": "2026-07-29",
-      "updated_at": "2026-07-30T15:10:00.000Z",
+      "updated_at": "2026-07-30T22:16:00.000Z",
       "archived": false
     },
     {
