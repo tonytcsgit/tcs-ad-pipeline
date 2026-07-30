@@ -1,7 +1,33 @@
 {
-  "synced_at": "2026-07-30T15:52:12.429392Z",
-  "task_count": 430,
+  "synced_at": "2026-07-30T17:52:41.970743Z",
+  "task_count": 431,
   "tasks": [
+    {
+      "id": "3adf714b-032a-801b-92cb-d9bf2daf547b",
+      "url": "https://app.notion.com/p/TVM-27-28-Mo-3adf714b032a801b92cbd9bf2daf547b",
+      "name": "TVM 27-28 (Mo)",
+      "marketer": "Morane",
+      "tags": [
+        "TVM"
+      ],
+      "channel": "META",
+      "editors": [
+        "Ahmed & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "BP"
+      ],
+      "status": "Start production",
+      "stage": "script",
+      "script_start": "2026-07-30",
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-07-30",
+      "updated_at": "2026-07-30T16:10:00.000Z",
+      "archived": false
+    },
     {
       "id": "3adf714b-032a-812a-a0d3-cdb73c2388a4",
       "url": "https://app.notion.com/p/TVM-24-26-Jor-3adf714b032a812aa0d3cdb73c2388a4",
