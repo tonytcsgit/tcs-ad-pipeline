@@ -1,7 +1,33 @@
 {
-  "synced_at": "2026-07-31T15:58:26.538777Z",
-  "task_count": 431,
+  "synced_at": "2026-07-31T17:58:53.380113Z",
+  "task_count": 432,
   "tasks": [
+    {
+      "id": "3aef714b-032a-8070-91b1-c55eb1efb3b8",
+      "url": "https://app.notion.com/p/TVM-20-AI-News-Mo-3aef714b032a807091b1c55eb1efb3b8",
+      "name": "TVM 20 (AI-News) (Mo)",
+      "marketer": "Morane",
+      "tags": [
+        "TVM"
+      ],
+      "channel": "META",
+      "editors": [
+        "Morane"
+      ],
+      "priority": "High",
+      "buyer": [
+        "BP"
+      ],
+      "status": "In review by Broughton",
+      "stage": "bp_review",
+      "script_start": "2026-07-31",
+      "prod_started": null,
+      "prod_end": "2026-07-31",
+      "bp_submitted": "2026-07-31",
+      "due_date": "2026-07-31",
+      "updated_at": "2026-07-31T16:58:00.000Z",
+      "archived": false
+    },
     {
       "id": "3adf714b-032a-801b-92cb-d9bf2daf547b",
       "url": "https://app.notion.com/p/TVM-27-28-Mo-3adf714b032a801b92cbd9bf2daf547b",
@@ -201,14 +227,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Upload in progress",
+      "status": "To be uploaded",
       "stage": "review",
       "script_start": "2026-07-29",
       "prod_started": "2026-07-29",
       "prod_end": "2026-07-31",
       "bp_submitted": "2026-07-30",
       "due_date": "2026-07-29",
-      "updated_at": "2026-07-31T15:33:00.000Z",
+      "updated_at": "2026-07-31T16:58:00.000Z",
       "archived": false
     },
     {
