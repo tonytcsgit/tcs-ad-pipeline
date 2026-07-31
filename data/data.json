@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-07-31T13:57:58.064417Z",
+  "synced_at": "2026-07-31T15:58:26.538777Z",
   "task_count": 431,
   "tasks": [
     {
@@ -18,14 +18,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Revisions in progress",
       "stage": "review",
       "script_start": "2026-07-30",
       "prod_started": null,
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-30",
-      "updated_at": "2026-07-31T08:22:00.000Z",
+      "updated_at": "2026-07-31T14:53:00.000Z",
       "archived": false
     },
     {
@@ -66,18 +66,18 @@
       "editors": [
         "Ahmed & Team"
       ],
-      "priority": null,
+      "priority": "High",
       "buyer": [
         "BP"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Revisions in progress",
       "stage": "review",
       "script_start": "2026-07-30",
       "prod_started": null,
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-30",
-      "updated_at": "2026-07-31T12:26:00.000Z",
+      "updated_at": "2026-07-31T15:00:00.000Z",
       "archived": false
     },
     {
@@ -96,14 +96,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "In review by Broughton",
-      "stage": "bp_review",
+      "status": "To be uploaded",
+      "stage": "review",
       "script_start": "2026-07-29",
       "prod_started": "2026-07-30",
       "prod_end": "2026-07-31",
       "bp_submitted": "2026-07-30",
       "due_date": "2026-07-29",
-      "updated_at": "2026-07-30T22:19:00.000Z",
+      "updated_at": "2026-07-31T15:19:00.000Z",
       "archived": false
     },
     {
@@ -201,14 +201,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "In review by Broughton",
-      "stage": "bp_review",
+      "status": "Upload in progress",
+      "stage": "review",
       "script_start": "2026-07-29",
       "prod_started": "2026-07-29",
       "prod_end": "2026-07-31",
       "bp_submitted": "2026-07-30",
       "due_date": "2026-07-29",
-      "updated_at": "2026-07-30T22:16:00.000Z",
+      "updated_at": "2026-07-31T15:33:00.000Z",
       "archived": false
     },
     {
@@ -357,14 +357,14 @@
       "buyer": [
         "Wagstaff"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "To be uploaded",
       "stage": "review",
       "script_start": "2026-07-27",
       "prod_started": "2026-07-28",
       "prod_end": "2026-07-29",
       "bp_submitted": null,
       "due_date": "2026-07-28",
-      "updated_at": "2026-07-30T08:06:00.000Z",
+      "updated_at": "2026-07-31T15:13:00.000Z",
       "archived": false
     },
     {
@@ -565,14 +565,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "In review by Stinar",
-      "stage": "bp_review",
+      "status": "To be uploaded",
+      "stage": "review",
       "script_start": null,
       "prod_started": "2026-07-23",
       "prod_end": "2026-07-29",
       "bp_submitted": null,
       "due_date": "2026-07-25",
-      "updated_at": "2026-07-30T02:02:00.000Z",
+      "updated_at": "2026-07-31T15:10:00.000Z",
       "archived": false
     },
     {
@@ -811,8 +811,8 @@
     },
     {
       "id": "3a4f714b-032a-8026-8f56-ff2052bd73fa",
-      "url": "https://app.notion.com/p/RCL-029-YT-Cha-Stinar-3a4f714b032a80268f56ff2052bd73fa",
-      "name": "RCL 029 YT (Cha) - Stinar",
+      "url": "https://app.notion.com/p/YT-RCL-029-Cha-Stinar-3a4f714b032a80268f56ff2052bd73fa",
+      "name": "YT RCL 029 (Cha) - Stinar",
       "marketer": "Charlie",
       "tags": [
         "RCL"
@@ -825,20 +825,20 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "In review by Stinar",
-      "stage": "bp_review",
+      "status": "To be uploaded - Brendan",
+      "stage": "review",
       "script_start": "2026-07-22",
       "prod_started": "2026-07-24",
       "prod_end": "2026-07-29",
       "bp_submitted": null,
       "due_date": "2026-07-24",
-      "updated_at": "2026-07-29T11:48:00.000Z",
+      "updated_at": "2026-07-31T15:05:00.000Z",
       "archived": false
     },
     {
       "id": "3a4f714b-032a-8084-9ceb-d2ff34f4b4a7",
-      "url": "https://app.notion.com/p/RCL-28-YT-Cha-3a4f714b032a80849cebd2ff34f4b4a7",
-      "name": "RCL 28 YT (Cha)",
+      "url": "https://app.notion.com/p/YT-RCL-28-Cha-3a4f714b032a80849cebd2ff34f4b4a7",
+      "name": "YT RCL 28 (Cha)",
       "marketer": "Charlie",
       "tags": [
         "RCL"
@@ -858,7 +858,7 @@
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-23",
-      "updated_at": "2026-07-27T18:15:00.000Z",
+      "updated_at": "2026-07-31T15:05:00.000Z",
       "archived": false
     },
     {
@@ -1655,14 +1655,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "To be uploaded",
+      "status": "To be uploaded - Brendan",
       "stage": "review",
       "script_start": "2026-07-14",
       "prod_started": "2026-07-17",
       "prod_end": "2026-07-28",
       "bp_submitted": null,
       "due_date": "2026-07-20",
-      "updated_at": "2026-07-28T08:39:00.000Z",
+      "updated_at": "2026-07-31T15:05:00.000Z",
       "archived": false
     },
     {
