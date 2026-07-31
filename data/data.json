@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-07-31T09:57:03.166310Z",
+  "synced_at": "2026-07-31T13:57:58.064417Z",
   "task_count": 431,
   "tasks": [
     {
@@ -44,14 +44,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Start production",
-      "stage": "script",
+      "status": "Working on it",
+      "stage": "production",
       "script_start": null,
-      "prod_started": null,
+      "prod_started": "2026-07-31",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-08-01",
-      "updated_at": "2026-07-31T08:22:00.000Z",
+      "updated_at": "2026-07-31T12:20:00.000Z",
       "archived": false
     },
     {
@@ -70,14 +70,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Start production",
-      "stage": "script",
+      "status": "Video done / To be reviewed",
+      "stage": "review",
       "script_start": "2026-07-30",
       "prod_started": null,
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-30",
-      "updated_at": "2026-07-30T00:03:00.000Z",
+      "updated_at": "2026-07-31T12:26:00.000Z",
       "archived": false
     },
     {
@@ -122,14 +122,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "Video done / To be reviewed",
+      "stage": "review",
       "script_start": "2026-07-29",
       "prod_started": "2026-07-30",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-31",
-      "updated_at": "2026-07-30T08:08:00.000Z",
+      "updated_at": "2026-07-31T13:33:00.000Z",
       "archived": false
     },
     {
@@ -149,14 +149,14 @@
         "Pulaski",
         "LCA"
       ],
-      "status": "Start production",
+      "status": "Working on it",
       "stage": "production",
       "script_start": "2026-07-29",
       "prod_started": "2026-07-31",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-31",
-      "updated_at": "2026-07-31T08:22:00.000Z",
+      "updated_at": "2026-07-31T12:20:00.000Z",
       "archived": false
     },
     {
