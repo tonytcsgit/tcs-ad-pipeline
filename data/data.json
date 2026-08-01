@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-08-01T08:02:56.052283Z",
+  "synced_at": "2026-08-01T12:05:04.673953Z",
   "task_count": 432,
   "tasks": [
     {
@@ -152,10 +152,10 @@
       "stage": "review",
       "script_start": "2026-07-29",
       "prod_started": "2026-07-30",
-      "prod_end": null,
+      "prod_end": "2026-08-01",
       "bp_submitted": null,
       "due_date": "2026-07-31",
-      "updated_at": "2026-07-31T13:33:00.000Z",
+      "updated_at": "2026-08-01T11:59:00.000Z",
       "archived": false
     },
     {
@@ -357,14 +357,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Video done / To be reviewed",
-      "stage": "review",
+      "status": "In review by Broughton",
+      "stage": "bp_review",
       "script_start": "2026-07-28",
       "prod_started": "2026-07-28",
       "prod_end": null,
-      "bp_submitted": null,
+      "bp_submitted": "2026-08-01",
       "due_date": "2026-07-30",
-      "updated_at": "2026-07-30T12:43:00.000Z",
+      "updated_at": "2026-08-01T11:57:00.000Z",
       "archived": false
     },
     {
@@ -2468,7 +2468,7 @@
       "prod_end": "2026-07-26",
       "bp_submitted": "2026-07-26",
       "due_date": "2026-07-30",
-      "updated_at": "2026-07-31T07:19:00.000Z",
+      "updated_at": "2026-08-01T10:07:00.000Z",
       "archived": false
     },
     {
