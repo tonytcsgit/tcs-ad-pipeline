@@ -1,7 +1,59 @@
 {
-  "synced_at": "2026-08-01T12:05:04.673953Z",
-  "task_count": 432,
+  "synced_at": "2026-08-01T14:05:33.100164Z",
+  "task_count": 434,
   "tasks": [
+    {
+      "id": "3aff714b-032a-800d-8402-efaecdd02991",
+      "url": "https://app.notion.com/p/CHLOR-24-25-Mo-3aff714b032a800d8402efaecdd02991",
+      "name": "CHLOR (24-25) (Mo)",
+      "marketer": "Morane",
+      "tags": [
+        "CHLOR"
+      ],
+      "channel": "META",
+      "editors": [
+        "Shahid & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "BP"
+      ],
+      "status": "Start production",
+      "stage": "script",
+      "script_start": "2026-08-01",
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-08-01",
+      "updated_at": "2026-08-01T13:39:00.000Z",
+      "archived": false
+    },
+    {
+      "id": "3aff714b-032a-80e7-b8a3-f79a627b7767",
+      "url": "https://app.notion.com/p/CHLOR-IT-4-Mo-3aff714b032a80e7b8a3f79a627b7767",
+      "name": "CHLOR (IT-4) (Mo)",
+      "marketer": "Morane",
+      "tags": [
+        "CHLOR"
+      ],
+      "channel": "META",
+      "editors": [
+        "Ahmed & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "BP"
+      ],
+      "status": "Start production",
+      "stage": "script",
+      "script_start": "2026-08-01",
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-08-01",
+      "updated_at": "2026-08-01T13:38:00.000Z",
+      "archived": false
+    },
     {
       "id": "3aef714b-032a-8070-91b1-c55eb1efb3b8",
       "url": "https://app.notion.com/p/TVM-20-AI-News-Mo-3aef714b032a807091b1c55eb1efb3b8",
@@ -96,14 +148,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Revisions in progress",
       "stage": "review",
       "script_start": "2026-07-30",
       "prod_started": null,
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-30",
-      "updated_at": "2026-08-01T07:12:00.000Z",
+      "updated_at": "2026-08-01T13:31:00.000Z",
       "archived": false
     },
     {
@@ -148,14 +200,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Revisions in progress",
       "stage": "review",
       "script_start": "2026-07-29",
       "prod_started": "2026-07-30",
       "prod_end": "2026-08-01",
       "bp_submitted": null,
       "due_date": "2026-07-31",
-      "updated_at": "2026-08-01T11:59:00.000Z",
+      "updated_at": "2026-08-01T12:10:00.000Z",
       "archived": false
     },
     {
@@ -201,14 +253,14 @@
       "buyer": [
         "Wagstaff"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "To be uploaded",
       "stage": "review",
       "script_start": "2026-07-06",
       "prod_started": "2026-07-30",
-      "prod_end": "2026-07-29",
+      "prod_end": "2026-08-01",
       "bp_submitted": "2026-07-26",
       "due_date": "2026-07-30",
-      "updated_at": "2026-07-30T12:42:00.000Z",
+      "updated_at": "2026-08-01T12:23:00.000Z",
       "archived": false
     },
     {
@@ -416,7 +468,7 @@
       "prod_end": "2026-07-29",
       "bp_submitted": null,
       "due_date": "2026-07-28",
-      "updated_at": "2026-07-29T20:49:00.000Z",
+      "updated_at": "2026-08-01T13:46:00.000Z",
       "archived": false
     },
     {
@@ -1300,7 +1352,7 @@
       "prod_end": "2026-07-17",
       "bp_submitted": null,
       "due_date": "2026-07-17",
-      "updated_at": "2026-07-29T16:23:00.000Z",
+      "updated_at": "2026-08-01T13:45:00.000Z",
       "archived": false
     },
     {
@@ -2936,7 +2988,7 @@
       "prod_end": "2026-07-10",
       "bp_submitted": "2026-07-12",
       "due_date": "2026-07-17",
-      "updated_at": "2026-07-29T16:23:00.000Z",
+      "updated_at": "2026-08-01T13:46:00.000Z",
       "archived": false
     },
     {
