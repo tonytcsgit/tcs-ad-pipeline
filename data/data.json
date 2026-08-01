@@ -1,7 +1,31 @@
 {
-  "synced_at": "2026-08-01T14:05:33.100164Z",
-  "task_count": 434,
+  "synced_at": "2026-08-01T16:06:40.310145Z",
+  "task_count": 435,
   "tasks": [
+    {
+      "id": "3aff714b-032a-80d4-a207-df2a763273ab",
+      "url": "https://app.notion.com/p/BM-6-10-Mo-3aff714b032a80d4a207df2a763273ab",
+      "name": "BM 6-10 (Mo)",
+      "marketer": "Morane",
+      "tags": [
+        "BM"
+      ],
+      "channel": "META",
+      "editors": [],
+      "priority": "High",
+      "buyer": [
+        "BP"
+      ],
+      "status": "Script in progress",
+      "stage": "script",
+      "script_start": "2026-08-01",
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-08-01",
+      "updated_at": "2026-08-01T15:36:00.000Z",
+      "archived": false
+    },
     {
       "id": "3aff714b-032a-800d-8402-efaecdd02991",
       "url": "https://app.notion.com/p/CHLOR-24-25-Mo-3aff714b032a800d8402efaecdd02991",
