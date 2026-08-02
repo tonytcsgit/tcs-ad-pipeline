@@ -1,7 +1,33 @@
 {
-  "synced_at": "2026-08-02T12:14:10.899800Z",
-  "task_count": 438,
+  "synced_at": "2026-08-02T14:14:38.093825Z",
+  "task_count": 439,
   "tasks": [
+    {
+      "id": "3b0f714b-032a-8029-83a6-e41fc1e8d861",
+      "url": "https://app.notion.com/p/BM-10-13-Mo-3b0f714b032a802983a6e41fc1e8d861",
+      "name": "BM 10-13 (Mo)",
+      "marketer": "Morane",
+      "tags": [
+        "BM"
+      ],
+      "channel": "META",
+      "editors": [
+        "Aarij & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "BP"
+      ],
+      "status": "Start production",
+      "stage": "script",
+      "script_start": "2026-08-02",
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-08-02",
+      "updated_at": "2026-08-02T13:15:00.000Z",
+      "archived": false
+    },
     {
       "id": "3b0f714b-032a-804a-ab28-dfc64522f6aa",
       "url": "https://app.notion.com/p/CHLOR-26-28-Jor-3b0f714b032a804aab28dfc64522f6aa",
@@ -18,14 +44,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Start production",
-      "stage": "script",
+      "status": "Video done / To be reviewed",
+      "stage": "review",
       "script_start": null,
       "prod_started": null,
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-31",
-      "updated_at": "2026-08-02T02:08:00.000Z",
+      "updated_at": "2026-08-02T13:20:00.000Z",
       "archived": false
     },
     {
@@ -410,14 +436,14 @@
       "buyer": [
         "Wagstaff"
       ],
-      "status": "Start production",
-      "stage": "script",
+      "status": "Video done / To be reviewed",
+      "stage": "review",
       "script_start": null,
       "prod_started": null,
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-31",
-      "updated_at": "2026-07-29T06:07:00.000Z",
+      "updated_at": "2026-08-02T13:20:00.000Z",
       "archived": false
     },
     {
