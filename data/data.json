@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-08-02T10:13:13.530322Z",
+  "synced_at": "2026-08-02T12:14:10.899800Z",
   "task_count": 438,
   "tasks": [
     {
@@ -83,26 +83,28 @@
     },
     {
       "id": "3aff714b-032a-80d4-a207-df2a763273ab",
-      "url": "https://app.notion.com/p/BM-6-10-Mo-3aff714b032a80d4a207df2a763273ab",
-      "name": "BM 6-10 (Mo)",
+      "url": "https://app.notion.com/p/BM-6-9-Mo-3aff714b032a80d4a207df2a763273ab",
+      "name": "BM 6-9 (Mo)",
       "marketer": "Morane",
       "tags": [
         "BM"
       ],
       "channel": "META",
-      "editors": [],
+      "editors": [
+        "Shahid & Team"
+      ],
       "priority": "High",
       "buyer": [
         "BP"
       ],
-      "status": "Script in progress",
+      "status": "Start production",
       "stage": "script",
       "script_start": "2026-08-01",
       "prod_started": null,
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-08-01",
-      "updated_at": "2026-08-01T15:36:00.000Z",
+      "updated_at": "2026-08-02T10:53:00.000Z",
       "archived": false
     },
     {
