@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-08-02T08:12:15.177154Z",
+  "synced_at": "2026-08-02T10:13:13.530322Z",
   "task_count": 438,
   "tasks": [
     {
@@ -121,14 +121,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Video done / To be reviewed",
-      "stage": "review",
+      "status": "In review by Broughton",
+      "stage": "bp_review",
       "script_start": "2026-08-01",
       "prod_started": null,
       "prod_end": "2026-08-02",
-      "bp_submitted": null,
+      "bp_submitted": "2026-08-02",
       "due_date": "2026-08-01",
-      "updated_at": "2026-08-02T07:10:00.000Z",
+      "updated_at": "2026-08-02T08:38:00.000Z",
       "archived": false
     },
     {
