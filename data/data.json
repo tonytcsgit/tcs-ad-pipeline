@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-08-02T06:11:48.140124Z",
+  "synced_at": "2026-08-02T08:12:15.177154Z",
   "task_count": 438,
   "tasks": [
     {
@@ -64,19 +64,21 @@
         "BM"
       ],
       "channel": "META",
-      "editors": [],
+      "editors": [
+        "Morane"
+      ],
       "priority": "High",
       "buyer": [
         "BP"
       ],
-      "status": "Script in progress",
-      "stage": "script",
+      "status": "In review by Broughton",
+      "stage": "bp_review",
       "script_start": "2026-08-01",
       "prod_started": null,
-      "prod_end": null,
-      "bp_submitted": null,
+      "prod_end": "2026-08-02",
+      "bp_submitted": "2026-08-02",
       "due_date": "2026-08-01",
-      "updated_at": "2026-08-01T16:18:00.000Z",
+      "updated_at": "2026-08-02T06:48:00.000Z",
       "archived": false
     },
     {
@@ -119,14 +121,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Start production",
-      "stage": "script",
+      "status": "Video done / To be reviewed",
+      "stage": "review",
       "script_start": "2026-08-01",
       "prod_started": null,
-      "prod_end": null,
+      "prod_end": "2026-08-02",
       "bp_submitted": null,
       "due_date": "2026-08-01",
-      "updated_at": "2026-08-01T13:39:00.000Z",
+      "updated_at": "2026-08-02T07:10:00.000Z",
       "archived": false
     },
     {
