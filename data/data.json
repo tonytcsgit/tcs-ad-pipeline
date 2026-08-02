@@ -1,7 +1,33 @@
 {
-  "synced_at": "2026-08-01T22:09:04.298574Z",
-  "task_count": 437,
+  "synced_at": "2026-08-02T02:10:28.481052Z",
+  "task_count": 438,
   "tasks": [
+    {
+      "id": "3b0f714b-032a-804a-ab28-dfc64522f6aa",
+      "url": "https://app.notion.com/p/CHLOR-26-28-Jor-3b0f714b032a804aab28dfc64522f6aa",
+      "name": "CHLOR 26-28 (Jor)",
+      "marketer": "Jordan",
+      "tags": [
+        "CHLOR"
+      ],
+      "channel": "META",
+      "editors": [
+        "Jordan & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "BP"
+      ],
+      "status": "Start production",
+      "stage": "script",
+      "script_start": null,
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-07-31",
+      "updated_at": "2026-08-02T02:08:00.000Z",
+      "archived": false
+    },
     {
       "id": "3aff714b-032a-8032-b810-c3df792e6d85",
       "url": "https://app.notion.com/p/DEPO-61-62-cha-3aff714b032a8032b810c3df792e6d85",
