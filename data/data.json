@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-08-03T00:36:12.020959Z",
+  "synced_at": "2026-08-03T02:37:09.321378Z",
   "task_count": 439,
   "tasks": [
     {
@@ -71,14 +71,14 @@
         "Pulaski",
         "LCA"
       ],
-      "status": "Revisions in progress",
+      "status": "Video done / To be reviewed",
       "stage": "review",
       "script_start": "2026-08-01",
       "prod_started": "2026-08-01",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-08-03",
-      "updated_at": "2026-08-02T15:12:00.000Z",
+      "updated_at": "2026-08-03T01:17:00.000Z",
       "archived": false
     },
     {
@@ -175,14 +175,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Revisions in progress",
+      "status": "Video done / To be reviewed",
       "stage": "review",
       "script_start": "2026-08-01",
       "prod_started": null,
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-08-01",
-      "updated_at": "2026-08-02T17:55:00.000Z",
+      "updated_at": "2026-08-03T01:24:00.000Z",
       "archived": false
     },
     {
@@ -253,14 +253,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "Video done / To be reviewed",
+      "stage": "review",
       "script_start": null,
       "prod_started": "2026-07-31",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-08-01",
-      "updated_at": "2026-07-31T12:20:00.000Z",
+      "updated_at": "2026-08-03T00:52:00.000Z",
       "archived": false
     },
     {
@@ -462,14 +462,14 @@
       "buyer": [
         "Pulaski"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Revisions in progress",
       "stage": "review",
       "script_start": null,
       "prod_started": null,
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-31",
-      "updated_at": "2026-08-01T07:45:00.000Z",
+      "updated_at": "2026-08-03T01:45:00.000Z",
       "archived": false
     },
     {
@@ -488,14 +488,14 @@
       "buyer": [
         "Pulaski"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Revisions in progress",
       "stage": "review",
       "script_start": null,
       "prod_started": null,
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-31",
-      "updated_at": "2026-07-30T19:14:00.000Z",
+      "updated_at": "2026-08-03T02:19:00.000Z",
       "archived": false
     },
     {
@@ -670,14 +670,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Revisions in progress",
+      "status": "Video done / To be reviewed",
       "stage": "review",
       "script_start": "2026-07-27",
       "prod_started": "2026-07-29",
       "prod_end": "2026-08-02",
       "bp_submitted": null,
       "due_date": "2026-07-28",
-      "updated_at": "2026-08-02T18:03:00.000Z",
+      "updated_at": "2026-08-03T02:05:00.000Z",
       "archived": false
     },
     {
