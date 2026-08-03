@@ -1,7 +1,34 @@
 {
-  "synced_at": "2026-08-03T08:38:51.143220Z",
-  "task_count": 440,
+  "synced_at": "2026-08-03T12:40:04.879819Z",
+  "task_count": 441,
   "tasks": [
+    {
+      "id": "3b1f714b-032a-80d0-b7ea-c5cf08f2e4c7",
+      "url": "https://app.notion.com/p/DEPO-77-81-Mo-3b1f714b032a80d0b7eac5cf08f2e4c7",
+      "name": "DEPO 77-81 (Mo)",
+      "marketer": "Morane",
+      "tags": [
+        "DEPO"
+      ],
+      "channel": "META",
+      "editors": [
+        "Shahid & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "LCA",
+        "Pulaski"
+      ],
+      "status": "Start production",
+      "stage": "script",
+      "script_start": "2026-08-03",
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-08-03",
+      "updated_at": "2026-08-03T10:48:00.000Z",
+      "archived": false
+    },
     {
       "id": "3b1f714b-032a-80ba-a584-c6ef9884c530",
       "url": "https://app.notion.com/p/DEPO-73-76-Mo-3b1f714b032a80baa584c6ef9884c530",
@@ -16,7 +43,8 @@
       ],
       "priority": "High",
       "buyer": [
-        "LCA"
+        "LCA",
+        "Pulaski"
       ],
       "status": "Start production",
       "stage": "script",
@@ -25,7 +53,7 @@
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-08-03",
-      "updated_at": "2026-08-03T08:07:00.000Z",
+      "updated_at": "2026-08-03T10:47:00.000Z",
       "archived": false
     },
     {
@@ -97,14 +125,14 @@
         "Pulaski",
         "LCA"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "To be uploaded",
       "stage": "review",
       "script_start": "2026-08-01",
       "prod_started": "2026-08-01",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-08-03",
-      "updated_at": "2026-08-03T01:17:00.000Z",
+      "updated_at": "2026-08-03T11:52:00.000Z",
       "archived": false
     },
     {
@@ -488,14 +516,14 @@
       "buyer": [
         "Pulaski"
       ],
-      "status": "Revisions in progress",
+      "status": "Video done / To be reviewed",
       "stage": "review",
       "script_start": null,
       "prod_started": null,
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-31",
-      "updated_at": "2026-08-03T01:45:00.000Z",
+      "updated_at": "2026-08-03T11:14:00.000Z",
       "archived": false
     },
     {
@@ -540,14 +568,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Revisions in progress",
+      "status": "Video done / To be reviewed",
       "stage": "review",
       "script_start": null,
       "prod_started": "2026-07-28",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-30",
-      "updated_at": "2026-08-03T03:03:00.000Z",
+      "updated_at": "2026-08-03T11:35:00.000Z",
       "archived": false
     },
     {
