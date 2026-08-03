@@ -1,7 +1,33 @@
 {
-  "synced_at": "2026-08-03T16:41:44.681538Z",
-  "task_count": 444,
+  "synced_at": "2026-08-03T20:43:07.829165Z",
+  "task_count": 445,
   "tasks": [
+    {
+      "id": "3b1f714b-032a-80e2-94da-f2aef11693f1",
+      "url": "https://app.notion.com/p/DEPO-86-91-Mo-3b1f714b032a80e294daf2aef11693f1",
+      "name": "DEPO 86-91 (Mo)",
+      "marketer": "Morane",
+      "tags": [
+        "DEPO"
+      ],
+      "channel": "META",
+      "editors": [
+        "Iqbal & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "LCA"
+      ],
+      "status": "Start production",
+      "stage": "script",
+      "script_start": "2026-08-03",
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-08-03",
+      "updated_at": "2026-08-03T20:04:00.000Z",
+      "archived": false
+    },
     {
       "id": "3b1f714b-032a-807d-aac1-d60692bec932",
       "url": "https://app.notion.com/p/DEPO-82-85-Mo-3b1f714b032a807daac1d60692bec932",
