@@ -1,7 +1,33 @@
 {
-  "synced_at": "2026-08-03T20:43:07.829165Z",
-  "task_count": 445,
+  "synced_at": "2026-08-03T22:43:52.630375Z",
+  "task_count": 446,
   "tasks": [
+    {
+      "id": "3b1f714b-032a-808c-8840-dc515fb9c864",
+      "url": "https://app.notion.com/p/HM-13-IT-15-IT-Cha-3b1f714b032a808c8840dc515fb9c864",
+      "name": "HM 13-IT, 15-IT (Cha)",
+      "marketer": "Charlie",
+      "tags": [
+        "HM"
+      ],
+      "channel": "META",
+      "editors": [
+        "Charlie Editors"
+      ],
+      "priority": null,
+      "buyer": [
+        "BP"
+      ],
+      "status": "Working on it",
+      "stage": "production",
+      "script_start": "2026-08-03",
+      "prod_started": "2026-08-03",
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-08-06",
+      "updated_at": "2026-08-03T20:53:00.000Z",
+      "archived": false
+    },
     {
       "id": "3b1f714b-032a-80e2-94da-f2aef11693f1",
       "url": "https://app.notion.com/p/DEPO-86-91-Mo-3b1f714b032a80e294daf2aef11693f1",
@@ -330,14 +356,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "In review by Broughton",
-      "stage": "bp_review",
+      "status": "To be uploaded",
+      "stage": "review",
       "script_start": "2026-08-01",
       "prod_started": null,
       "prod_end": "2026-08-03",
       "bp_submitted": "2026-08-03",
       "due_date": "2026-08-01",
-      "updated_at": "2026-08-03T06:08:00.000Z",
+      "updated_at": "2026-08-03T21:16:00.000Z",
       "archived": false
     },
     {
