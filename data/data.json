@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-08-03T02:37:09.321378Z",
+  "synced_at": "2026-08-03T04:38:03.191479Z",
   "task_count": 439,
   "tasks": [
     {
@@ -44,14 +44,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Revisions in progress",
       "stage": "review",
       "script_start": null,
       "prod_started": null,
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-31",
-      "updated_at": "2026-08-02T13:20:00.000Z",
+      "updated_at": "2026-08-03T03:40:00.000Z",
       "archived": false
     },
     {
@@ -253,14 +253,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Revisions in progress",
       "stage": "review",
       "script_start": null,
       "prod_started": "2026-07-31",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-08-01",
-      "updated_at": "2026-08-03T00:52:00.000Z",
+      "updated_at": "2026-08-03T02:43:00.000Z",
       "archived": false
     },
     {
@@ -436,14 +436,14 @@
       "buyer": [
         "Wagstaff"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Revisions in progress",
       "stage": "review",
       "script_start": null,
       "prod_started": null,
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-31",
-      "updated_at": "2026-08-02T13:20:00.000Z",
+      "updated_at": "2026-08-03T03:40:00.000Z",
       "archived": false
     },
     {
@@ -514,14 +514,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Revisions in progress",
       "stage": "review",
       "script_start": null,
       "prod_started": "2026-07-28",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-30",
-      "updated_at": "2026-07-31T08:26:00.000Z",
+      "updated_at": "2026-08-03T03:03:00.000Z",
       "archived": false
     },
     {
@@ -748,14 +748,14 @@
       "buyer": [
         "Pulaski"
       ],
-      "status": "Upload in progress",
-      "stage": "review",
+      "status": "Uploaded",
+      "stage": "done",
       "script_start": null,
       "prod_started": "2026-07-23",
       "prod_end": "2026-07-29",
       "bp_submitted": null,
       "due_date": "2026-07-30",
-      "updated_at": "2026-07-30T12:40:00.000Z",
+      "updated_at": "2026-08-03T03:39:00.000Z",
       "archived": false
     },
     {
@@ -1949,7 +1949,7 @@
       "prod_end": "2026-07-23",
       "bp_submitted": "2026-07-17",
       "due_date": "2026-07-24",
-      "updated_at": "2026-07-24T11:00:00.000Z",
+      "updated_at": "2026-08-03T03:49:00.000Z",
       "archived": false
     },
     {
@@ -1968,14 +1968,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Upload in progress",
-      "stage": "review",
+      "status": "Uploaded",
+      "stage": "done",
       "script_start": "2026-07-14",
       "prod_started": "2026-07-14",
       "prod_end": "2026-07-18",
       "bp_submitted": null,
       "due_date": "2026-07-23",
-      "updated_at": "2026-07-23T14:16:00.000Z",
+      "updated_at": "2026-08-03T03:50:00.000Z",
       "archived": false
     },
     {
@@ -2514,14 +2514,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Upload in progress",
-      "stage": "review",
+      "status": "Uploaded",
+      "stage": "done",
       "script_start": "2026-07-07",
       "prod_started": "2026-07-10",
       "prod_end": "2026-07-14",
       "bp_submitted": "2026-07-14",
       "due_date": "2026-07-20",
-      "updated_at": "2026-07-20T09:06:00.000Z",
+      "updated_at": "2026-08-03T03:08:00.000Z",
       "archived": false
     },
     {
@@ -3633,14 +3633,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Upload in progress",
-      "stage": "review",
+      "status": "Uploaded",
+      "stage": "done",
       "script_start": "2026-06-29",
       "prod_started": "2026-06-26",
       "prod_end": "2026-07-07",
       "bp_submitted": "2026-06-28",
       "due_date": "2026-07-06",
-      "updated_at": "2026-07-12T09:11:00.000Z",
+      "updated_at": "2026-08-03T03:09:00.000Z",
       "archived": false
     },
     {
@@ -3711,14 +3711,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Upload in progress",
-      "stage": "review",
+      "status": "Uploaded",
+      "stage": "done",
       "script_start": "2026-07-01",
       "prod_started": "2026-06-29",
       "prod_end": "2026-06-30",
       "bp_submitted": "2026-06-29",
       "due_date": "2026-07-06",
-      "updated_at": "2026-07-05T08:49:00.000Z",
+      "updated_at": "2026-08-03T03:09:00.000Z",
       "archived": false
     },
     {
@@ -3737,14 +3737,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Upload in progress",
-      "stage": "review",
+      "status": "Uploaded",
+      "stage": "done",
       "script_start": "2026-06-25",
       "prod_started": "2026-06-28",
       "prod_end": "2026-07-01",
       "bp_submitted": "2026-07-01",
       "due_date": "2026-07-06",
-      "updated_at": "2026-07-05T08:49:00.000Z",
+      "updated_at": "2026-08-03T03:09:00.000Z",
       "archived": false
     },
     {
@@ -4847,14 +4847,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Upload in progress",
-      "stage": "review",
+      "status": "Uploaded",
+      "stage": "done",
       "script_start": "2026-06-17",
       "prod_started": "2026-06-23",
       "prod_end": "2026-06-29",
       "bp_submitted": "2026-06-29",
       "due_date": "2026-07-06",
-      "updated_at": "2026-07-04T00:38:00.000Z",
+      "updated_at": "2026-08-03T03:09:00.000Z",
       "archived": false
     },
     {
