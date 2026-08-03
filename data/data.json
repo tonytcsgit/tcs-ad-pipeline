@@ -1,7 +1,33 @@
 {
-  "synced_at": "2026-08-03T06:38:28.733052Z",
-  "task_count": 439,
+  "synced_at": "2026-08-03T08:38:51.143220Z",
+  "task_count": 440,
   "tasks": [
+    {
+      "id": "3b1f714b-032a-80ba-a584-c6ef9884c530",
+      "url": "https://app.notion.com/p/DEPO-73-76-Mo-3b1f714b032a80baa584c6ef9884c530",
+      "name": "DEPO 73-76 (Mo) ",
+      "marketer": "Morane",
+      "tags": [
+        "DEPO"
+      ],
+      "channel": "META",
+      "editors": [
+        "Ahmed & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "LCA"
+      ],
+      "status": "Start production",
+      "stage": "script",
+      "script_start": "2026-08-03",
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-08-03",
+      "updated_at": "2026-08-03T08:07:00.000Z",
+      "archived": false
+    },
     {
       "id": "3b0f714b-032a-8029-83a6-e41fc1e8d861",
       "url": "https://app.notion.com/p/BM-10-13-Mo-3b0f714b032a802983a6e41fc1e8d861",
@@ -123,14 +149,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Start production",
-      "stage": "script",
+      "status": "Working on it",
+      "stage": "production",
       "script_start": "2026-08-01",
-      "prod_started": null,
+      "prod_started": "2026-08-03",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-08-01",
-      "updated_at": "2026-08-02T10:53:00.000Z",
+      "updated_at": "2026-08-03T07:07:00.000Z",
       "archived": false
     },
     {
@@ -488,14 +514,14 @@
       "buyer": [
         "Pulaski"
       ],
-      "status": "Revisions in progress",
+      "status": "Video done / To be reviewed",
       "stage": "review",
       "script_start": null,
       "prod_started": null,
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-31",
-      "updated_at": "2026-08-03T02:19:00.000Z",
+      "updated_at": "2026-08-03T07:28:00.000Z",
       "archived": false
     },
     {
