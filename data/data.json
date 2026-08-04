@@ -1,7 +1,59 @@
 {
-  "synced_at": "2026-08-04T06:46:20.831410Z",
-  "task_count": 446,
+  "synced_at": "2026-08-04T08:47:27.587142Z",
+  "task_count": 448,
   "tasks": [
+    {
+      "id": "3b2f714b-032a-807c-b7ce-c1527d7894ed",
+      "url": "https://app.notion.com/p/DEPO-IT-10-Mo-3b2f714b032a807cb7cec1527d7894ed",
+      "name": "DEPO IT-10 (Mo)",
+      "marketer": "Morane",
+      "tags": [
+        "DEPO"
+      ],
+      "channel": "META",
+      "editors": [
+        "Shahid & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "LCA"
+      ],
+      "status": "Script in progress",
+      "stage": "script",
+      "script_start": "2026-08-04",
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-08-04",
+      "updated_at": "2026-08-04T08:36:00.000Z",
+      "archived": false
+    },
+    {
+      "id": "3b2f714b-032a-80a3-aa15-f66926fbe3b0",
+      "url": "https://app.notion.com/p/DEPO-IT-38-39-51-Mo-3b2f714b032a80a3aa15f66926fbe3b0",
+      "name": "DEPO IT-38-39-51 (Mo)",
+      "marketer": "Morane",
+      "tags": [
+        "DEPO"
+      ],
+      "channel": "META",
+      "editors": [
+        "Ahmed & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "LCA"
+      ],
+      "status": "Start production",
+      "stage": "script",
+      "script_start": "2026-08-04",
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-08-04",
+      "updated_at": "2026-08-04T08:09:00.000Z",
+      "archived": false
+    },
     {
       "id": "3b1f714b-032a-808c-8840-dc515fb9c864",
       "url": "https://app.notion.com/p/HM-13-IT-15-IT-Cha-3b1f714b032a808c8840dc515fb9c864",
@@ -642,14 +694,14 @@
       "buyer": [
         "LCA"
       ],
-      "status": "Revisions in progress",
+      "status": "Video done / To be reviewed",
       "stage": "review",
       "script_start": null,
       "prod_started": null,
       "prod_end": "2026-08-04",
       "bp_submitted": null,
       "due_date": "2026-07-31",
-      "updated_at": "2026-08-04T06:46:00.000Z",
+      "updated_at": "2026-08-04T07:45:00.000Z",
       "archived": false
     },
     {
@@ -668,14 +720,14 @@
       "buyer": [
         "LCA"
       ],
-      "status": "In review by buyer",
-      "stage": "bp_review",
+      "status": "To be uploaded - Brendan",
+      "stage": "review",
       "script_start": null,
       "prod_started": null,
       "prod_end": "2026-08-04",
       "bp_submitted": null,
       "due_date": "2026-07-31",
-      "updated_at": "2026-08-04T05:27:00.000Z",
+      "updated_at": "2026-08-04T06:56:00.000Z",
       "archived": false
     },
     {
