@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-08-03T22:43:52.630375Z",
+  "synced_at": "2026-08-04T00:44:21.102062Z",
   "task_count": 446,
   "tasks": [
     {
@@ -200,14 +200,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "Video done / To be reviewed",
+      "stage": "review",
       "script_start": "2026-08-02",
       "prod_started": "2026-08-02",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-08-02",
-      "updated_at": "2026-08-02T14:17:00.000Z",
+      "updated_at": "2026-08-03T23:39:00.000Z",
       "archived": false
     },
     {
@@ -642,14 +642,14 @@
       "buyer": [
         "LCA"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Revisions in progress",
       "stage": "review",
       "script_start": null,
       "prod_started": null,
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-07-31",
-      "updated_at": "2026-08-03T14:49:00.000Z",
+      "updated_at": "2026-08-03T23:49:00.000Z",
       "archived": false
     },
     {
@@ -668,14 +668,14 @@
       "buyer": [
         "LCA"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Revisions in progress",
       "stage": "review",
       "script_start": null,
       "prod_started": null,
-      "prod_end": null,
+      "prod_end": "2026-08-04",
       "bp_submitted": null,
       "due_date": "2026-07-31",
-      "updated_at": "2026-08-03T14:49:00.000Z",
+      "updated_at": "2026-08-03T23:30:00.000Z",
       "archived": false
     },
     {
@@ -694,14 +694,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Revisions in progress",
       "stage": "review",
       "script_start": null,
       "prod_started": "2026-07-28",
-      "prod_end": null,
+      "prod_end": "2026-08-04",
       "bp_submitted": null,
       "due_date": "2026-07-30",
-      "updated_at": "2026-08-03T11:35:00.000Z",
+      "updated_at": "2026-08-03T23:59:00.000Z",
       "archived": false
     },
     {
