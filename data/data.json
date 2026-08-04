@@ -1,29 +1,31 @@
 {
-  "synced_at": "2026-08-04T12:48:51.380200Z",
+  "synced_at": "2026-08-04T14:49:59.458757Z",
   "task_count": 454,
   "tasks": [
     {
       "id": "3b2f714b-032a-80ad-9f07-e156695c782f",
       "url": "https://app.notion.com/p/PQT-IT-3-Mo-3b2f714b032a80ad9f07e156695c782f",
       "name": "PQT (IT-3) (Mo)",
-      "marketer": null,
+      "marketer": "Morane",
       "tags": [
         "PQT"
       ],
       "channel": "META",
-      "editors": [],
-      "priority": null,
+      "editors": [
+        "Morane"
+      ],
+      "priority": "High",
       "buyer": [
         "BP"
       ],
-      "status": "Script in progress",
-      "stage": "script",
-      "script_start": null,
+      "status": "In review by Broughton",
+      "stage": "bp_review",
+      "script_start": "2026-08-04",
       "prod_started": null,
-      "prod_end": null,
-      "bp_submitted": null,
-      "due_date": null,
-      "updated_at": "2026-08-04T12:48:00.000Z",
+      "prod_end": "2026-08-04",
+      "bp_submitted": "2026-08-04",
+      "due_date": "2026-08-04",
+      "updated_at": "2026-08-04T13:27:00.000Z",
       "archived": false
     },
     {
@@ -38,7 +40,7 @@
       "editors": [
         "Ahmed & Team"
       ],
-      "priority": null,
+      "priority": "High",
       "buyer": [
         "BP"
       ],
@@ -48,8 +50,8 @@
       "prod_started": null,
       "prod_end": null,
       "bp_submitted": null,
-      "due_date": null,
-      "updated_at": "2026-08-04T12:48:00.000Z",
+      "due_date": "2026-08-04",
+      "updated_at": "2026-08-04T12:49:00.000Z",
       "archived": false
     },
     {
@@ -324,7 +326,7 @@
       "editors": [
         "Aarij & Team"
       ],
-      "priority": null,
+      "priority": "High",
       "buyer": [
         "BP"
       ],
@@ -334,8 +336,8 @@
       "prod_started": "2026-08-03",
       "prod_end": null,
       "bp_submitted": null,
-      "due_date": null,
-      "updated_at": "2026-08-03T15:07:00.000Z",
+      "due_date": "2026-08-04",
+      "updated_at": "2026-08-04T12:49:00.000Z",
       "archived": false
     },
     {
@@ -406,14 +408,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Video done / To be reviewed",
-      "stage": "review",
+      "status": "In review by Broughton",
+      "stage": "bp_review",
       "script_start": "2026-08-02",
       "prod_started": "2026-08-02",
-      "prod_end": null,
-      "bp_submitted": null,
+      "prod_end": "2026-08-04",
+      "bp_submitted": "2026-08-04",
       "due_date": "2026-08-02",
-      "updated_at": "2026-08-03T23:39:00.000Z",
+      "updated_at": "2026-08-04T13:42:00.000Z",
       "archived": false
     },
     {
@@ -510,14 +512,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Video done / To be reviewed",
-      "stage": "review",
+      "status": "In review by Broughton",
+      "stage": "bp_review",
       "script_start": "2026-08-01",
       "prod_started": "2026-08-03",
-      "prod_end": null,
-      "bp_submitted": null,
+      "prod_end": "2026-08-04",
+      "bp_submitted": "2026-08-04",
       "due_date": "2026-08-01",
-      "updated_at": "2026-08-04T04:58:00.000Z",
+      "updated_at": "2026-08-04T13:34:00.000Z",
       "archived": false
     },
     {
@@ -1056,14 +1058,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "In review by Broughton",
-      "stage": "bp_review",
+      "status": "To be uploaded",
+      "stage": "review",
       "script_start": "2026-07-27",
       "prod_started": "2026-07-29",
       "prod_end": "2026-08-02",
       "bp_submitted": "2026-08-03",
       "due_date": "2026-07-28",
-      "updated_at": "2026-08-03T06:16:00.000Z",
+      "updated_at": "2026-08-04T13:30:00.000Z",
       "archived": false
     },
     {
