@@ -1,7 +1,111 @@
 {
-  "synced_at": "2026-08-04T08:47:27.587142Z",
-  "task_count": 448,
+  "synced_at": "2026-08-04T10:47:54.959883Z",
+  "task_count": 452,
   "tasks": [
+    {
+      "id": "3b2f714b-032a-8037-bfa1-f6aa7fff041a",
+      "url": "https://app.notion.com/p/PQT-IT-7-Mo-avatars-3b2f714b032a8037bfa1f6aa7fff041a",
+      "name": "PQT (IT-7) (Mo avatars)",
+      "marketer": "Morane",
+      "tags": [
+        "PQT"
+      ],
+      "channel": "META",
+      "editors": [
+        "Morane"
+      ],
+      "priority": "High",
+      "buyer": [
+        "BP"
+      ],
+      "status": "Visuals in progress",
+      "stage": "production",
+      "script_start": "2026-08-04",
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-08-04",
+      "updated_at": "2026-08-04T10:13:00.000Z",
+      "archived": false
+    },
+    {
+      "id": "3b2f714b-032a-80bd-b8f7-f2a25feb1fcb",
+      "url": "https://app.notion.com/p/PQT-IT-7-Mo-3b2f714b032a80bdb8f7f2a25feb1fcb",
+      "name": "PQT (IT-7) (Mo)",
+      "marketer": "Morane",
+      "tags": [
+        "PQT"
+      ],
+      "channel": "META",
+      "editors": [
+        "Shahid & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "BP"
+      ],
+      "status": "Start production",
+      "stage": "script",
+      "script_start": "2026-08-04",
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-08-04",
+      "updated_at": "2026-08-04T10:12:00.000Z",
+      "archived": false
+    },
+    {
+      "id": "3b2f714b-032a-8041-b53d-e489aee2b4a2",
+      "url": "https://app.notion.com/p/CHLOR-19-IT2-Cha-3b2f714b032a8041b53de489aee2b4a2",
+      "name": "CHLOR 19-IT2 (Cha)",
+      "marketer": "Charlie",
+      "tags": [
+        "CHLOR"
+      ],
+      "channel": "META",
+      "editors": [
+        "Charlie Editors"
+      ],
+      "priority": "High",
+      "buyer": [
+        "BP"
+      ],
+      "status": "Start production",
+      "stage": "script",
+      "script_start": null,
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-08-06",
+      "updated_at": "2026-08-04T10:01:00.000Z",
+      "archived": false
+    },
+    {
+      "id": "3b2f714b-032a-804e-a485-f69c0d379fb2",
+      "url": "https://app.notion.com/p/CHLOR-19-IT-29-Cha-3b2f714b032a804ea485f69c0d379fb2",
+      "name": "CHLOR 19-IT,29 (Cha)",
+      "marketer": "Charlie",
+      "tags": [
+        "CHLOR"
+      ],
+      "channel": "META",
+      "editors": [
+        "Aarij & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "BP"
+      ],
+      "status": "Working on it",
+      "stage": "production",
+      "script_start": "2026-08-04",
+      "prod_started": "2026-08-04",
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-08-06",
+      "updated_at": "2026-08-04T10:01:00.000Z",
+      "archived": false
+    },
     {
       "id": "3b2f714b-032a-807c-b7ce-c1527d7894ed",
       "url": "https://app.notion.com/p/DEPO-IT-10-Mo-3b2f714b032a807cb7cec1527d7894ed",
@@ -12,20 +116,20 @@
       ],
       "channel": "META",
       "editors": [
-        "Shahid & Team"
+        "Abu & team"
       ],
       "priority": "High",
       "buyer": [
         "LCA"
       ],
-      "status": "Script in progress",
+      "status": "Start production",
       "stage": "script",
       "script_start": "2026-08-04",
       "prod_started": null,
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-08-04",
-      "updated_at": "2026-08-04T08:36:00.000Z",
+      "updated_at": "2026-08-04T08:55:00.000Z",
       "archived": false
     },
     {
@@ -1585,7 +1689,7 @@
       "prod_end": "2026-07-23",
       "bp_submitted": null,
       "due_date": "2026-07-27",
-      "updated_at": "2026-07-29T01:58:00.000Z",
+      "updated_at": "2026-08-04T10:12:00.000Z",
       "archived": false
     },
     {
