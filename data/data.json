@@ -1,7 +1,33 @@
 {
-  "synced_at": "2026-08-05T17:42:41.600101Z",
-  "task_count": 457,
+  "synced_at": "2026-08-05T19:43:19.072930Z",
+  "task_count": 458,
   "tasks": [
+    {
+      "id": "3b3f714b-032a-8027-9727-c7779ed59643",
+      "url": "https://app.notion.com/p/CAW-IT-038-039-Mo-Stinar-3b3f714b032a80279727c7779ed59643",
+      "name": "CAW (IT-038-039) (Mo) - Stinar",
+      "marketer": "Morane",
+      "tags": [
+        "CAW"
+      ],
+      "channel": "META",
+      "editors": [
+        "Aarij & Team"
+      ],
+      "priority": null,
+      "buyer": [
+        "Stinar Lannen"
+      ],
+      "status": "Working on it",
+      "stage": "production",
+      "script_start": "2026-08-05",
+      "prod_started": "2026-08-05",
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": null,
+      "updated_at": "2026-08-05T19:01:00.000Z",
+      "archived": false
+    },
     {
       "id": "3b2f714b-032a-80d6-a569-d07b806a8b40",
       "url": "https://app.notion.com/p/YT-SMA-9-IT-cha-3b2f714b032a80d6a569d07b806a8b40",
@@ -44,14 +70,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "Video done / To be reviewed",
+      "stage": "review",
       "script_start": "2026-08-04",
       "prod_started": "2026-08-04",
-      "prod_end": null,
+      "prod_end": "2026-08-05",
       "bp_submitted": null,
       "due_date": "2026-08-04",
-      "updated_at": "2026-08-04T20:52:00.000Z",
+      "updated_at": "2026-08-05T19:26:00.000Z",
       "archived": false
     },
     {
@@ -259,7 +285,7 @@
       "prod_end": "2026-08-05",
       "bp_submitted": null,
       "due_date": "2026-08-04",
-      "updated_at": "2026-08-05T17:29:00.000Z",
+      "updated_at": "2026-08-05T19:12:00.000Z",
       "archived": false
     },
     {
@@ -677,7 +703,7 @@
       "prod_end": "2026-07-31",
       "bp_submitted": "2026-07-31",
       "due_date": "2026-08-06",
-      "updated_at": "2026-08-05T17:27:00.000Z",
+      "updated_at": "2026-08-05T18:56:00.000Z",
       "archived": false
     },
     {
@@ -703,7 +729,7 @@
       "prod_end": "2026-08-03",
       "bp_submitted": "2026-07-31",
       "due_date": "2026-08-06",
-      "updated_at": "2026-08-05T17:27:00.000Z",
+      "updated_at": "2026-08-05T18:56:00.000Z",
       "archived": false
     },
     {
@@ -722,14 +748,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "To be uploaded",
+      "status": "Upload in progress",
       "stage": "review",
       "script_start": null,
       "prod_started": "2026-07-31",
       "prod_end": "2026-08-03",
       "bp_submitted": "2026-08-03",
-      "due_date": "2026-08-01",
-      "updated_at": "2026-08-05T02:12:00.000Z",
+      "due_date": "2026-08-07",
+      "updated_at": "2026-08-05T18:56:00.000Z",
       "archived": false
     },
     {
@@ -755,7 +781,7 @@
       "prod_end": "2026-08-02",
       "bp_submitted": "2026-08-02",
       "due_date": "2026-08-06",
-      "updated_at": "2026-08-05T17:27:00.000Z",
+      "updated_at": "2026-08-05T18:56:00.000Z",
       "archived": false
     },
     {
@@ -781,7 +807,7 @@
       "prod_end": "2026-07-31",
       "bp_submitted": "2026-07-30",
       "due_date": "2026-08-05",
-      "updated_at": "2026-08-05T17:27:00.000Z",
+      "updated_at": "2026-08-05T19:05:00.000Z",
       "archived": false
     },
     {
@@ -885,7 +911,7 @@
       "prod_end": "2026-07-31",
       "bp_submitted": "2026-07-30",
       "due_date": "2026-08-05",
-      "updated_at": "2026-08-05T17:27:00.000Z",
+      "updated_at": "2026-08-05T18:56:00.000Z",
       "archived": false
     },
     {
@@ -982,14 +1008,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "To be uploaded",
+      "status": "Upload in progress",
       "stage": "review",
       "script_start": null,
       "prod_started": "2026-07-28",
       "prod_end": "2026-08-04",
       "bp_submitted": "2026-08-04",
-      "due_date": "2026-07-30",
-      "updated_at": "2026-08-05T02:12:00.000Z",
+      "due_date": "2026-08-07",
+      "updated_at": "2026-08-05T18:56:00.000Z",
       "archived": false
     },
     {
@@ -1008,14 +1034,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "To be uploaded",
+      "status": "Upload in progress",
       "stage": "review",
       "script_start": "2026-07-28",
       "prod_started": "2026-07-28",
       "prod_end": "2026-08-03",
       "bp_submitted": "2026-08-01",
-      "due_date": "2026-07-30",
-      "updated_at": "2026-08-03T14:59:00.000Z",
+      "due_date": "2026-08-07",
+      "updated_at": "2026-08-05T18:56:00.000Z",
       "archived": false
     },
     {
@@ -1404,8 +1430,8 @@
       "prod_started": "2026-07-23",
       "prod_end": "2026-07-23",
       "bp_submitted": "2026-07-26",
-      "due_date": "2026-07-29",
-      "updated_at": "2026-07-29T08:03:00.000Z",
+      "due_date": "2026-08-07",
+      "updated_at": "2026-08-05T18:56:00.000Z",
       "archived": false
     },
     {
@@ -1482,8 +1508,8 @@
       "prod_started": "2026-07-22",
       "prod_end": "2026-07-28",
       "bp_submitted": "2026-07-28",
-      "due_date": "2026-07-29",
-      "updated_at": "2026-07-29T08:03:00.000Z",
+      "due_date": "2026-08-07",
+      "updated_at": "2026-08-05T18:56:00.000Z",
       "archived": false
     },
     {
