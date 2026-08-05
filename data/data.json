@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-08-05T11:40:11.150380Z",
+  "synced_at": "2026-08-05T13:41:14.235336Z",
   "task_count": 457,
   "tasks": [
     {
@@ -434,14 +434,14 @@
       "buyer": [
         "LCA"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "Video done / To be reviewed",
+      "stage": "review",
       "script_start": "2026-08-03",
       "prod_started": "2026-08-04",
-      "prod_end": null,
+      "prod_end": "2026-08-05",
       "bp_submitted": null,
       "due_date": "2026-08-03",
-      "updated_at": "2026-08-04T06:26:00.000Z",
+      "updated_at": "2026-08-05T12:53:00.000Z",
       "archived": false
     },
     {
@@ -458,16 +458,18 @@
       ],
       "priority": "High",
       "buyer": [
-        "LCA"
+        "LCA",
+        "Pulaski",
+        "Wagstaff"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Revisions in progress",
       "stage": "review",
       "script_start": "2026-08-03",
       "prod_started": "2026-08-04",
       "prod_end": "2026-08-05",
       "bp_submitted": null,
       "due_date": "2026-08-03",
-      "updated_at": "2026-08-05T11:34:00.000Z",
+      "updated_at": "2026-08-05T12:56:00.000Z",
       "archived": false
     },
     {
@@ -590,14 +592,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Revisions in progress",
+      "status": "To be uploaded",
       "stage": "review",
       "script_start": "2026-08-01",
       "prod_started": "2026-08-03",
       "prod_end": "2026-08-04",
       "bp_submitted": "2026-08-04",
       "due_date": "2026-08-01",
-      "updated_at": "2026-08-04T18:46:00.000Z",
+      "updated_at": "2026-08-05T13:24:00.000Z",
       "archived": false
     },
     {
@@ -674,8 +676,8 @@
       "prod_started": null,
       "prod_end": "2026-07-31",
       "bp_submitted": "2026-07-31",
-      "due_date": "2026-07-31",
-      "updated_at": "2026-08-03T14:30:00.000Z",
+      "due_date": "2026-08-06",
+      "updated_at": "2026-08-05T12:37:00.000Z",
       "archived": false
     },
     {
@@ -700,8 +702,8 @@
       "prod_started": null,
       "prod_end": "2026-08-03",
       "bp_submitted": "2026-07-31",
-      "due_date": "2026-07-30",
-      "updated_at": "2026-08-03T14:30:00.000Z",
+      "due_date": "2026-08-06",
+      "updated_at": "2026-08-05T12:38:00.000Z",
       "archived": false
     },
     {
@@ -752,8 +754,8 @@
       "prod_started": null,
       "prod_end": "2026-08-02",
       "bp_submitted": "2026-08-02",
-      "due_date": "2026-07-30",
-      "updated_at": "2026-08-03T14:31:00.000Z",
+      "due_date": "2026-08-06",
+      "updated_at": "2026-08-05T12:38:00.000Z",
       "archived": false
     },
     {
@@ -778,8 +780,8 @@
       "prod_started": "2026-07-30",
       "prod_end": "2026-07-31",
       "bp_submitted": "2026-07-30",
-      "due_date": "2026-07-29",
-      "updated_at": "2026-07-31T15:19:00.000Z",
+      "due_date": "2026-08-05",
+      "updated_at": "2026-08-05T12:38:00.000Z",
       "archived": false
     },
     {
@@ -882,8 +884,8 @@
       "prod_started": "2026-07-29",
       "prod_end": "2026-07-31",
       "bp_submitted": "2026-07-30",
-      "due_date": "2026-07-29",
-      "updated_at": "2026-07-31T16:58:00.000Z",
+      "due_date": "2026-08-05",
+      "updated_at": "2026-08-05T12:38:00.000Z",
       "archived": false
     },
     {
