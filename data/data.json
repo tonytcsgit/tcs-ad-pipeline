@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-08-05T13:41:14.235336Z",
+  "synced_at": "2026-08-05T15:42:14.376012Z",
   "task_count": 457,
   "tasks": [
     {
@@ -226,14 +226,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "Video done / To be reviewed",
+      "stage": "review",
       "script_start": "2026-08-04",
       "prod_started": "2026-08-04",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-08-06",
-      "updated_at": "2026-08-04T10:01:00.000Z",
+      "updated_at": "2026-08-05T15:17:00.000Z",
       "archived": false
     },
     {
@@ -432,7 +432,7 @@
       ],
       "priority": "High",
       "buyer": [
-        "LCA"
+        "Pulaski NEW"
       ],
       "status": "Video done / To be reviewed",
       "stage": "review",
@@ -441,7 +441,7 @@
       "prod_end": "2026-08-05",
       "bp_submitted": null,
       "due_date": "2026-08-03",
-      "updated_at": "2026-08-05T12:53:00.000Z",
+      "updated_at": "2026-08-05T15:38:00.000Z",
       "archived": false
     },
     {
@@ -2228,7 +2228,7 @@
       ],
       "priority": "High",
       "buyer": [
-        "Pulaski"
+        "Pulaski NEW"
       ],
       "status": "Upload in progress",
       "stage": "review",
@@ -2237,7 +2237,7 @@
       "prod_end": "2026-07-28",
       "bp_submitted": null,
       "due_date": "2026-07-18",
-      "updated_at": "2026-07-29T07:53:00.000Z",
+      "updated_at": "2026-08-05T15:15:00.000Z",
       "archived": false
     },
     {
@@ -3994,7 +3994,7 @@
       ],
       "priority": "High",
       "buyer": [
-        "Pulaski"
+        "Pulaski NEW"
       ],
       "status": "Uploaded",
       "stage": "done",
@@ -4003,7 +4003,7 @@
       "prod_end": "2026-06-30",
       "bp_submitted": null,
       "due_date": "2026-07-03",
-      "updated_at": "2026-07-15T22:07:00.000Z",
+      "updated_at": "2026-08-05T15:17:00.000Z",
       "archived": false
     },
     {
