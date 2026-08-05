@@ -1,7 +1,33 @@
 {
-  "synced_at": "2026-08-05T19:43:19.072930Z",
-  "task_count": 458,
+  "synced_at": "2026-08-05T21:44:19.074152Z",
+  "task_count": 459,
   "tasks": [
+    {
+      "id": "3b3f714b-032a-8067-95ec-d49b6a2e0337",
+      "url": "https://app.notion.com/p/CAW-IT-037-Mo-Stinar-3b3f714b032a806795ecd49b6a2e0337",
+      "name": "CAW (IT-037) (Mo) - Stinar",
+      "marketer": "Morane",
+      "tags": [
+        "CAW"
+      ],
+      "channel": "META",
+      "editors": [
+        "Morane"
+      ],
+      "priority": null,
+      "buyer": [
+        "Stinar Lannen"
+      ],
+      "status": "Visuals in progress",
+      "stage": "production",
+      "script_start": "2026-08-05",
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": null,
+      "updated_at": "2026-08-05T20:58:00.000Z",
+      "archived": false
+    },
     {
       "id": "3b3f714b-032a-8027-9727-c7779ed59643",
       "url": "https://app.notion.com/p/CAW-IT-038-039-Mo-Stinar-3b3f714b032a80279727c7779ed59643",
@@ -14,7 +40,7 @@
       "editors": [
         "Aarij & Team"
       ],
-      "priority": null,
+      "priority": "High",
       "buyer": [
         "Stinar Lannen"
       ],
@@ -24,8 +50,8 @@
       "prod_started": "2026-08-05",
       "prod_end": null,
       "bp_submitted": null,
-      "due_date": null,
-      "updated_at": "2026-08-05T19:01:00.000Z",
+      "due_date": "2026-08-05",
+      "updated_at": "2026-08-05T20:58:00.000Z",
       "archived": false
     },
     {
@@ -77,7 +103,7 @@
       "prod_end": "2026-08-05",
       "bp_submitted": null,
       "due_date": "2026-08-04",
-      "updated_at": "2026-08-05T19:26:00.000Z",
+      "updated_at": "2026-08-05T20:36:00.000Z",
       "archived": false
     },
     {
@@ -129,7 +155,7 @@
       "prod_end": "2026-08-04",
       "bp_submitted": "2026-08-04",
       "due_date": "2026-08-04",
-      "updated_at": "2026-08-04T18:43:00.000Z",
+      "updated_at": "2026-08-05T20:17:00.000Z",
       "archived": false
     },
     {
@@ -181,7 +207,7 @@
       "prod_end": "2026-08-04",
       "bp_submitted": "2026-08-04",
       "due_date": "2026-08-04",
-      "updated_at": "2026-08-04T22:02:00.000Z",
+      "updated_at": "2026-08-05T20:17:00.000Z",
       "archived": false
     },
     {
@@ -276,16 +302,18 @@
       ],
       "priority": "High",
       "buyer": [
-        "LCA"
+        "Pulaski NEW",
+        "LCA",
+        "Shapiro"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "To be uploaded",
       "stage": "review",
       "script_start": "2026-08-04",
       "prod_started": "2026-08-04",
       "prod_end": "2026-08-05",
       "bp_submitted": null,
       "due_date": "2026-08-04",
-      "updated_at": "2026-08-05T19:12:00.000Z",
+      "updated_at": "2026-08-05T21:07:00.000Z",
       "archived": false
     },
     {
@@ -302,7 +330,9 @@
       ],
       "priority": "High",
       "buyer": [
-        "LCA"
+        "Pulaski NEW",
+        "LCA",
+        "Shapiro"
       ],
       "status": "Working on it",
       "stage": "production",
@@ -311,7 +341,7 @@
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-08-04",
-      "updated_at": "2026-08-04T11:30:00.000Z",
+      "updated_at": "2026-08-05T20:01:00.000Z",
       "archived": false
     },
     {
@@ -354,7 +384,9 @@
       ],
       "priority": "High",
       "buyer": [
-        "LCA"
+        "Pulaski NEW",
+        "LCA",
+        "Shapiro"
       ],
       "status": "Working on it",
       "stage": "production",
@@ -363,7 +395,7 @@
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-08-03",
-      "updated_at": "2026-08-05T17:19:00.000Z",
+      "updated_at": "2026-08-05T20:01:00.000Z",
       "archived": false
     },
     {
@@ -380,7 +412,9 @@
       ],
       "priority": "High",
       "buyer": [
-        "LCA"
+        "Pulaski NEW",
+        "LCA",
+        "Shapiro"
       ],
       "status": "Start production",
       "stage": "script",
@@ -389,7 +423,7 @@
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-08-03",
-      "updated_at": "2026-08-03T16:03:00.000Z",
+      "updated_at": "2026-08-05T20:01:00.000Z",
       "archived": false
     },
     {
@@ -458,7 +492,9 @@
       ],
       "priority": "High",
       "buyer": [
-        "Pulaski NEW"
+        "Pulaski NEW",
+        "LCA",
+        "Shapiro"
       ],
       "status": "To be uploaded",
       "stage": "review",
@@ -467,7 +503,7 @@
       "prod_end": "2026-08-05",
       "bp_submitted": null,
       "due_date": "2026-08-03",
-      "updated_at": "2026-08-05T16:29:00.000Z",
+      "updated_at": "2026-08-05T20:00:00.000Z",
       "archived": false
     },
     {
@@ -484,9 +520,9 @@
       ],
       "priority": "High",
       "buyer": [
+        "Pulaski NEW",
         "LCA",
-        "Pulaski",
-        "Wagstaff"
+        "Shapiro"
       ],
       "status": "To be uploaded",
       "stage": "review",
@@ -495,7 +531,7 @@
       "prod_end": "2026-08-05",
       "bp_submitted": null,
       "due_date": "2026-08-03",
-      "updated_at": "2026-08-05T16:47:00.000Z",
+      "updated_at": "2026-08-05T20:03:00.000Z",
       "archived": false
     },
     {
@@ -703,7 +739,7 @@
       "prod_end": "2026-07-31",
       "bp_submitted": "2026-07-31",
       "due_date": "2026-08-06",
-      "updated_at": "2026-08-05T18:56:00.000Z",
+      "updated_at": "2026-08-05T21:10:00.000Z",
       "archived": false
     },
     {
@@ -729,7 +765,7 @@
       "prod_end": "2026-08-03",
       "bp_submitted": "2026-07-31",
       "due_date": "2026-08-06",
-      "updated_at": "2026-08-05T18:56:00.000Z",
+      "updated_at": "2026-08-05T19:45:00.000Z",
       "archived": false
     },
     {
@@ -781,7 +817,7 @@
       "prod_end": "2026-08-02",
       "bp_submitted": "2026-08-02",
       "due_date": "2026-08-06",
-      "updated_at": "2026-08-05T18:56:00.000Z",
+      "updated_at": "2026-08-05T20:37:00.000Z",
       "archived": false
     },
     {
@@ -1138,14 +1174,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "To be uploaded",
+      "status": "Upload in progress",
       "stage": "review",
       "script_start": "2026-07-27",
       "prod_started": "2026-07-28",
       "prod_end": "2026-07-29",
       "bp_submitted": "2026-07-29",
       "due_date": "2026-07-28",
-      "updated_at": "2026-07-29T20:01:00.000Z",
+      "updated_at": "2026-08-05T20:15:00.000Z",
       "archived": false
     },
     {
@@ -1164,14 +1200,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "To be uploaded",
+      "status": "Upload in progress",
       "stage": "review",
       "script_start": "2026-07-27",
       "prod_started": "2026-07-29",
       "prod_end": "2026-08-02",
       "bp_submitted": "2026-08-03",
       "due_date": "2026-07-28",
-      "updated_at": "2026-08-04T13:30:00.000Z",
+      "updated_at": "2026-08-05T20:15:00.000Z",
       "archived": false
     },
     {
@@ -1190,14 +1226,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "To be uploaded",
+      "status": "Upload in progress",
       "stage": "review",
       "script_start": "2026-07-27",
       "prod_started": "2026-07-28",
       "prod_end": "2026-07-29",
       "bp_submitted": "2026-07-29",
       "due_date": "2026-07-27",
-      "updated_at": "2026-07-29T20:01:00.000Z",
+      "updated_at": "2026-08-05T20:15:00.000Z",
       "archived": false
     },
     {
@@ -1268,14 +1304,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "To be uploaded",
+      "status": "Upload in progress",
       "stage": "review",
       "script_start": null,
       "prod_started": "2026-07-23",
       "prod_end": "2026-07-29",
       "bp_submitted": null,
       "due_date": "2026-07-25",
-      "updated_at": "2026-07-31T15:10:00.000Z",
+      "updated_at": "2026-08-05T20:16:00.000Z",
       "archived": false
     },
     {
@@ -2417,7 +2453,7 @@
       "prod_end": "2026-07-28",
       "bp_submitted": "2026-07-29",
       "due_date": "2026-07-16",
-      "updated_at": "2026-07-29T20:00:00.000Z",
+      "updated_at": "2026-08-05T20:17:00.000Z",
       "archived": false
     },
     {
