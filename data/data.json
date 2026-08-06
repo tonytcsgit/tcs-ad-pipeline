@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-08-06T07:48:44.562892Z",
+  "synced_at": "2026-08-06T09:49:48.223874Z",
   "task_count": 460,
   "tasks": [
     {
@@ -96,14 +96,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Start production",
-      "stage": "script",
+      "status": "Working on it",
+      "stage": "production",
       "script_start": "2026-08-04",
-      "prod_started": null,
+      "prod_started": "2026-08-06",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-08-06",
-      "updated_at": "2026-08-04T19:45:00.000Z",
+      "updated_at": "2026-08-06T08:45:00.000Z",
       "archived": false
     },
     {
@@ -817,7 +817,7 @@
       "prod_end": "2026-08-03",
       "bp_submitted": "2026-08-03",
       "due_date": "2026-08-07",
-      "updated_at": "2026-08-05T18:56:00.000Z",
+      "updated_at": "2026-08-06T09:14:00.000Z",
       "archived": false
     },
     {
@@ -914,14 +914,14 @@
       "buyer": [
         "LCA"
       ],
-      "status": "Revisions in progress",
+      "status": "Video done / To be reviewed",
       "stage": "review",
       "script_start": "2026-07-29",
       "prod_started": "2026-07-31",
       "prod_end": "2026-08-04",
       "bp_submitted": null,
       "due_date": "2026-07-31",
-      "updated_at": "2026-08-04T15:55:00.000Z",
+      "updated_at": "2026-08-06T08:20:00.000Z",
       "archived": false
     },
     {
