@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-08-06T19:53:47.867879Z",
+  "synced_at": "2026-08-06T21:54:46.393743Z",
   "task_count": 460,
   "tasks": [
     {
@@ -70,14 +70,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "Video done / To be reviewed",
+      "stage": "review",
       "script_start": "2026-08-05",
       "prod_started": "2026-08-05",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-08-05",
-      "updated_at": "2026-08-05T20:58:00.000Z",
+      "updated_at": "2026-08-06T21:49:00.000Z",
       "archived": false
     },
     {
@@ -421,7 +421,7 @@
       "prod_end": "2026-08-06",
       "bp_submitted": null,
       "due_date": "2026-08-03",
-      "updated_at": "2026-08-06T12:37:00.000Z",
+      "updated_at": "2026-08-06T21:31:00.000Z",
       "archived": false
     },
     {
@@ -947,7 +947,7 @@
       "prod_end": "2026-08-01",
       "bp_submitted": "2026-07-26",
       "due_date": "2026-07-30",
-      "updated_at": "2026-08-06T18:27:00.000Z",
+      "updated_at": "2026-08-06T20:38:00.000Z",
       "archived": false
     },
     {
@@ -5849,7 +5849,7 @@
       "prod_end": "2026-06-06",
       "bp_submitted": null,
       "due_date": "2026-06-12",
-      "updated_at": "2026-08-03T14:49:00.000Z",
+      "updated_at": "2026-08-06T20:40:00.000Z",
       "archived": false
     },
     {
