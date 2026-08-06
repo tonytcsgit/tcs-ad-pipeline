@@ -1,7 +1,33 @@
 {
-  "synced_at": "2026-08-05T23:45:15.016961Z",
-  "task_count": 459,
+  "synced_at": "2026-08-06T03:47:14.494402Z",
+  "task_count": 460,
   "tasks": [
+    {
+      "id": "3b4f714b-032a-816d-9357-f027aaf517c0",
+      "url": "https://app.notion.com/p/CAW-93-95-Jor-3b4f714b032a816d9357f027aaf517c0",
+      "name": "CAW 93-95 (Jor)",
+      "marketer": "Jordan",
+      "tags": [
+        "CAW"
+      ],
+      "channel": "META",
+      "editors": [
+        "Jordan & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "Pulaski"
+      ],
+      "status": "Start production",
+      "stage": "script",
+      "script_start": null,
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-08-08",
+      "updated_at": "2026-08-06T03:37:00.000Z",
+      "archived": false
+    },
     {
       "id": "3b3f714b-032a-8067-95ec-d49b6a2e0337",
       "url": "https://app.notion.com/p/CAW-IT-037-Mo-Stinar-3b3f714b032a806795ecd49b6a2e0337",
@@ -966,14 +992,14 @@
       "buyer": [
         "Wagstaff"
       ],
-      "status": "In review by buyer",
-      "stage": "bp_review",
+      "status": "To be uploaded",
+      "stage": "review",
       "script_start": null,
       "prod_started": null,
       "prod_end": "2026-08-04",
       "bp_submitted": null,
       "due_date": "2026-07-31",
-      "updated_at": "2026-08-04T04:32:00.000Z",
+      "updated_at": "2026-08-06T01:57:00.000Z",
       "archived": false
     },
     {
@@ -992,14 +1018,14 @@
       "buyer": [
         "LCA"
       ],
-      "status": "Video done / To be reviewed",
+      "status": "Revisions in progress",
       "stage": "review",
       "script_start": null,
       "prod_started": null,
       "prod_end": "2026-08-05",
       "bp_submitted": null,
       "due_date": "2026-07-31",
-      "updated_at": "2026-08-05T04:39:00.000Z",
+      "updated_at": "2026-08-06T01:54:00.000Z",
       "archived": false
     },
     {
@@ -1025,7 +1051,7 @@
       "prod_end": "2026-08-04",
       "bp_submitted": null,
       "due_date": "2026-07-31",
-      "updated_at": "2026-08-04T06:56:00.000Z",
+      "updated_at": "2026-08-06T02:55:00.000Z",
       "archived": false
     },
     {
@@ -1363,7 +1389,7 @@
       "prod_end": "2026-07-28",
       "bp_submitted": null,
       "due_date": "2026-07-25",
-      "updated_at": "2026-07-29T08:42:00.000Z",
+      "updated_at": "2026-08-06T02:23:00.000Z",
       "archived": false
     },
     {
