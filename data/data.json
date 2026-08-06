@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-08-06T15:52:32.273829Z",
+  "synced_at": "2026-08-06T17:53:01.770349Z",
   "task_count": 460,
   "tasks": [
     {
@@ -339,7 +339,7 @@
       "prod_end": "2026-08-05",
       "bp_submitted": null,
       "due_date": "2026-08-04",
-      "updated_at": "2026-08-05T21:07:00.000Z",
+      "updated_at": "2026-08-06T17:00:00.000Z",
       "archived": false
     },
     {
@@ -529,7 +529,7 @@
       "prod_end": "2026-08-05",
       "bp_submitted": null,
       "due_date": "2026-08-03",
-      "updated_at": "2026-08-05T20:00:00.000Z",
+      "updated_at": "2026-08-06T17:00:00.000Z",
       "archived": false
     },
     {
@@ -557,7 +557,7 @@
       "prod_end": "2026-08-05",
       "bp_submitted": null,
       "due_date": "2026-08-03",
-      "updated_at": "2026-08-05T20:03:00.000Z",
+      "updated_at": "2026-08-06T17:00:00.000Z",
       "archived": false
     },
     {
@@ -609,7 +609,7 @@
       "prod_end": "2026-08-04",
       "bp_submitted": "2026-08-04",
       "due_date": "2026-07-31",
-      "updated_at": "2026-08-06T15:42:00.000Z",
+      "updated_at": "2026-08-06T17:38:00.000Z",
       "archived": false
     },
     {
@@ -713,7 +713,7 @@
       "prod_end": "2026-08-02",
       "bp_submitted": "2026-08-02",
       "due_date": "2026-08-01",
-      "updated_at": "2026-08-06T15:41:00.000Z",
+      "updated_at": "2026-08-06T17:38:00.000Z",
       "archived": false
     },
     {
@@ -739,7 +739,7 @@
       "prod_end": "2026-08-03",
       "bp_submitted": "2026-08-03",
       "due_date": "2026-08-01",
-      "updated_at": "2026-08-06T15:43:00.000Z",
+      "updated_at": "2026-08-06T17:38:00.000Z",
       "archived": false
     },
     {
@@ -947,7 +947,7 @@
       "prod_end": "2026-08-01",
       "bp_submitted": "2026-07-26",
       "due_date": "2026-07-30",
-      "updated_at": "2026-08-01T12:23:00.000Z",
+      "updated_at": "2026-08-06T17:38:00.000Z",
       "archived": false
     },
     {
@@ -999,7 +999,7 @@
       "prod_end": "2026-08-04",
       "bp_submitted": null,
       "due_date": "2026-07-31",
-      "updated_at": "2026-08-06T01:57:00.000Z",
+      "updated_at": "2026-08-06T17:38:00.000Z",
       "archived": false
     },
     {
@@ -1129,7 +1129,7 @@
       "prod_end": "2026-07-29",
       "bp_submitted": null,
       "due_date": "2026-07-28",
-      "updated_at": "2026-07-31T15:13:00.000Z",
+      "updated_at": "2026-08-06T17:38:00.000Z",
       "archived": false
     },
     {
@@ -1155,7 +1155,7 @@
       "prod_end": "2026-07-29",
       "bp_submitted": null,
       "due_date": "2026-07-28",
-      "updated_at": "2026-08-01T13:46:00.000Z",
+      "updated_at": "2026-08-06T17:38:00.000Z",
       "archived": false
     },
     {
@@ -1181,7 +1181,7 @@
       "prod_end": "2026-07-29",
       "bp_submitted": null,
       "due_date": "2026-07-28",
-      "updated_at": "2026-07-29T22:10:00.000Z",
+      "updated_at": "2026-08-06T17:38:00.000Z",
       "archived": false
     },
     {
@@ -1285,7 +1285,7 @@
       "prod_end": "2026-07-26",
       "bp_submitted": "2026-07-27",
       "due_date": "2026-07-25",
-      "updated_at": "2026-07-29T09:39:00.000Z",
+      "updated_at": "2026-08-06T16:53:00.000Z",
       "archived": false
     },
     {
