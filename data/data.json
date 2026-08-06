@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-08-06T05:47:43.302427Z",
+  "synced_at": "2026-08-06T07:48:44.562892Z",
   "task_count": 460,
   "tasks": [
     {
@@ -200,14 +200,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Start production",
-      "stage": "script",
+      "status": "Working on it",
+      "stage": "production",
       "script_start": "2026-08-04",
-      "prod_started": null,
+      "prod_started": "2026-08-06",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-08-04",
-      "updated_at": "2026-08-04T12:49:00.000Z",
+      "updated_at": "2026-08-06T07:08:00.000Z",
       "archived": false
     },
     {
@@ -442,14 +442,14 @@
         "LCA",
         "Shapiro"
       ],
-      "status": "Start production",
-      "stage": "script",
+      "status": "Working on it",
+      "stage": "production",
       "script_start": "2026-08-03",
-      "prod_started": null,
+      "prod_started": "2026-08-06",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-08-03",
-      "updated_at": "2026-08-05T20:01:00.000Z",
+      "updated_at": "2026-08-06T07:08:00.000Z",
       "archived": false
     },
     {
