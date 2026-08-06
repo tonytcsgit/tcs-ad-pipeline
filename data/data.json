@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-08-06T17:53:01.770349Z",
+  "synced_at": "2026-08-06T19:53:47.867879Z",
   "task_count": 460,
   "tasks": [
     {
@@ -181,7 +181,7 @@
       "prod_end": "2026-08-04",
       "bp_submitted": "2026-08-04",
       "due_date": "2026-08-04",
-      "updated_at": "2026-08-05T20:17:00.000Z",
+      "updated_at": "2026-08-06T18:24:00.000Z",
       "archived": false
     },
     {
@@ -233,7 +233,7 @@
       "prod_end": "2026-08-04",
       "bp_submitted": "2026-08-04",
       "due_date": "2026-08-04",
-      "updated_at": "2026-08-05T20:17:00.000Z",
+      "updated_at": "2026-08-06T18:24:00.000Z",
       "archived": false
     },
     {
@@ -609,7 +609,7 @@
       "prod_end": "2026-08-04",
       "bp_submitted": "2026-08-04",
       "due_date": "2026-07-31",
-      "updated_at": "2026-08-06T17:38:00.000Z",
+      "updated_at": "2026-08-06T18:28:00.000Z",
       "archived": false
     },
     {
@@ -713,7 +713,7 @@
       "prod_end": "2026-08-02",
       "bp_submitted": "2026-08-02",
       "due_date": "2026-08-01",
-      "updated_at": "2026-08-06T17:38:00.000Z",
+      "updated_at": "2026-08-06T18:28:00.000Z",
       "archived": false
     },
     {
@@ -739,7 +739,7 @@
       "prod_end": "2026-08-03",
       "bp_submitted": "2026-08-03",
       "due_date": "2026-08-01",
-      "updated_at": "2026-08-06T17:38:00.000Z",
+      "updated_at": "2026-08-06T18:28:00.000Z",
       "archived": false
     },
     {
@@ -947,7 +947,7 @@
       "prod_end": "2026-08-01",
       "bp_submitted": "2026-07-26",
       "due_date": "2026-07-30",
-      "updated_at": "2026-08-06T17:38:00.000Z",
+      "updated_at": "2026-08-06T18:27:00.000Z",
       "archived": false
     },
     {
@@ -999,7 +999,7 @@
       "prod_end": "2026-08-04",
       "bp_submitted": null,
       "due_date": "2026-07-31",
-      "updated_at": "2026-08-06T17:38:00.000Z",
+      "updated_at": "2026-08-06T18:28:00.000Z",
       "archived": false
     },
     {
@@ -1129,7 +1129,7 @@
       "prod_end": "2026-07-29",
       "bp_submitted": null,
       "due_date": "2026-07-28",
-      "updated_at": "2026-08-06T17:38:00.000Z",
+      "updated_at": "2026-08-06T18:28:00.000Z",
       "archived": false
     },
     {
@@ -1155,7 +1155,7 @@
       "prod_end": "2026-07-29",
       "bp_submitted": null,
       "due_date": "2026-07-28",
-      "updated_at": "2026-08-06T17:38:00.000Z",
+      "updated_at": "2026-08-06T18:28:00.000Z",
       "archived": false
     },
     {
@@ -1181,7 +1181,7 @@
       "prod_end": "2026-07-29",
       "bp_submitted": null,
       "due_date": "2026-07-28",
-      "updated_at": "2026-08-06T17:38:00.000Z",
+      "updated_at": "2026-08-06T18:28:00.000Z",
       "archived": false
     },
     {
@@ -1363,7 +1363,7 @@
       "prod_end": "2026-07-28",
       "bp_submitted": null,
       "due_date": "2026-07-25",
-      "updated_at": "2026-07-30T02:04:00.000Z",
+      "updated_at": "2026-08-06T19:34:00.000Z",
       "archived": false
     },
     {
@@ -2479,7 +2479,7 @@
       "prod_end": "2026-07-28",
       "bp_submitted": "2026-07-29",
       "due_date": "2026-07-16",
-      "updated_at": "2026-08-05T20:17:00.000Z",
+      "updated_at": "2026-08-06T18:24:00.000Z",
       "archived": false
     },
     {
@@ -2791,7 +2791,7 @@
       "prod_end": "2026-07-20",
       "bp_submitted": null,
       "due_date": "2026-07-19",
-      "updated_at": "2026-07-20T20:16:00.000Z",
+      "updated_at": "2026-08-06T19:34:00.000Z",
       "archived": false
     },
     {
@@ -2947,7 +2947,7 @@
       "prod_end": "2026-07-13",
       "bp_submitted": "2026-07-08",
       "due_date": "2026-07-07",
-      "updated_at": "2026-07-13T15:45:00.000Z",
+      "updated_at": "2026-08-06T18:16:00.000Z",
       "archived": false
     },
     {
@@ -2973,7 +2973,7 @@
       "prod_end": "2026-07-13",
       "bp_submitted": "2026-07-08",
       "due_date": "2026-07-05",
-      "updated_at": "2026-07-13T15:45:00.000Z",
+      "updated_at": "2026-08-06T18:16:00.000Z",
       "archived": false
     },
     {
@@ -3025,7 +3025,7 @@
       "prod_end": "2026-07-28",
       "bp_submitted": "2026-07-29",
       "due_date": "2026-07-10",
-      "updated_at": "2026-07-30T02:04:00.000Z",
+      "updated_at": "2026-08-06T19:36:00.000Z",
       "archived": false
     },
     {
@@ -4481,7 +4481,7 @@
       "prod_end": "2026-07-14",
       "bp_submitted": null,
       "due_date": "2026-07-01",
-      "updated_at": "2026-07-14T15:31:00.000Z",
+      "updated_at": "2026-08-06T18:16:00.000Z",
       "archived": false
     },
     {
