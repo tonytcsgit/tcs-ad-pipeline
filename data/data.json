@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-08-06T13:51:32.000254Z",
+  "synced_at": "2026-08-06T15:52:32.273829Z",
   "task_count": 460,
   "tasks": [
     {
@@ -252,14 +252,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "Video done / To be reviewed",
+      "stage": "review",
       "script_start": "2026-08-04",
       "prod_started": "2026-08-04",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-08-04",
-      "updated_at": "2026-08-04T12:22:00.000Z",
+      "updated_at": "2026-08-06T14:12:00.000Z",
       "archived": false
     },
     {
@@ -442,14 +442,14 @@
         "LCA",
         "Shapiro"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "Video done / To be reviewed",
+      "stage": "review",
       "script_start": "2026-08-03",
       "prod_started": "2026-08-06",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-08-03",
-      "updated_at": "2026-08-06T07:08:00.000Z",
+      "updated_at": "2026-08-06T15:00:00.000Z",
       "archived": false
     },
     {
@@ -576,14 +576,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "To be uploaded",
+      "status": "Upload in progress",
       "stage": "review",
       "script_start": "2026-08-02",
       "prod_started": "2026-08-02",
       "prod_end": "2026-08-04",
       "bp_submitted": "2026-08-04",
       "due_date": "2026-08-02",
-      "updated_at": "2026-08-06T13:47:00.000Z",
+      "updated_at": "2026-08-06T14:38:00.000Z",
       "archived": false
     },
     {
@@ -609,7 +609,7 @@
       "prod_end": "2026-08-04",
       "bp_submitted": "2026-08-04",
       "due_date": "2026-07-31",
-      "updated_at": "2026-08-05T02:12:00.000Z",
+      "updated_at": "2026-08-06T15:42:00.000Z",
       "archived": false
     },
     {
@@ -654,14 +654,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "To be uploaded",
+      "status": "Upload in progress",
       "stage": "review",
       "script_start": "2026-08-01",
       "prod_started": null,
       "prod_end": "2026-08-02",
       "bp_submitted": "2026-08-02",
       "due_date": "2026-08-01",
-      "updated_at": "2026-08-06T13:47:00.000Z",
+      "updated_at": "2026-08-06T14:09:00.000Z",
       "archived": false
     },
     {
@@ -680,14 +680,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "To be uploaded",
+      "status": "Upload in progress",
       "stage": "review",
       "script_start": "2026-08-01",
       "prod_started": "2026-08-03",
       "prod_end": "2026-08-04",
       "bp_submitted": "2026-08-04",
       "due_date": "2026-08-01",
-      "updated_at": "2026-08-06T13:47:00.000Z",
+      "updated_at": "2026-08-06T14:09:00.000Z",
       "archived": false
     },
     {
@@ -713,7 +713,7 @@
       "prod_end": "2026-08-02",
       "bp_submitted": "2026-08-02",
       "due_date": "2026-08-01",
-      "updated_at": "2026-08-03T15:19:00.000Z",
+      "updated_at": "2026-08-06T15:41:00.000Z",
       "archived": false
     },
     {
@@ -739,7 +739,7 @@
       "prod_end": "2026-08-03",
       "bp_submitted": "2026-08-03",
       "due_date": "2026-08-01",
-      "updated_at": "2026-08-03T21:16:00.000Z",
+      "updated_at": "2026-08-06T15:43:00.000Z",
       "archived": false
     },
     {
@@ -1460,14 +1460,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "To be uploaded",
+      "status": "Upload in progress",
       "stage": "review",
       "script_start": "2026-07-23",
       "prod_started": null,
       "prod_end": "2026-07-27",
       "bp_submitted": "2026-07-27",
       "due_date": "2026-07-26",
-      "updated_at": "2026-08-06T13:47:00.000Z",
+      "updated_at": "2026-08-06T14:09:00.000Z",
       "archived": false
     },
     {
@@ -1512,14 +1512,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Upload in progress",
-      "stage": "review",
+      "status": "Uploaded",
+      "stage": "done",
       "script_start": null,
       "prod_started": "2026-07-23",
       "prod_end": "2026-07-27",
       "bp_submitted": "2026-07-27",
       "due_date": "2026-07-24",
-      "updated_at": "2026-07-31T06:46:00.000Z",
+      "updated_at": "2026-08-06T14:10:00.000Z",
       "archived": false
     },
     {
@@ -1538,14 +1538,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Upload in progress",
-      "stage": "review",
+      "status": "Uploaded",
+      "stage": "done",
       "script_start": null,
       "prod_started": "2026-07-23",
       "prod_end": "2026-07-28",
       "bp_submitted": "2026-07-28",
       "due_date": "2026-07-24",
-      "updated_at": "2026-07-30T07:29:00.000Z",
+      "updated_at": "2026-08-06T14:10:00.000Z",
       "archived": false
     },
     {
