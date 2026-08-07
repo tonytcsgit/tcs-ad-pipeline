@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-08-07T07:59:26.278194Z",
+  "synced_at": "2026-08-07T10:00:31.353765Z",
   "task_count": 463,
   "tasks": [
     {
@@ -438,14 +438,14 @@
         "LCA",
         "Shapiro"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "Video done / To be reviewed",
+      "stage": "review",
       "script_start": "2026-08-04",
       "prod_started": "2026-08-04",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-08-04",
-      "updated_at": "2026-08-05T20:01:00.000Z",
+      "updated_at": "2026-08-07T08:40:00.000Z",
       "archived": false
     },
     {
@@ -2921,7 +2921,7 @@
       "prod_end": "2026-07-21",
       "bp_submitted": "2026-07-21",
       "due_date": "2026-07-30",
-      "updated_at": "2026-07-31T04:00:00.000Z",
+      "updated_at": "2026-08-07T09:25:00.000Z",
       "archived": false
     },
     {
