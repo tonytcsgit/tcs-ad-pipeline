@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-08-07T14:02:13.253297Z",
+  "synced_at": "2026-08-07T16:03:20.175342Z",
   "task_count": 463,
   "tasks": [
     {
@@ -118,18 +118,18 @@
       "editors": [
         "Morane"
       ],
-      "priority": null,
+      "priority": "High",
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "Visuals in progress",
-      "stage": "production",
+      "status": "To be uploaded",
+      "stage": "review",
       "script_start": "2026-08-05",
       "prod_started": null,
-      "prod_end": null,
+      "prod_end": "2026-08-07",
       "bp_submitted": null,
-      "due_date": null,
-      "updated_at": "2026-08-05T20:58:00.000Z",
+      "due_date": "2026-08-07",
+      "updated_at": "2026-08-07T14:55:00.000Z",
       "archived": false
     },
     {
@@ -148,14 +148,14 @@
       "buyer": [
         "Stinar Lannen"
       ],
-      "status": "To be uploaded",
+      "status": "Upload in progress",
       "stage": "review",
       "script_start": "2026-08-05",
       "prod_started": "2026-08-05",
       "prod_end": "2026-08-07",
       "bp_submitted": null,
-      "due_date": "2026-08-07",
-      "updated_at": "2026-08-07T14:02:00.000Z",
+      "due_date": "2026-08-08",
+      "updated_at": "2026-08-07T14:05:00.000Z",
       "archived": false
     },
     {
@@ -174,14 +174,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Working on it",
-      "stage": "production",
+      "status": "Video done / To be reviewed",
+      "stage": "review",
       "script_start": "2026-08-04",
       "prod_started": "2026-08-06",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-08-06",
-      "updated_at": "2026-08-06T08:45:00.000Z",
+      "updated_at": "2026-08-07T14:32:00.000Z",
       "archived": false
     },
     {
@@ -438,14 +438,14 @@
         "LCA",
         "Shapiro"
       ],
-      "status": "Revisions in progress",
+      "status": "Video done / To be reviewed",
       "stage": "review",
       "script_start": "2026-08-04",
       "prod_started": "2026-08-04",
       "prod_end": "2026-08-07",
       "bp_submitted": null,
       "due_date": "2026-08-04",
-      "updated_at": "2026-08-07T13:19:00.000Z",
+      "updated_at": "2026-08-07T14:55:00.000Z",
       "archived": false
     },
     {
@@ -817,7 +817,7 @@
       "prod_end": "2026-08-03",
       "bp_submitted": "2026-08-03",
       "due_date": "2026-08-07",
-      "updated_at": "2026-08-07T13:10:00.000Z",
+      "updated_at": "2026-08-07T16:01:00.000Z",
       "archived": false
     },
     {
@@ -1024,8 +1024,8 @@
       "prod_started": "2026-07-30",
       "prod_end": "2026-08-01",
       "bp_submitted": "2026-07-26",
-      "due_date": "2026-07-30",
-      "updated_at": "2026-08-07T13:10:00.000Z",
+      "due_date": "2026-08-07",
+      "updated_at": "2026-08-07T14:07:00.000Z",
       "archived": false
     },
     {
@@ -1076,8 +1076,8 @@
       "prod_started": null,
       "prod_end": "2026-08-04",
       "bp_submitted": null,
-      "due_date": "2026-07-31",
-      "updated_at": "2026-08-07T13:10:00.000Z",
+      "due_date": "2026-08-07",
+      "updated_at": "2026-08-07T14:07:00.000Z",
       "archived": false
     },
     {
@@ -1181,7 +1181,7 @@
       "prod_end": "2026-08-03",
       "bp_submitted": "2026-08-01",
       "due_date": "2026-08-07",
-      "updated_at": "2026-08-07T13:45:00.000Z",
+      "updated_at": "2026-08-07T14:23:00.000Z",
       "archived": false
     },
     {
@@ -1206,8 +1206,8 @@
       "prod_started": "2026-07-28",
       "prod_end": "2026-07-29",
       "bp_submitted": null,
-      "due_date": "2026-07-28",
-      "updated_at": "2026-08-07T13:10:00.000Z",
+      "due_date": "2026-08-07",
+      "updated_at": "2026-08-07T14:07:00.000Z",
       "archived": false
     },
     {
@@ -1571,7 +1571,7 @@
       "prod_end": "2026-07-23",
       "bp_submitted": "2026-07-26",
       "due_date": "2026-08-07",
-      "updated_at": "2026-08-05T18:56:00.000Z",
+      "updated_at": "2026-08-07T14:13:00.000Z",
       "archived": false
     },
     {
@@ -7242,14 +7242,14 @@
       "buyer": [
         "LCA"
       ],
-      "status": "Ads fixed - to be uploaded",
+      "status": "Some ads fixed – to be reviewed",
       "stage": "review",
       "script_start": "2026-05-26",
       "prod_started": "2026-05-26",
-      "prod_end": "2026-05-30",
+      "prod_end": "2026-08-07",
       "bp_submitted": null,
       "due_date": "2026-06-01",
-      "updated_at": "2026-08-03T14:49:00.000Z",
+      "updated_at": "2026-08-07T15:14:00.000Z",
       "archived": false
     },
     {
