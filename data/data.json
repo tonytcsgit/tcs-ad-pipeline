@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-08-08T08:07:26.331306Z",
+  "synced_at": "2026-08-08T10:07:38.073358Z",
   "task_count": 464,
   "tasks": [
     {
@@ -18,14 +18,14 @@
       "buyer": [
         "BP"
       ],
-      "status": "Start production",
-      "stage": "script",
+      "status": "Working on it",
+      "stage": "production",
       "script_start": "2026-08-08",
-      "prod_started": null,
+      "prod_started": "2026-08-08",
       "prod_end": null,
       "bp_submitted": null,
       "due_date": "2026-08-08",
-      "updated_at": "2026-08-08T07:48:00.000Z",
+      "updated_at": "2026-08-08T09:51:00.000Z",
       "archived": false
     },
     {
@@ -3129,7 +3129,7 @@
       "prod_end": "2026-07-28",
       "bp_submitted": "2026-07-29",
       "due_date": "2026-08-07",
-      "updated_at": "2026-08-07T12:55:00.000Z",
+      "updated_at": "2026-08-08T09:07:00.000Z",
       "archived": false
     },
     {
