@@ -1,7 +1,33 @@
 {
-  "synced_at": "2026-08-08T00:05:35.486247Z",
-  "task_count": 463,
+  "synced_at": "2026-08-08T08:07:26.331306Z",
+  "task_count": 464,
   "tasks": [
+    {
+      "id": "3b6f714b-032a-80d3-a53b-d76dcd07fdee",
+      "url": "https://app.notion.com/p/DI-6-9-Mo-3b6f714b032a80d3a53bd76dcd07fdee",
+      "name": "DI 6-9 (Mo)",
+      "marketer": "Morane",
+      "tags": [
+        "DI"
+      ],
+      "channel": "META",
+      "editors": [
+        "Ahmed & Team"
+      ],
+      "priority": "High",
+      "buyer": [
+        "BP"
+      ],
+      "status": "Start production",
+      "stage": "script",
+      "script_start": "2026-08-08",
+      "prod_started": null,
+      "prod_end": null,
+      "bp_submitted": null,
+      "due_date": "2026-08-08",
+      "updated_at": "2026-08-08T07:48:00.000Z",
+      "archived": false
+    },
     {
       "id": "3b5f714b-032a-8023-85ca-cf36119eb0cd",
       "url": "https://app.notion.com/p/DI-3-Jor-3b5f714b032a802385cacf36119eb0cd",
@@ -1233,7 +1259,7 @@
       "prod_end": "2026-07-29",
       "bp_submitted": null,
       "due_date": "2026-07-28",
-      "updated_at": "2026-08-07T13:10:00.000Z",
+      "updated_at": "2026-08-08T06:59:00.000Z",
       "archived": false
     },
     {
